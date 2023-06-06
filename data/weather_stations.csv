@@ -1,0 +1,2425 @@
+icao_id,name,state,wban_id,wmo_id,lat,lng,elevation_feet
+PADK,"Adak Island, Adak Airport",AK,25704,70454,51.87778,-176.64583,0.0
+PADQ,"Kodiak, Kodiak Airport",AK,25501,70350,57.75,-152.5,5.0
+PAFM,"Ambler, Ambler Airport",AK,26551,,67.1,-157.85,88.09
+PAGN,Angoon,AK,25310,70383,57.5,-134.58333,8.53
+PAWI,"Wainwright, Wainwright Airport",AK,27503,70030,70.63333,-159.85,12.47
+PAKN,"King Salmon, King Salmon Airport",AK,25503,70326,58.67667,-156.64917,8.41
+PAKP,"Anaktuvuk Pass, Anaktuvuk Pass Airport",AK,26542,,68.13361,-151.74333,640.08
+PAKW,Klawock - Klawock Airport,AK,25367,,55.5839,-133.067,20.83
+PANC,"Anchorage, Ted Stevens Anchorage International Airport",AK,26451,70273,61.17444,-149.99611,37.96
+PANI,"Aniak, Aniak Airport",AK,26516,70232,61.58139,-159.54278,25.91
+PANV,"Anvik, Anvik Airport",AK,26644,,62.64833,-160.18972,26.82
+PAPB,"St. George, St. George Airport",AK,25628,,56.57861,-169.66139,32.0
+PARC,"Arctic Village, Arctic Village Airport",AK,46405,,68.11444,-145.57917,0.0
+PAZK,"Eureka, Skelton Airport",AK,46407,,61.93333,-147.16667,1002.49
+PABV,"Birchwood, Birchwood Airport",AK,26497,,61.41667,-149.51667,29.26
+PABE,"Bethel, Bethel Airport",AK,26615,70219,60.77972,-161.83778,33.01
+PABI,"Delta Junction/Ft Greely, Allen Army Airfield",AK,26415,70267,64.0,-145.73333,388.09
+PABR,Wiley Post-Will Rogers Memorial Airport,AK,27502,70026,71.28528,-156.76583,11.89
+PABA,"Barter Island, Barter Island LRRS Airport",AK,27401,70086,70.13389,-143.57694,0.0
+PABT,"Bettles, Bettles Airport",AK,26533,70174,66.91667,-151.51667,196.53
+PABL,"Buckland, Buckland Airport",AK,26645,,65.98222,-161.15194,9.14
+PACD,"Cold Bay, Cold Bay Airport",AK,25624,70316,55.22083,-162.72778,25.3
+PACV,"Cordova, Merle K (Mudhole) Smith Airport",AK,26410,70296,60.49167,-145.47778,14.67
+PADL,"Dillingham, Dillingham Airport",AK,25513,70321,59.05,-158.51667,26.21
+PADU,"Unalaska, Unalaska Airport",AK,25616,,53.9,-166.53333,3.05
+PAEG,"Eagle, Eagle Airport",AK,26422,,64.77639,-141.15083,277.32
+PAEL,Elfin Cove - Elfin Cove Seaplane Base,AK,25357,,58.19467,-136.34663,6.1
+PAEN,"Kenai, Kenai Municipal Airport",AK,26523,70259,60.57306,-151.245,30.16
+PAEM,"Emmonak, Emmonak Airport",AK,26650,,62.78333,-164.5,4.27
+PANN,Nenana Municipal Airport,AK,26435,70260,64.54796,-149.08398,110.08
+PAFA,"Fairbanks, Fairbanks International Airport",AK,26411,70261,64.80389,-147.87611,133.69
+PFYU,"Fort Yukon, Fort Yukon Airport",AK,26413,70194,66.56667,-145.26667,135.64
+PAGA,"Galena, Edward G. Pitka Sr. Airport",AK,26501,70222,64.73333,-156.93333,0.0
+PAGM,"Gambell, Gambell Airport",AK,26703,,63.76667,-171.73333,8.53
+PAGB,"Galbraith Lake, Galbraith Lake Airport",AK,26465,,68.48333,-149.48333,812.6
+PAGK,"Gulkana, Gulkana Airport",AK,26425,70271,62.15,-145.45,481.07
+PAGS,"Gustavus, Gustavus Airport",AK,25322,70367,58.41667,-135.7,12.19
+PAHN,Haines - Haines Airport,AK,25323,,59.2429,-135.5114,6.36
+PAHO,"Homer, Homer Airport",AK,25507,70341,59.65,-151.48333,19.11
+PAHP,"Hooper Bay, Hooper Bay Airport",AK,26651,,61.51667,-166.13333,5.49
+PAHY,Hydaburg - Hydaburg Seaplane Base,AK,25376,,55.2,-132.83333,0.0
+PAEC,"Chulitna, Chulitna Airport",AK,26641,,62.88333,-149.83333,27.38
+PAIL,"Iliamna, Iliamna Airport",AK,25506,70340,59.75,-154.9,46.4
+PAIN,"McKinley Park, McKinley National Park Airport",AK,46403,,63.73333,-148.91667,524.26
+PAJN,"Juneau, Juneau International Airport",AK,25309,70381,58.35472,-134.57611,5.89
+PAFE,Kake - Kake Airport,AK,25369,,56.964,-133.913,52.43
+PASM,"St. Mary's, St. Mary's Airport",AK,26647,,62.05,-163.3,95.1
+PAKT,"Ketchikan, Ketchikan International Airport",AK,25325,70395,55.35556,-131.71361,25.73
+PALH,"Anchorage, Lake Hood Seaplane Base",AK,26491,,61.18333,-149.96667,25.09
+PAMC,"McGrath, McGrath Airport",AK,26510,70231,62.96667,-155.61667,102.99
+PAMD,Middleton Island Airport,AK,25402,70343,59.4423,-146.3166,0.0
+PAMH,"Minchumina, Minchumina Airport",AK,26512,70246,63.88056,-152.30056,0.0
+PAMO,Mountain Village,AK,26635,,62.0953,-163.6819,0.0
+PAMR,"Anchorage, Merrill Field Airport",AK,26409,70273,61.21667,-149.85,52.09
+PAMY,"Mekoryuk, Mekoryuk Airport",AK,26622,70218,60.36667,-166.26667,13.72
+PAOM,"Nome, Nome Airport",AK,26617,70200,64.51194,-165.445,6.49
+PAOH,Hoonah - Hoonah Seaplane Base,AK,25378,,58.097,-135.414,0.0
+PAOR,"Northway, Northway Airport",AK,26412,70291,62.96111,-141.92889,523.17
+PAOT,Ralph Wien Memorial Airport,AK,26616,70133,66.88576,-162.60624,5.0
+PAAQ,"Palmer, Palmer Municipal Airport",AK,25331,70274,61.6,-149.08333,70.88
+PAPO,"Point Hope, Point Hope Airport",AK,26623,,68.35,-166.8,0.0
+PPIZ,"Point Lay, Point Lay LRRS Airport",AK,26638,70121,69.71667,-163.0,0.0
+PALJ,"Port Alsworth, Port Alsworth Airport",AK,26546,,60.2,-154.31667,79.25
+PAPR,"Prospect Creek, Prospect Creek Airport",AK,26538,,66.81278,-150.64389,0.0
+PAPH,"Port Heiden, Port Heiden Airport",AK,25508,70333,56.95,-158.63333,0.0
+PAPT,Puntilla,AK,26526,70249,62.1,-152.75,566.32
+PASC,"Deadhorse, Deadhorse Airport",AK,27406,,70.2,-148.46667,17.71
+PASD,Sand Point,AK,25617,,55.31667,-160.51667,0.0
+PAGY,Skagway,AK,25335,70362,59.4544,-135.3263,7.36
+PASH,"Shishmaref, Shishmaref Airport",AK,26625,,66.26667,-166.08333,0.0
+PASI,Sitka - Sitka Airport,AK,25333,70371,57.048,-135.3647,6.02
+PASL,Sleetmute,AK,26553,,61.69735,-157.16712,54.25
+PASN,"St. Paul Island, St. Paul Island Airport",AK,25713,70308,57.16667,-170.21667,10.0
+PASA,Savoonga Airport,AK,26704,,63.68333,-170.5,0.0
+PAWD,Seward,AK,26438,,60.11667,-149.45,4.13
+PASX,Soldotna,AK,26559,,60.48333,-151.03333,34.44
+PATA,"Tanana, Calhoun Memorial Airport",AK,26529,70178,65.16667,-152.1,68.7
+PATK,"Talkeetna, Talkeetna Airport",AK,26528,70251,62.32056,-150.09361,106.76
+PATG,"Togiac Village, Togiak Airport",AK,25629,,59.05,-160.4,6.1
+PAKU,"Kuparuk, Ugnu-Kuparuk Airport",AK,27408,,70.31667,-149.58333,0.0
+PAUN,Unalakleet,AK,26627,70207,63.88333,-160.8,5.49
+PAVD,Valdez 2,AK,26479,,61.13333,-146.26667,18.29
+PAWG,Wrangell,AK,25338,70387,56.48333,-132.36667,17.07
+PAWN,"Noatak, Noatak Airport",AK,26648,,67.56667,-162.98333,26.82
+PAYA,Yakutat,AK,25339,70361,59.51667,-139.66667,10.7
+PAPG,Petersburg,AK,25329,70386,56.8017,-132.9453,32.61
+PARY,Ruby,AK,26561,,64.7272,-155.4697,0.0
+PAAK,"Atka, Atka Airport",AK,25715,,52.22028,-174.20639,0.0
+PACZ,"Cape Romanzof, Cape Romanzof LRRS Airport",AK,26633,70212,61.78333,-166.03333,0.0
+PADE,"Deering, Deering/New Airport",AK,26643,,66.08333,-162.75,5.4
+PAED,"Anchorage, Elmendorf Air Force Base",AK,26401,70272,61.25306,-149.79389,0.0
+PAEH,"Cape Newenham, Cape Newenham LRRS Airport",AK,25623,70305,58.65,-162.06667,0.0
+PAEI,"Fairbanks, Eielson Air Force Base",AK,26407,70265,64.65,-147.1,0.0
+PAFB,Fort Wainwright AAF,AK,26498,,64.83667,-147.59556,138.38
+PAFR,"Ft. Richardson / Bryant U. S. Army Heliport, Ak",AK,00489,,61.26667,-149.65,118.26
+PAGL,"Golovin, Golovin Airport",AK,26628,,64.54333,-163.03944,0.0
+PAII,"Egegik, Egegik Airport",AK,25519,,58.18528,-157.38556,28.04
+PAIK,Kinana / Bob Baker Me,AK,00102,,66.98333,-160.43333,51.21
+PAIM,"Utopia Creek, Indian Mountain LRRS Airport",AK,26535,70173,66.0,-153.7,388.92
+PAJC,"Chignik, Chignik Airport",AK,25518,,56.31139,-158.37333,5.49
+PAKK,"Koyuk, Koyuk Airport",AK,26602,,64.93389,-161.15806,0.0
+PAKV,"Kaltag, Kaltag Airport",AK,26502,,64.31667,-158.73333,52.62
+PALP,"Deadhorse, Alpine Airstrip",AK,27517,,70.33333,-150.93333,0.0
+PALU,"Cape Lisburne, Cape Lisburne LRRS Airport",AK,26631,70104,68.88333,-166.1,0.0
+PAMM,"Metlakatla, Metlakatla Seaplane Base",AK,25377,,55.13111,-131.57806,0.0
+PAPM,Platinum,AK,25604,,59.01667,-161.81667,0.0
+PAQT,"Nuiqsut, Nuiqsut Airport",AK,27515,,70.21,-151.00556,11.29
+PASK,Selawik,AK,26558,,66.61667,-160.0,0.0
+PASO,"Seldovia, Seldovia Airport",AK,25516,,59.45,-151.7,8.68
+PASV,Sparrevohn Airways Facilities Sector,AK,26534,70235,61.1,-155.56667,0.0
+PASY,"Shemya, Eareckson AFB",AK,45715,70414,52.71667,174.11667,28.99
+PATC,Tin City Airways Facilities Sector,AK,26634,70117,65.56667,-167.91667,0.0
+PATL,"Takotna, Tatalina LRRS Airport",AK,26536,,62.9,-155.98333,0.0
+PATO,"Portage, Portage Glacier",AK,26492,,60.78333,-148.83333,32.49
+PAVL,"Kivalina, Kivalina Airport",AK,26642,,67.73333,-164.55,5.66
+PAWS,"Wasilla, Wasilla Airport",AK,26443,,61.57194,-149.54056,0.0
+PAHL,"Huslia, Huslia Airport",AK,26552,,65.6975,-156.35111,54.86
+PAKI,"Kipnuk, Kipnuk Airport",AK,00106,,59.93278,-164.03028,5.94
+PACM,Scammon Bay,AK,00108,,61.8453,-165.5713,4.27
+PADM,Marshall,AK,00105,,61.8643,-162.0261,31.09
+PAFS,Nikolai,AK,00104,,63.019,-154.358,126.19
+PAHC,Holy Cross,AK,26521,,62.1873,-159.77657,6.1
+PAIG,Igiugig,AK,25521,,59.32395,-155.90235,0.0
+PAJZ,Koliganek,AK,00112,,59.727,-157.259,82.3
+PALG,Kalskag,AK,26652,,61.5364,-160.3414,0.0
+PAMB,Manokotak,AK,00109,,58.9902,-159.0499,15.85
+PAMK,St Michael Airport,AK,00123,,63.49006,-162.11039,28.04
+PANW,New Stuyahok,AK,00107,,59.45,-157.328,92.05
+PAOU,Nelson Lagoon,AK,00110,,56.008,-161.16,4.27
+PARS,Russian Mission,AK,26654,,61.775,-161.3194,0.0
+PATQ,Atqasuk,AK,27518,,70.4673,-157.4357,0.0
+PADG,Red Dog,AK,26649,,68.0321,-162.8992,0.0
+PFSH,Shaktoolik Airport,AK,00111,,64.3711,-161.224,7.01
+PFNO,Noorvik,AK,00113,,66.8175,-161.0223,17.07
+PAGH,Shungnak Airport,AK,00490,,66.8881,-157.1624,62.79
+PAIW,Wales,AK,00103,,65.6226,-168.0949,7.01
+PATE,Teller,AK,00393,,65.2404,-166.3393,89.0
+PAHX,Shageluk Airport,AK,,,62.6923,-159.5692,23.77
+PFWS,South Naknek Nr 2 Airport,AK,,,58.7021,-157.0026,49.38
+PFCL,Clarks Point Airport,AK,,,58.8337,-158.5294,24.08
+PAQH,Quinhagak Airport,AK,,,59.7551,-161.8454,13.01
+PANA,Napakiak Airport,AK,,,60.6903,-161.9785,5.18
+PFKW,Kwethluk Airport,AK,,,60.7903,-161.4437,7.62
+PPIT,Nunapitchuk Airport,AK,,,60.906,-162.4406,3.05
+PAAD,Point Thomson Airstrip,AK,,,70.136,-146.2901,17.07
+K79J,"Andalusia, Andalusia-Opp Municipal Airport",AL,53843,,31.3,-86.38333,97.53
+KANB,Anniston Metro Airport,AL,13871,,33.59045,-85.84789,181.83
+KAUO,Auburn-Opelika Airport,AL,03892,,32.61667,-85.43333,236.52
+KBFM,"Mobile, Mobile Downtown Airport",AL,13838,,30.61389,-88.06333,4.93
+KBHM,"Birmingham, Birmingham International Airport",AL,13876,72228,33.56556,-86.745,187.67
+KDCU,"Decatur, Pryor Field",AL,53852,,34.65806,-86.94333,179.11
+KDHN,"Dothan, Dothan Regional Airport",AL,13839,,31.32139,-85.44972,112.15
+KEET,"Alabaster, Shelby County Airport",AL,53864,,33.17833,-86.78167,172.51
+KGAD,"Gadsden, Gadsden Municipal Airport",AL,03896,,33.96667,-86.08333,0.0
+KGZH,"Evergreen, Middleton Field",AL,53820,,31.41889,-87.04806,79.14
+KHEY,Hanchey AHP / Ozark,AL,63873,,31.35,-85.66667,0.0
+KHSV,"Huntsville, Huntsville International / Jones Field",AL,03856,72323,34.64361,-86.78556,189.97
+KLOR,"Fort Rucker, Lowe Army Heliport",AL,53861,,31.35889,-85.74833,74.37
+KMDQ,"Huntsville, Madison County Executive Airport",AL,63804,,34.86139,-86.55722,230.12
+KMGM,"Montgomery, Dannelly Field",AL,13895,72226,32.30028,-86.40611,66.18
+KMOB,"Mobile, Mobile Regional Airport",AL,13894,72223,30.68833,-88.24556,65.49
+KMSL,"Muscle Shoals, North West Alabama Regional Airport",AL,13896,,34.74389,-87.59944,165.77
+KMXF,Maxwell Air Force Base / Montgomery,AL,13821,,32.38333,-86.36667,0.0
+KOZR,Cairns Army Air Field / Ozark,AL,03850,,31.27672,-85.71099,0.0
+KSXS,SCHELL AHP,AL,,,31.35,-85.85,121.92
+KTCL,Tuscaloosa Regional Airport,AL,93806,,33.21215,-87.61554,45.25
+KTOI,"Troy, Troy Municipal Airport",AL,03878,,31.86056,-86.01222,118.55
+KCMD,Cullman Regional Folsom Field,AL,00440,,34.2687,-86.858,295.66
+K4A9,"Fort Payne, Isbell Field Airport",AL,63847,,34.47361,-85.72139,267.31
+KALX,"Alexander City, Thomas C Russell Field Airport",AL,63833,,32.91472,-85.96278,209.09
+KSEM,Craig Field / Selma,AL,13850,,32.35,-86.98333,50.6
+K1M4,"Haleyville, Posey Field Airport",AL,00138,,34.28028,-87.60028,284.07
+K8A0,"Albertville, Albertville Municipal Airport",AL,63880,,34.22889,-86.25556,0.0
+KHUA,Redstone Airfield,AL,63883,,34.6786,-86.6847,0.0
+KJKA,Jack Edwards Airport,AL,63885,,30.2896,-87.6718,0.0
+KPRN,Mac Crenshaw Memorial Airport,AL,63874,,31.8457,-86.6107,134.85
+KCQF,Sonny Callahan Airport,AL,00186,,30.461,-87.877,28.04
+KEUF,Eufaula Municipal Airport,AL,63872,,31.951,-85.129,86.83
+K4A6,Scottsboro Municipal Airport,AL,00284,,34.68871,-86.00593,198.12
+KJFX,Jasper Walker County Airport & Bevill Field,AL,00156,,33.902,-87.31417,147.22
+KDYA,Demopolis Municipal Airport,AL,00445,,32.4638,-87.9541,34.14
+K1A9,Prattville - Grouby Field,AL,,,32.4387,-86.5127,68.58
+KASN,Talladega Municipal Airport,AL,,,33.5695,-86.0512,160.93
+KEDN,Enterprise Municipal Airport,AL,,,31.2982,-85.9048,110.95
+KSCD,Merkel Field Sylacauga Municipal Airport,AL,,,33.1718,-86.3055,173.43
+KPLR,St Clair County Airport,AL,,,33.5588,-86.2491,147.83
+KEKY,Bessemer Airport,AL,53816,,33.3126,-86.9263,0.0
+KARG,Walnut Ridge Regional Airport,AR,93991,,36.12562,-90.92148,0.0
+KASG,Springdale Municipal,AR,03973,,36.18333,-94.11667,0.0
+KAWM,"West Memphis, West Memphis Municipal Airport",AR,53959,,35.13333,-90.23333,63.74
+KBPK,Baxter County Airport,AR,53918,,36.37056,-92.47194,281.07
+KBVX,"Batesville, Batesville Regional Airport",AR,53934,,35.73333,-91.65,141.12
+KBYH,Eaker Air Force Base,AR,13814,,35.96667,-89.95,0.0
+KCDH,Camden / Harrell Field,AR,00373,,33.61667,-92.76667,40.23
+KDEQ,"De Queen, J Lynn Helms Sevier County Airport",AR,53925,,34.04694,-94.39944,106.55
+KELD,South Arkansas Regional Airport,AR,93992,,33.22075,-92.814,78.03
+KFLP,"Flippin, Marion County Regional Airport",AR,03918,,36.3,-92.58333,0.0
+KFSM,Fort Smith Regional Airport,AR,13964,72344,35.3335,-94.36524,136.66
+KFYV,"Fayetteville, Drake Field",AR,93993,,36.01028,-94.16778,377.11
+KHKA,"Blytheville, Blytheville Municipal Airport",AR,53869,,35.93889,-89.8325,77.6
+KHOT,"Hot Springs, Memorial Field Airport",AR,03962,,34.47806,-93.09611,153.98
+KHRO,"Harrison, Boone County Airport",AR,13971,72345,36.26167,-93.15472,418.01
+KJBR,"Jonesboro, Jonesboro Municipal Airport",AR,03953,,35.83722,-90.64306,78.88
+KLIT,"Little Rock, Adams Field",AR,13963,,34.72667,-92.23611,76.4
+KLLQ,"Monticello, Monticello Municipal Airport/Ellis Field",AR,53919,,33.63833,-91.75111,84.97
+KLRF,Little Rock Air Force Base,AR,03930,,34.91667,-92.15,0.0
+KORK,North Little Rock Municipal Airport,AR,,,34.83314,-92.25414,166.24
+KMWT,Mount Ida,AR,53921,,34.55,-93.58333,213.97
+KPBF,"Pine Bluff, Grider Field Airport",AR,93988,,34.175,-91.93472,62.08
+KROG,Rogers - Rogers Executive Airport - Carter Field,AR,53954,,36.36667,-94.1,412.39
+KRUE,Russelville Municipal Airport,AR,53920,,35.25737,-93.09494,115.66
+KSGT,"Stuttgart, Stuttgart Municipal Airport",AR,13925,,34.6,-91.56667,0.0
+KSLG,"Siloam Springs, Smith Field Airport",AR,53955,,36.2,-94.48333,363.63
+KSRC,Searcy Municipal Airport,AR,53985,,35.21349,-91.73928,80.47
+KTXK,"Texarkana, Texarkana Regional-Webb Field",AR,13977,,33.45611,-93.9875,115.79
+KVBT,"Bentonville, Bentonville Municipal Airport/Louise M Thaden Field",AR,03978,,36.35,-94.21667,0.0
+KXNA,Northwest Arkansas Regional Airport,AR,53922,,36.28977,-94.31145,389.57
+KMEZ,"Mena, Mena Intermountain Municipal Airport",AR,53996,,34.54528,-94.2025,0.0
+KM19,"Newport, Newport Municipal Airport",AR,13917,,35.6375,-91.17611,0.0
+KCCA,Clinton Memorial Airfield,AR,00133,,35.598,-92.4516,157.28
+K4M9,Corning Municipal Airport,AR,00234,,36.404,-90.648,89.0
+KADF,Dexter B Florence Memorial Field,AR,00428,,34.0998,-93.0661,55.78
+KCXW,Conway - Cantrell Field,AR,,,35.0199,-92.5551,84.12
+KSUZ,Saline County Regional Airport,AR,,,34.59039,-92.47944,118.69
+KCGZ,"Casa Grande, Casa Grande Municipal Airport",AZ,03914,,32.95,-111.76667,0.0
+KDMA,Davis-Monthan Air Force Base,AZ,23109,,32.16667,-110.88333,0.0
+KDUG,Bisbee Douglas International Airport,AZ,93026,72272,31.45838,-109.60676,1251.2
+KDVT,"Phoenix, Phoenix-Deer Valley Municipal Airport",AZ,03184,,33.69026,-112.06618,453.39
+KFFZ,Mesa / Falcon Field,AZ,03185,,33.46667,-111.73333,423.33
+KFHU,"Fort Huachuca, Libby AAF Ft Huachuca",AZ,03124,72273,31.58333,-110.33333,0.0
+KFLG,Flagstaff Pulliam Airport,AZ,03103,72375,35.14433,-111.66637,2133.27
+KGXF,Gila Bend Air Force Auxiliary Field,AZ,43109,,32.8875,-112.72,269.14
+KGCN,Grand Canyon National Park Airport,AZ,03195,,35.94582,-112.15538,1993.27
+KGEU,"Glendale, Glendale Municipal Airport",AZ,53126,,33.52722,-112.29528,324.92
+KGYR,Goodyear Municipal,AZ,03186,,33.41667,-112.38333,0.0
+KIFP,"Bullhead City, Laughlin/Bullhead International Airport",AZ,53135,,35.1575,-114.55944,211.84
+KIGM,"Kingman, Kingman Airport",AZ,93167,72370,35.25778,-113.93306,1043.47
+KINW,"Winslow, Winslow Municipal Airport",AZ,23194,72374,35.02806,-110.72083,1489.22
+KIWA,Phoenix-Mesa Gateway Airport,AZ,23104,,33.31667,-111.65,0.0
+KLUF,Luke Air Force Base / Phoenix,AZ,23111,,33.53333,-112.38333,0.0
+KNYL,"Yuma, Marine Corps Air Station",AZ,03145,,32.65944,-114.59306,0.0
+KOLS,"Nogales, Nogales International Airport",AZ,03196,,31.42083,-110.84583,1193.01
+KPGA,"Page, Page Municipal Airport",AZ,03162,72371,36.92056,-111.44806,1307.0
+KPHX,"Phoenix, Phoenix Sky Harbor International Airport",AZ,23183,72278,33.427799,-112.003465,339.16
+KPRC,"Prescott, Love Field",AZ,23184,,34.64917,-112.42222,1527.82
+KRQE,"Window Rock, Window Rock Airport",AZ,03029,,35.65,-109.06667,2055.16
+KSAD,"Safford, Safford Municipal Airport",AZ,93084,,32.85722,-109.63556,967.81
+KSDL,Scottsdale Airport,AZ,03192,,33.61235,-111.92316,436.06
+KSJN,"St. Johns, St. Johns Industrial Airpark",AZ,93027,,34.51833,-109.37917,1745.59
+KSOW,"Show Low, Show Low Regional Airport",AZ,03101,,34.26528,-110.00556,1954.07
+KTUS,"Tucson, Tucson International Airport",AZ,23160,72274,32.13153,-110.95635,751.39
+KAZC,"Colorado City, Colorado City Municipal Airport",AZ,53129,,36.95,-113.0,1485.6
+KCHD,"Chandler, Chandler Municipal Airport",AZ,53128,,33.26917,-111.81111,378.87
+KSEZ,Sedona Airport,AZ,00375,,34.85,-111.78333,1471.27
+KPAN,Payson Airport,AZ,00374,,34.2568364,-111.3392558,1572.16
+KCMR,Williams/Clark Memorial Airport,AZ,00221,,35.3054722,-112.1943889,2035.15
+KBXK,Buckeye Municipal Airport,AZ,00226,,33.4204,-112.6862,311.2
+KALK,Pioneer Airfield,AZ,53146,,31.60564,-110.4281,1445.43
+KRYN,Tucson Ryan Field Airport,AZ,00121,,32.1422,-111.1746,737.01
+KP08,Coolidge Municipal Airport,AZ,,,32.9359,-111.4265,479.76
+KAVQ,Tucson Marana Regional Airport,AZ,,,32.4096,-111.2184,619.05
+KJTC,Springerville Municipal Airport,AZ,,,34.1294,-109.3109,2150.42
+KA39,Ak-Chin Regional Airport,AZ,,,32.99,-111.91833,396.24
+KNOZ,Yuma Auxiliary Airfield,AZ,,,32.5,-114.45,103.02
+KLGF,Laguna Army Airfield,AZ,,,32.86459,-114.39298,128.63
+KTYL,Taylor Airport,AZ,,,34.45272,-110.11503,1773.94
+KMZJ,Pinal Airpark,AZ,,,32.50983,-111.32533,576.68
+KAAT,Alturas,CA,94299,,41.48362,-120.5615,1335.88
+KACV,"Arcata / Eureka, Arcata Airport",CA,24283,,40.97806,-124.10861,64.46
+KAPC,"Napa, Napa County Airport",CA,93227,,38.2075,-122.27944,4.74
+KBAB,"Marysville, Beale Air Force Base",CA,93216,,39.13333,-121.43333,0.0
+KBFL,"Bakersfield, Meadows Field Airport",CA,23155,72384,35.43361,-119.05667,149.3
+KBIH,"Bishop, Bishop Airport",CA,23157,72480,37.37111,-118.35806,1252.85
+KBLH,"Blythe, Blythe Airport",CA,23158,,33.61917,-114.71694,120.37
+KBLU,"Emigrant Gap, Blue Canyon Nyack Airport",CA,23225,,39.27611,-120.70806,1611.21
+KBUR,Burbank - Bob Hope Airport,CA,23152,72288,34.19967,-118.36538,222.73
+KBYS,"Fort Irwin/Barstow, Bicycle Lake Army Airfield",CA,03182,74611,35.28333,-116.61667,0.0
+KCCR,"Concord, Buchanan Field",CA,23254,72495,37.99167,-122.05194,7.02
+KCEC,"Crescent City, Jack McNamara Field Airport",CA,24286,,41.78028,-124.23667,17.02
+KCIC,Chico Municipal Airport,CA,93203,,39.79879,-121.85795,82.91
+KCMA,"Camarillo, Camarillo Airport",CA,23136,,34.21667,-119.08333,21.6
+KCNO,"Chino, Chino Airport",CA,03179,,33.97556,-117.62361,193.94
+KCQT,Los Angeles / USC Campus Downtown,CA,93134,,34.02355,-118.29122,54.56
+KCRQ,"Carlsbad, McClellan-Palomar Airport",CA,03177,,33.13,-117.27583,95.29
+KDAG,"Daggett, Barstow-Daggett Airport",CA,23161,,34.85361,-116.78667,584.79
+KEDW,Edwards Air Force Base,CA,03197,72381,34.918,-117.879,705.0
+KEED,"Needles, Needles Airport",CA,23179,,34.76611,-114.62333,270.6
+KEMT,El Monte,CA,03165,74704,34.08333,-118.03333,0.0
+KFAT,"Fresno, Fresno Air Terminal",CA,93193,72389,36.78,-119.71944,101.89
+KFUL,"Fullerton, Fullerton Municipal Airport",CA,03166,,33.87194,-117.98472,26.3
+KHHR,"Hawthorne, Hawthorne Municipal Airport",CA,03167,,33.92361,-118.33194,16.64
+KHJO,Hanford Municipal Airport,CA,53119,,36.31145,-119.62315,75.96
+KHWD,"Hayward, Hayward Air Terminal",CA,93228,72585,37.66083,-122.11833,9.58
+KIPL,"Imperial, Imperial County Airport",CA,03144,,32.83417,-115.57861,-16.77
+KLAX,"Los Angeles, Los Angeles International Airport",CA,23174,72295,33.93806,-118.38889,29.7
+KLGB,"Long Beach, Long Beach Airport",CA,23129,72297,33.81167,-118.14639,10.22
+KLVK,"Livermore, Livermore Municipal Airport",CA,23285,,37.69278,-121.81444,119.75
+KMAE,Madera Municipal Airport,CA,93242,,36.9851,-120.11064,76.6
+KMCC,"Sacramento, McClellan Airfield Airport",CA,23208,,38.66667,-121.4,0.0
+KMCE,Merced Regional Airport,CA,23257,,37.28306,-120.50778,46.47
+KMER,Merced / Castle Air Force Base,CA,23203,72481,37.36667,-120.56667,0.0
+KMHR,Sacramento Mather Airport,CA,23206,,38.55996,-121.28397,0.0
+KMHS,Mount Shasta,CA,24215,,41.31494,-122.31702,1082.98
+KMHV,Mojave,CA,03183,,35.06667,-118.15,849.48
+KMMH,Mammoth Yosemite Airport,CA,03181,,37.6241,-118.8423,0.0
+KMOD,Modesto City-County Airport - Harry Sham Field,CA,23258,,37.62549,-120.9549,26.55
+KMRY,Monterey Regional Airport,CA,23259,,36.59047,-121.84875,48.77
+KMYF,"San Diego, Montgomery Field",CA,03131,,32.81444,-117.13639,127.47
+KMYV,"Marysville, Yuba County Airport",CA,93205,,39.09778,-121.56972,18.89
+KNFG,"Oceanside, Camp Pendleton, Marine Corps Air Station",CA,03154,,33.30472,-117.35389,21.35
+KNID,"China Lake, Naval Air Facility",CA,93104,74612,35.68639,-117.69,696.01
+KNJK,"El Centro, Naval Air Facility",CA,23199,72281,32.825,-115.66056,-14.08
+KNKX,"San Diego, Miramar MCAS/Mitscher Field Airport",CA,03190,72293,32.86833,-117.1425,133.5
+KNLC,Lemoore Naval Air Station - Reeves Field,CA,23110,74702,36.30244,-119.93968,0.0
+KNRS,Imperial Beach Naval Outlying Field - Ream Field,CA,93115,,32.56302,-117.11091,7.17
+KNSI,San Nicolas Island Naval Outlying Field,CA,93116,72291,33.23379,-119.45588,161.27
+KNTD,"Point Mugu, Naval Air Warfare Center",CA,93111,72391,34.12389,-119.12167,3.76
+KNUC,San Clemente Island NALF,CA,93117,,33.0218,-118.58266,55.47
+KNUQ,"Mountain View, Moffett Field",CA,23244,74509,37.40583,-122.04806,11.89
+KNXP,Twentynine Palms SELF Airport,CA,93121,,34.29401,-116.14717,610.54
+KNZY,"San Diego, North Island, Naval Air Station",CA,93112,,32.69083,-117.20889,4.36
+KOAK,"Oakland, Metro Oakland International Airport",CA,23230,72493,37.7178,-122.23294,2.5
+KOAR,FORT ORD/FRITZSCHE,CA,93217,,36.68,-121.77,0.0
+KOKB,"Oceanside, Oceanside Municipal Airport",CA,53121,,33.21806,-117.35139,9.11
+KONT,Ontario International Airport,CA,03102,,34.05316,-117.57685,281.62
+KOVE,Oroville Municipal Airport,CA,93210,,39.49436,-121.62223,56.86
+KOXR,"Oxnard, Oxnard Airport",CA,93110,,34.20056,-119.20306,11.93
+KPAO,Palo Alto Airport,CA,23289,,37.46667,-122.11667,0.0
+KPMD,"Palmdale, Palmdale Production Flight Plant",CA,23182,72382,34.62972,-118.08139,764.75
+KPOC,Brackett Field Airport,CA,03180,,34.09282,-117.77937,0.0
+KPRB,Paso Robles Municipal Airport,CA,93209,,35.66941,-120.62912,249.83
+KPSP,Palm Springs Regional Airport,CA,93138,,33.82219,-116.50431,124.72
+KPTV,"Porterville, Porterville Municipal Airport",CA,23149,,36.03333,-119.06667,0.0
+KRAL,Riverside Municipal Airport,CA,03171,,33.95189,-117.44511,257.68
+KRBL,"Red Bluff, Red Bluff Municipal Airport",CA,24216,72591,40.15056,-122.25222,108.05
+KRDD,Redding Municipal Airport,CA,24257,72592,40.51461,-122.2977,152.63
+KRHV,San Jose / Reid / Hillv,CA,93232,,37.33333,-121.81667,0.0
+KRIV,March Air Reserve Base,CA,23119,72286,33.88194,-117.25902,0.0
+KRNM,"Ramona, Ramona Airport",CA,53120,,33.0375,-116.91583,422.0
+KSAC,Sacramento Executive Airport,CA,23232,72483,38.50674,-121.49597,5.89
+KSAN,San Diego International Airport,CA,23188,72290,32.73361,-117.18306,4.57
+KSBA,"Santa Barbara, Santa Barbara Municipal Airport",CA,23190,72392,34.42611,-119.84361,2.48
+KSBD,San Bernardino Intl. Airport,CA,23122,,34.09027,-117.24705,0.0
+KSBP,"San Luis Obispo, San Luis Obispo County-Mc Chesney Field",CA,93206,,35.23611,-120.63611,55.76
+KSCK,"Stockton, Stockton Metropolitan Airport",CA,23237,72492,37.88972,-121.22361,8.26
+KSDB,Sandberg,CA,23187,72383,34.74361,-118.72444,1374.65
+KSDM,"San Diego, Brown Field Municipal Airport",CA,03178,,32.57528,-116.99306,158.9
+KSEE,Gillespie Field Airport,CA,03172,,32.82738,-116.97369,123.44
+KSFO,"San Francisco, San Francisco International Airport",CA,23234,72494,37.61961,-122.36558,3.16
+KSIY,Montague Siskiyou County Airport,CA,24259,,41.77375,-122.46817,806.08
+KSJC,"San Jose, San Jose International Airport",CA,23293,,37.35917,-121.92417,14.98
+KSLI,Los Alamitos Army Airfield,CA,53141,,33.79628,-118.04179,0.0
+KSMF,Sacramento International Airport,CA,93225,,38.70071,-121.59479,7.46
+KSMO,"Santa Monica, Santa Monica Municipal Airport",CA,93197,,34.01583,-118.45139,53.29
+KSMX,Santa Maria Public Airport/Capt G Allan Hancock Field,CA,23273,72394,34.89408,-120.45212,74.15
+KSNA,John Wayne-Orange County Airport,CA,93184,,33.6798,-117.8674,12.95
+KSNS,"Salinas, Salinas Municipal Airport",CA,23233,72593,36.66361,-121.60806,22.32
+KSQL,San Carlos Airport,CA,93231,,37.51667,-122.25,0.0
+KSTS,"Santa Rosa, Santa Rosa Sonoma County Airport",CA,23213,,38.5,-122.81667,36.24
+KSUU,Fairfield / Travis Air Force Base,CA,23202,74516,38.26667,-121.95,0.0
+KSVE,Susanville Municipal Airport,CA,24258,,40.37569,-120.57269,1264.62
+KTOA,"Torrance, Zamperini Field Airport",CA,03174,,33.8,-118.33333,29.57
+KTRK,Truckee-Tahoe,CA,93201,72584,39.31667,-120.13333,0.0
+KTRM,"Palm Springs, Jacqueline Cochran Regional Airport",CA,03104,,33.62667,-116.15944,-36.03
+KTVL,"South Lake Tahoe, Lake Tahoe Airport",CA,93230,,38.89836,-119.99615,1907.02
+KUKI,Ukiah Municipal Airport,CA,23275,,39.12783,-123.20011,183.67
+KVBG,"Lompoc, Vandenberg Air Force Base",CA,93215,72393,34.72944,-120.57667,121.01
+KVCB,Vacaville Nut Tree Airport,CA,93241,,38.37755,-121.95853,31.73
+KVIS,"Visalia, Visalia Municipal Airport",CA,93144,,36.31667,-119.4,0.0
+KVNY,"Van Nuys, Van Nuys Airport",CA,23130,,34.2125,-118.49083,239.19
+KWJF,General Wm J Fox Airfield,CA,03159,,34.74123,-118.21251,712.63
+KWVI,"Watsonville, Watsonville Municipal Airport",CA,23277,,36.93944,-121.78889,49.49
+KAUN,Auburn Municipal Airport,CA,23224,,38.95535,-121.08636,466.65
+KAVX,Avalon Catalina Airport,CA,23191,72292,33.40421,-118.41456,476.98
+KFCH,Fresno Chandler Executive Airport,CA,23167,,36.73096,-119.81465,84.12
+KIZA,"Santa Ynez, Santa Ynez Airport",CA,93244,,34.60694,-120.07556,204.52
+KVCV,"Victorville, Southern California Logistics Airport",CA,23131,,34.59722,-117.38278,0.0
+KWHP,"Los Angeles, Whiteman Airport",CA,53130,,34.25,-118.4,305.71
+K9L2,Edwards Air Force Auxiliary North Base,CA,53144,,34.99083,-117.86317,695.86
+KJAQ,Westover Field - Amador County Airport,CA,,,38.3768,-120.79391,516.33
+KAJO,Corona Airport,CA,53175,,33.8977,-117.6024,162.46
+KL35,Big Bear City Airport,CA,00115,,34.2638,-116.856,2057.1
+KDVO,Novato / Gnoss Field,CA,00135,,38.14178,-122.55463,1.22
+KCVH,"Hollister, CA",CA,00392,,36.8933,-121.4103,72.24
+KHAF,Half Moon Bay Airport,CA,00228,,37.5136,-122.4996,20.12
+KTSP,Tehachapi Municipal Airport,CA,00479,,35.135,-118.4392,1219.5
+KNXF,Mcolf Camp Pendleton (Red Beach),CA,00369,,33.2856,-117.4565,27.13
+KEDU,University Airport,CA,00174,,38.5315,-121.7865,21.03
+KPVF,Placerville Airport,CA,00227,,38.7242,-120.7533,787.3
+KLHM,Lincoln Regional Karl Harder Field,CA,00205,,38.9092,-121.3513,37.19
+KO22,COLUMBIA,CA,00206,,38.03,-120.42,646.18
+KO69,Petaluma Municipal Airport,CA,00320,,38.2578,-122.6053,27.13
+KE16,South County Airport of Santa Clara County,CA,00395,,37.0815861,-121.5968056,86.26
+KFOT,Fortuna Rohnerville Airport,CA,00396,,40.55296,-124.13338,119.18
+KGOO,Nevada County Air Park,CA,00397,,39.224028,-121.003083,961.03
+KO86,Trinity Center,CA,00346,,40.98452,-122.69342,728.17
+KBAN,MCMWTC BRIDGEPORT,CA,00433,,38.3557,-119.5188,2057.1
+KF70,Murrieta/Temecula French Valley,CA,,,33.5742,-117.1285,411.48
+KL18,Fallbrook Community Airpark,CA,,,33.3542,-117.2509,215.8
+KGXA,Gray Butte Field Airport,CA,,,34.5666,-117.6704,920.5
+KCPU,San Andreas Calaveras County Airport,CA,,,38.1461,-120.6482,403.86
+KL52,Oceano County Airport,CA,,,35.10147,-120.62236,4.27
+KC83,Byron,CA,,,37.8276,-121.6244,23.16
+KO32,Reedley Municipal Airport,CA,,,36.671,-119.45103,116.74
+KL08,Borrego Valley Airport,CA,,,33.25903,-116.32097,158.5
+KCCB,Cable Airport,CA,,,34.11161,-117.68739,438.61
+KDLO,Delano Municipal Airport,CA,,,35.74556,-119.2365,95.71
+KTCY,Tracy Municipal Airport,CA,,,37.6889,-121.44158,58.83
+KHMT,Hemet-Ryan Airport,CA,,,33.73403,-117.02231,460.86
+KAFF,Air Force Academy,CO,93065,74531,38.96667,-104.81667,0.0
+KAKO,Colorado Plains Regional Airport,CO,24015,,40.17428,-103.21459,1427.99
+KALS,San Luis Valley Regional Airport,CO,23061,72462,37.43933,-105.8618,2297.36
+KAPA,Denver - Centennial Airport,CO,93067,,39.55991,-104.84841,1789.17
+KASE,Aspen-Pitkin County Airport,CO,93073,,39.22992,-106.87051,2339.91
+KBJC,Broomfield / Jeffco,CO,03065,,39.90085,-105.10417,1705.36
+KBKF,Buckley Space Force Base,CO,23036,,39.71331,-104.75806,0.0
+KCAG,Craig-Moffat Airport,CO,24046,72570,40.49297,-107.52394,1884.93
+KCEZ,Cortez-Montezuma County Airport,CO,93069,,37.30706,-108.62644,1799.24
+KCOS,City of Colorado Springs Municipal Airport,CO,93037,72466,38.80949,-104.68873,1884.16
+KDEN,"Denver, Denver International Airport",CO,03017,72565,39.84658,-104.65622,1647.22
+KDRO,Durango-La Plata County Airport,CO,93005,,37.14312,-107.76023,2020.58
+KEEO,Meeker Airport,CO,94050,,40.0444,-107.88832,1940.77
+KEGE,Eagle County Regional,CO,23063,,39.65,-106.91667,1980.29
+KFCS,Butts Army Airfield (Fort Carson),CO,94015,72468,38.68312,-104.75977,0.0
+KFNL,Fort Collins/Loveland - Northern Colorado Regional Airport,CO,94035,,40.45,-105.01667,0.0
+KGJT,Grand Junction Regional Airport,CO,23066,72476,39.13389,-108.53861,1474.01
+KGUC,"Gunnison, Gunnison-Crested Butte Regional Airport",CO,93007,,38.53333,-106.93333,2336.6
+KGXY,"Greeley, Greeley-Weld County Airport",CO,24051,,40.43333,-104.63333,0.0
+KHDN,"Hayden, Yampa Valley Airport",CO,94025,,40.48333,-107.21667,2011.68
+KITR,Burlington - Carson County Airport,CO,03026,,39.24149,-102.2819,1278.22
+KLAA,Lamar Municipal Airport,CO,03013,,38.07178,-102.68745,1123.99
+KLHX,La Junta Municipal Airport,CO,23067,,38.04949,-103.51334,1278.68
+KLIC,Limon Municipal Airport,CO,93010,74532,39.27334,-103.66738,1633.05
+KLXV,"Leadville, Lake County Airport",CO,93009,,39.22806,-106.31611,3030.56
+KMTJ,"Montrose, Montrose Regional Airport",CO,93013,,38.505,-107.8975,1739.49
+KPUB,Pueblo Memorial Airport,CO,93058,72464,38.28869,-104.5057,1424.49
+KRIL,Garfield County Regional Airport,CO,03016,,39.52793,-107.71961,1684.0
+KSBS,Steamboat Springs,CO,94033,,40.5153,-106.86767,2096.72
+KSPD,"Springfield, Comanche National Grassland",CO,03028,,37.28333,-102.61667,1337.01
+KTAD,Perry Stokes Airport,CO,23070,,37.26218,-104.33184,1749.25
+KTEX,"Telluride, Telluride Regional Airport",CO,03011,,37.95389,-107.90861,2770.94
+KMYP,Salida - Monarch Pass,CO,03041,,38.4972,-106.3197,3667.05
+KCCU,Copper Mountain - Red Cliff Pass,CO,03038,,39.47523,-106.15228,3680.16
+KCPW,"Pagosa Springs, Wolf Creek Pass",CO,03039,,37.45139,-106.80028,3593.9
+KMNH,Elbert Mountain - Monument Pass,CO,03040,,39.22317,-104.64226,2151.89
+KVTP,"La Veta Mountain, La Veta Pass",CO,03042,,37.50111,-105.16694,3114.14
+K04V,"Saguache, Saguache Municipal Airport",CO,03069,,38.09722,-106.16861,0.0
+K20V,"Kremmling, Mc Elroy Airfield",CO,94076,,40.05361,-106.36889,2258.87
+K4BM,Wilkerson Pass,CO,00422,,39.05028,-105.51444,3438.14
+K5SM,Sunlight,CO,00424,,39.42556,-107.37917,3232.1
+K7BM,Cottonwood Pass,CO,00385,,38.7825,-106.21806,2995.27
+K0CO,Berthoud Pass,CO,00419,,39.79453,-105.76393,4113.28
+K4V0,Rangely Airport,CO,,,40.09397,-108.76306,1607.82
+KABH,ELLICOTT-B AFA,CO,53027,,38.7578,-104.3013,1846.48
+KPSO,"Stevens Field, Pagosa Springs",CO,00165,,37.2862,-107.056,2335.07
+KEIK,Erie Municipal Airport,CO,00161,,40.01169,-105.05033,1564.23
+K1V6,Fremont County Airport,CO,,,38.42856,-105.10685,1657.81
+K33V,Walden-Jackson County Airport,CO,00157,,40.7454,-106.2754,2486.25
+KBDU,Boulder Municipal Airport,CO,00160,,40.0394297,-105.2258217,1612.09
+KFLY,Meadow Lake Airport,CO,00280,,38.94391,-104.5684,2095.2
+K2V5,Wray Municipal Airport,CO,00319,,40.09929,-102.24308,1121.05
+KANK,Harriet Alexander Field Airport,CO,00159,,38.53828,-106.04864,2294.23
+KAEJ,Central Colorado Regional Airport,CO,03064,,38.81416,-106.12069,0.0
+KLMO,Vance Brand Airport,CO,00164,,40.16115,-105.16042,1541.07
+KHEQ,Holyoke Airport,CO,00163,,40.57155,-102.27676,1137.21
+KSTK,Sterling Municipal Airport,CO,00168,,40.61331,-103.26109,1231.09
+KAJZ,Delta/Blake Field Airport,CO,00158,,38.78688,-108.06584,1583.13
+KFMM,Fort Morgan Municipal Airport,CO,00162,,40.33148,-103.80704,1393.24
+KCWN,Cheyenne Mountain,CO,,,38.74343,-104.84334,2114.0
+K4V1,Spanish Peaks Airfield,CO,,,37.6966,-104.7848,1844.04
+KRCV,Astronaut Kent Rominger - Del Norte,CO,,,37.7138,-106.352,2424.68
+K2V6,Yuma Municipal Airport,CO,,,40.1046,-102.7128,1260.65
+KGNB,Granby-Grand County Airport,CO,,,40.09006,-105.91664,2500.27
+KBDL,"Windsor Locks, Bradley International Airport",CT,14740,72508,41.93806,-72.6825,51.6
+KBDR,"Bridgeport, Sikorsky Memorial Airport",CT,94702,72504,41.16421,-73.12663,1.77
+KDXR,"Danbury, Danbury Municipal Airport",CT,54734,,41.37167,-73.48444,137.97
+KGON,"Groton / New London, Groton / New London Airport",CT,14707,,41.3275,-72.04944,2.47
+KHFD,"Hartford, Hartford-Brainard Airport",CT,14752,,41.735,-72.65167,3.97
+KHVN,"New Haven, Tweed-New Haven Airport",CT,14758,,41.26389,-72.88722,1.84
+KIJD,"Willimantic, Windham Airport",CT,54767,,41.74194,-72.18361,74.86
+KMMK,"Meriden, Meriden Markham Municipal Airport",CT,54788,,41.50972,-72.82778,29.6
+KOXC,"Oxford, Waterbury-Oxford Airport",CT,64707,,41.48333,-73.13333,0.0
+KSNC,"Chester, Chester Airport",CT,00169,,41.38389,-72.50583,127.1
+KDOV,Dover Air Force Base,DE,13707,,39.13333,-75.46667,0.0
+KGED,Georgetown - Delaware Coastal Airport,DE,13764,,38.68974,-75.36245,15.14
+KILG,"Wilmington, New Castle County Airport",DE,13781,72418,39.67442,-75.60567,22.44
+K33N,Delaware Airpark,DE,,,39.21869,-75.60047,17.07
+KMLB,Melbourne International Airport,FL,12838,72204,28.09973,-80.6356,45.37
+KAAF,"Apalachicola, Apalachicola",FL,12832,72220,29.72694,-85.02472,5.52
+KAPF,"Naples, Naples Municipal Airport",FL,12897,,26.15,-81.76667,2.01
+KBCT,"Boca Raton, Boca Raton Airport",FL,12803,,26.37861,-80.10778,0.0
+KBKV,Brooksville-Tampa Bay Regional Airport,FL,12818,,28.47361,-82.45444,19.74
+KBOW,Bartow Municipal,FL,12809,,27.95,-81.78333,0.0
+KCEW,"Crestview, Sikes Airport",FL,13884,,30.77222,-86.52,47.07
+KCOF,Cocoa - Patrick Air Force Base,FL,12867,74795,28.24219,-80.60799,0.0
+KCRG,Jacksonville Craig Municipal Airport,FL,53860,74782,30.33709,-81.51275,11.88
+KCTY,Cross City Airport,FL,12833,72212,29.633326,-83.105458,11.58
+KDAB,Daytona Beach International Airport,FL,12834,74787,29.17354,-81.07186,7.93
+KDTS,"Destin, Destin-Ft. Walton Beach Airport",FL,53853,,30.39333,-86.4675,5.42
+KEYW,Key West International Airport,FL,12836,72201,24.55707,-81.75539,0.3
+KFLL,Fort Lauderdale/Hollywood International Airport,FL,12849,74783,26.07874,-80.1622,0.96
+KFMY,"Fort Myers, Page Field",FL,12835,,26.58417,-81.8625,3.83
+KFPR,"Fort Pierce, St. Lucie County International Airport",FL,12895,,27.49806,-80.37667,5.65
+KFXE,"Fort Lauderdale, Fort Lauderdale Executive Airport",FL,12885,,26.2,-80.18333,3.52
+KGIF,Winter Havens Gilbert Airport,FL,12876,,28.06138,-81.75684,43.51
+KGNV,"Gainesville, Gainesville Regional Airport",FL,12816,74756,29.69194,-82.27556,40.66
+KHRT,Hurlburt Field,FL,03852,74777,30.41667,-86.68333,0.0
+KHST,Homestead Air Reserve Base,FL,12826,,25.49488,-80.37324,0.0
+KHWO,"Hollywood, North Perry Airport",FL,92809,,25.99889,-80.24111,1.94
+KIMM,IMMOKALEE,FL,,,26.43,-81.4,10.97
+KISM,Kissimmee Gateway Airport,FL,92813,,28.29236,-81.43716,24.99
+KJAX,Jacksonville International Airport,FL,13889,72206,30.49534,-81.6937,10.09
+KLAL,Lakeland Linder International Airport,FL,12883,,27.98333,-82.01667,0.0
+KLEE,Leesburg International Airport,FL,12819,,28.82142,-81.80964,20.85
+KMAI,Marianna Municipal Airport,FL,03818,74776,30.83698,-85.18347,32.76
+KMCF,"Macdill Air Force Base, Fl.",FL,12810,74788,27.85,-82.5,0.0
+KMCO,Orlando International Airport,FL,12815,72205,28.41826,-81.32413,27.11
+KMIA,"Miami, Miami International Airport",FL,92803,72202,25.79056,-80.31639,4.3
+KMTH,The Florida Keys - Marathon International Airport,FL,12896,,24.72626,-81.04765,0.91
+KNIP,Jacksonville Naval Air Station,FL,93837,,30.23468,-81.67462,0.0
+KNPA,Pensacola Naval Air Station,FL,03855,,30.35641,-87.32326,0.0
+KNQX,Key West Naval Air Station,FL,12850,72201,24.58009,-81.68293,13.41
+KNRB,Mayport Naval Station - Adm David L. McDonald Field,FL,03853,,30.39589,-81.42286,4.88
+KNSE,Milton - Whiting Field Naval Air Station North,FL,93841,,30.72848,-87.02192,0.0
+KOCF,Ocala International Airport - Jim Taylor Field,FL,12861,,29.16372,-82.22097,26.52
+KOPF,"Miami, Opa Locka Airport",FL,12882,,25.91,-80.28306,1.32
+KORL,Orlando Executive Airport,FL,12841,,28.54655,-81.33543,31.68
+KPAM,Tyndall Air Force Base,FL,13846,74775,30.06444,-85.5637,0.0
+KPBI,West Palm Beach - Palm Beach International Airport,FL,12844,72203,26.6851,-80.09919,3.51
+KPGD,"Punta Gorda, Charlotte County Airport",FL,12812,,26.91778,-81.99361,6.13
+KPIE,St. Petersburg/Clearwater Airport,FL,12873,,27.91259,-82.68554,0.14
+KPMP,"Pompano Beach, Pompano Beach Airpark",FL,92805,,26.24556,-80.11139,4.58
+KPNS,Pensacola - Pensacola International Airport,FL,13899,72222,30.47806,-87.18694,35.97
+KRSW,"Fort Myers, Southwest Florida International Airport",FL,12894,,26.52694,-81.76639,8.21
+KSFB,Orlando / Sanford Airport,FL,12854,,28.78333,-81.25,14.92
+KSGJ,Northeast Florida Regional Airport,FL,92814,,29.95924,-81.34105,3.05
+KSPG,Albert Whitted Airport,FL,92806,,27.76852,-82.62564,1.3
+KSRQ,"Sarasota / Bradenton, Sarasota-Bradenton International Airport",FL,12871,,27.40139,-82.55861,5.26
+KSUA,Witham Field Airport,FL,92815,,27.18157,-80.22519,5.49
+KTIX,Titusville,FL,12898,,28.51667,-80.8,10.67
+KTLH,Tallahassee International Airport,FL,93805,72214,30.39675,-84.35087,52.79
+KTMB,"Miami, Kendall-Tamiami Executive Airport",FL,12888,,25.64194,-80.43472,1.83
+KTPA,"Tampa, Tampa International Airport",FL,12842,72210,27.96139,-82.54028,13.11
+KTTS,"Titusville, NASA Shuttle Landing Facility",FL,12886,,28.61667,-80.7,0.0
+KVDF,"Tampa, Vandenberg Airport",FL,92816,,28.01983,-82.3415,6.71
+KVPS,Valparaiso / Eglin Air Force Base,FL,13858,72221,30.48333,-86.51667,28.99
+KVQQ,Cecil Airport,FL,63823,,30.21292,-81.8707,24.69
+KVRB,"Vero Beach, Vero Beach Municipal Airport",FL,12843,74793,27.65556,-80.41806,5.65
+KXMR,"Cocoa Beach, Cape Canaveral Air Force Station Skid Strip",FL,12868,74794,28.46667,-80.56667,2.99
+KEVB,New Smyrna Beach Municipal Airport,FL,92808,,29.05687,-80.94909,0.0
+KNDZ,"Milton, Whiting Field South",FL,53847,,30.69722,-87.02,49.89
+KOMN,"Ormond Beach, Ormond Beach Municipal Airport",FL,92822,,29.30111,-81.11361,0.0
+KPCM,"Plant City, Plant City Municipal Airport",FL,92824,,28.0,-82.15,0.0
+KTPF,"Tampa, Peter O Knight Airport",FL,92825,,27.91556,-82.44917,0.0
+KOBE,Okeechobee County Airport,FL,00360,,27.2628,-80.8498,10.06
+KX26,Sebastian Municipal Airport,FL,,,27.81325,-80.49558,6.4
+KINF,Inverness Airport,FL,00377,,28.8086,-82.3165,15.24
+KCGC,Crystal River Airport,FL,00235,,28.8673,-82.5713,3.05
+KECP,Panama City - Northwest Florida Beaches International Airport,FL,73805,,30.3582,-85.7956,17.13
+KFHB,Fernandina Beach Municipal Airport,FL,00326,,30.61183,-81.46119,5.18
+K2J9,Quincy Municipal Airport,FL,00325,,30.59787,-84.55743,21.03
+KBCR,Tri-County Airport,FL,63871,,30.84389,-85.60175,31.17
+K42J,Keystone Airpark,FL,00415,,29.84475,-82.04753,60.05
+KFIN,Flagler County Airport,FL,00485,,29.4657,-81.20872,10.06
+KVNC,Venice Municipal Airport,FL,00482,,27.0716,-82.44033,5.79
+KTDR,Tyndall Drone Runway,FL,00338,,30.0333,-85.5333,5.18
+KDED,DeLand Municipal Airport,FL,00299,,29.067,-81.2837,24.08
+KZPH,Zephyrhills Airport,FL,00486,,28.2281,-82.1559,27.43
+K54J,DeFuniak Spr AP,FL,,,30.7311,-86.1538,88.09
+KMKY,Marco Island Airport,FL,,,25.995,-81.6725,1.52
+K28J,Palatka Kay Larkin Field,FL,,,29.6586,-81.6889,14.94
+K24J,Suwannee County Airport,FL,,,30.3001,-83.0247,31.7
+K54A,PLACIDA,FL,,,26.85,-82.25,1.22
+KLCQ,Lake City Municipal Airport,FL,,,30.1821,-82.5769,61.26
+KCLW,Clearwater Air Park,FL,92828,,27.9742,-82.7563,21.64
+KX60,Williston Montbrook Airport,FL,,,29.3557,-82.4719,23.16
+KSEF,Sebring Regional Airport,FL,,,27.45639,-81.34239,19.2
+KX07,Lake Wales Municipal Airport,FL,,,27.89389,-81.62042,38.71
+KF45,North Palm Beach County General Aviation Airport,FL,,,26.84592,-80.22233,6.71
+K2IS,Airglades Airport,FL,,,26.73517,-81.05106,6.1
+KLNA,Palm Beach County Park Airport,FL,,,26.59305,-80.08506,4.27
+KABY,Southwest Georgia Regional Airport,GA,13869,72216,31.53652,-84.19571,58.24
+KAGS,"Augusta, Bush Field",GA,03820,72218,33.36444,-81.96333,40.9
+KAHN,"Athens, Athens Airport",GA,13873,72311,33.95083,-83.32806,239.04
+KAMG,"Alma, Bacon County Airport",GA,13870,72316,31.53611,-82.50667,58.19
+KATL,"Atlanta, Hartsfield - Jackson Atlanta International Airport",GA,13874,72219,33.64028,-84.42694,308.25
+KAYS,"Waycross / Ware County, Ga",GA,13861,72213,31.25,-82.4,0.0
+KBGE,"Bainbridge, Decatur County Industrial Air Park Airport",GA,53882,,30.96667,-84.63333,42.98
+KBQK,Brunswick / Glynco,GA,53883,,31.25,-81.46667,7.92
+KCCO,"Newnan, Newnan Coweta County Airport",GA,53884,,33.31222,-84.77028,295.66
+KCSG,"Columbus, Columbus Metropolitan Airport",GA,93842,,32.51611,-84.94222,119.98
+KDNL,Augusta Daniel Field,GA,13837,,33.4669,-82.03836,125.1
+KDNN,"Dalton, Dalton Municipal Airport",GA,53885,,34.72167,-84.86917,216.41
+KFFC,Atlanta Regional Airport-Falcon Field,GA,53819,72215,33.35436,-84.56893,244.91
+KFTY,Fulton County Airport-Brown Field,GA,03888,,33.77764,-84.52461,245.04
+KGVL,"Gainesville, Gilmer Memorial Airport",GA,53838,,34.27194,-83.83028,386.42
+KIIY,"Washington, Washington-Wilkes County Airport",GA,53898,,33.77972,-82.81639,196.6
+KLHW,Wright Army Airfield (Fort Stewart)/Midcoast Regional Airport,GA,03875,,31.88724,-81.56244,0.0
+KLSF,Fort Benning,GA,13829,72225,32.33333,-84.83333,0.0
+KLZU,Gwinnett County Airport-Briscoe Field,GA,63803,,33.98288,-83.95842,323.39
+KMCN,Middle Georgia Regional Airport,GA,03813,72217,32.68892,-83.65293,104.52
+KMGE,Marietta / Dobbins Air Force Base,GA,13864,72227,33.91667,-84.51667,0.0
+KMGR,"Moultrie, Moultrie Municipal Airport",GA,53817,,31.08472,-83.80306,86.26
+KOPN,"Thomaston, Thomaston-Upson County Airport",GA,63809,,32.955,-84.26444,242.62
+KPDK,"Atlanta, De Kalb-Peachtree Airport",GA,53863,,33.87833,-84.29806,298.4
+KRMG,"Rome, R. B. Russell Airport",GA,93801,72320,34.34778,-85.16111,194.78
+KRYY,Cobb County International Airport - McCollum Field,GA,63813,,34.01467,-84.59635,316.99
+KSAV,Savannah-Hilton Head International Airport,GA,03822,72207,32.13137,-81.20226,8.73
+KSSI,"Brunswick, Malcolm McKinnon Airport",GA,13878,,31.15167,-81.39139,4.29
+KSVN,Hunter U. S. Army Airfield,GA,13824,,32.01667,-81.15,0.0
+KTBR,"Statesboro, Statesboro-Bulloch County Airport",GA,63818,,32.48306,-81.73722,57.0
+KVAD,Moody Air Force Base,GA,13857,74781,30.97913,-83.19247,0.0
+KVDI,"Vidalia, Vidalia Municipal Airport",GA,63822,,32.1925,-82.37194,83.52
+KVLD,Valdosta Regional Airport,GA,93845,,30.77632,-83.27389,58.73
+KVPC,Cartersville Airport,GA,53873,,34.11589,-84.85064,230.0
+KWDR,"Winder, Winder-Barrow Airport",GA,03832,,33.98222,-83.66806,0.0
+KWRB,Warner Robins Air Force Base,GA,13860,,32.63333,-83.6,0.0
+KLGC,LaGrange-Callaway Airport,GA,03821,,33.00617,-85.06609,207.87
+KBIJ,"Blakely, Early County Airport",GA,63835,,31.39694,-84.895,65.23
+KCNI,"Canton, Cherokee County Airport",GA,00355,,34.31056,-84.42389,372.16
+KDQH,"Douglas, Douglas Municipal Airport",GA,63842,,31.47667,-82.86028,78.33
+KEZM,"Eastman, Heart of Georgia Regional Airport",GA,00337,,32.21417,-83.12778,93.27
+KHQU,"Thomson, Thomson-McDuffie County Airport",GA,63836,,33.52944,-82.51639,151.79
+KJYL,"Sylvania, Plantation Airpark",GA,63846,,32.64528,-81.59639,57.3
+KMLJ,"Milledgeville, Baldwin County Airport",GA,63886,,33.15417,-83.24056,0.0
+KDBN,"Dublin, W H 'Bud' Barron Airport",GA,63881,,32.56444,-82.985,0.0
+KHOE,Homerville Airport,GA,00128,,31.0559,-82.7741,57.3
+KCWV,Claxton Evans County Airport,GA,00366,,32.1951,-81.8696,34.14
+KTVI,Thomasville Regional Airport,GA,00267,,30.90179,-83.88113,80.16
+KSBO,Swainsboro Emanuel County Airport,GA,00330,,32.6091,-82.3699,100.28
+KCVC,Covington Municipal Airport,GA,,,33.632,-83.85,246.58
+KPUJ,Dallas Paulding County Regional Airport,GA,00252,,33.919,-84.952,393.19
+KCTJ,Carrollton West Georgia Regional Airport,GA,00249,,33.63,-85.15,354.18
+KACJ,Americus Souther Field Airport,GA,00328,,32.11081,-84.18886,142.65
+K6A1,Butler Municipal Airport,GA,00335,,32.567,-84.251,203.3
+K6A2,Griffin Spalding County Airport,GA,00339,,33.227,-84.2749,292.3
+KAZE,Hazlehurst Airport,GA,00352,,31.8847,-82.6474,78.03
+KFZG,Fitzgerald Municipal Airport,GA,00350,,31.6839,-83.2709,111.25
+KJES,Jesup-Wayne County Airport,GA,00248,,31.554,-81.8825,33.22
+KTMA,Tifton Henry Tift Myers,GA,00250,,31.429,-83.4885,108.2
+KTOC,Toccoa Le Tourneau Airport,GA,00382,,34.5928,-83.2964,303.28
+KCKF,Cordele Crisp County Airport,GA,00439,,31.9888,-83.7739,94.79
+KBHC,Baxley Municipal Airport,GA,,,31.7138,-82.3938,61.26
+KPXE,Perry-Houston County Airport,GA,,,32.5106,-83.7673,127.41
+KOKZ,Sandersville Kaolin Field Airport,GA,,,32.9667,-82.8382,133.5
+KCXU,Camilla-Mitchell County Airport,GA,,,31.2132,-84.2352,53.34
+K18A,Franklin County Airport,GA,,,34.3404,-83.1308,262.13
+KAJR,Cornelia Habersham County Airport,GA,,,34.4998,-83.5567,441.05
+KJZP,Jasper Pickens County Airport,GA,,,34.45417,-84.45971,467.87
+K49A,Gilmer County Airport,GA,,,34.6301,-84.5271,452.93
+KDZJ,Blairsville Airport,GA,,,34.8544,-83.9973,581.99
+K9A5,Barwick Lafayette Airport,GA,,,34.6885,-85.2903,236.83
+KCZL,Calhoun Tom B. David Field Airport,GA,,,34.4554,-84.9392,197.21
+KHMP,Henry County Airport,GA,,,33.3899,-84.331,268.83
+KPIM,Pine Mountain Harris County Airport,GA,,,32.8407,-84.8824,274.93
+K17J,Donalsonville Municipal Airport,GA,,,31.00697,-84.87761,44.81
+KD73,Monroe-Walton County Airport,GA,,,33.78253,-83.69281,264.26
+K2J3,Louisville Municipal Airport,GA,,,32.98594,-82.38481,99.97
+K48A,Cochran Airport,GA,,,32.3994,-83.2759,102.41
+K2J5,Millen Airport,GA,,,32.8935,-81.9654,72.24
+KMHP,Metter Municipal Airport,GA,,,32.37397,-82.08144,60.05
+KRVJ,Swinton Smith Field at Reidsville Municipal Airport,GA,,,32.05949,-82.15358,59.44
+KMQW,Telfair-Wheeler Airport,GA,,,32.09699,-82.87941,61.57
+PHBK,"Kekaha, Pacific Missile Test Facility Barking Sands",HI,22501,91162,22.03639,-159.78639,4.7
+PHNL,Daniel K Inouye International Airport,HI,22521,91182,21.3275,-157.94306,1.87
+PHTO,"Hilo, Hilo International Airport",HI,21504,91285,19.72222,-155.05583,11.0
+PHKO,"Kailua / Kona, Keahole Airport",HI,21510,,19.74083,-156.05056,11.28
+PHLI,"Lihue, Lihue Airport",HI,22536,91165,21.98389,-159.34111,32.31
+PHNY,"Lanai City, Lanai Airport",HI,22524,,20.78556,-156.95139,396.24
+PHMK,"Kaunakakai, Molokai Airport",HI,22534,91186,21.15,-157.1,134.2
+PHOG,"Kahului, Kahului Airport",HI,22516,91190,20.8925,-156.43694,14.0
+PHJH,Lahaina - West Maui,HI,22552,,20.96307,-156.67466,73.15
+PHHI,Wheeler Air Force Base / Oahu,HI,22508,91170,21.48333,-158.03333,257.86
+PHJR,"Oahu, Kalaeloa Airport",HI,22551,91178,21.30833,-158.06806,3.14
+PHNG,"Kaneohe, Marine Corps Air Station",HI,22519,91176,21.45389,-157.76556,0.0
+PHSF,Bradshaw Army Air Field / Hawaii,HI,21508,,19.78333,-155.55,1798.32
+KADU,"Audubon, Audubon County Airport",IA,94998,,41.70111,-94.92028,0.0
+KAIO,Atlantic,IA,14930,,41.4,-95.05,0.0
+KALO,"Waterloo, Waterloo Municipal Airport",IA,94910,72548,42.55444,-92.40111,264.17
+KAMW,"Ames, Ames Municipal Airport",IA,94989,,41.99056,-93.61889,281.46
+KAWG,Washington,IA,04903,,41.28333,-91.66667,229.82
+KAXA,Algona,IA,04904,,43.08333,-94.26667,371.55
+KBNW,Boone Municipal,IA,04906,,42.05,-93.85,353.57
+KBRL,Burlington Regional Airport,IA,14931,72542,40.77293,-91.12543,208.16
+KCAV,Clarion,IA,04907,,42.75,-93.76667,354.18
+KCBF,Council Bluffs,IA,04908,,41.26125,-95.7604,381.91
+KCCY,Charles City,IA,14966,,43.06667,-92.61667,342.9
+KCID,Cedar Rapids Airport,IA,14990,72545,41.88295,-91.72456,256.0
+KCIN,Carroll,IA,04910,,42.05,-94.78333,366.98
+KCNC,Chariton,IA,04913,,41.03333,-93.36667,320.04
+KCSQ,Creston Municipal Airport,IA,04915,,41.01886,-94.361,394.41
+KCWI,Clinton Municipal Airport,IA,94979,,41.82954,-90.33279,213.36
+KDBQ,Dubuque Regional Airport,IA,94908,72547,42.39837,-90.7091,316.88
+KDEH,Decorah,IA,04916,,43.28333,-91.73333,352.65
+KDNS,Denison,IA,04917,,41.98333,-95.38333,388.92
+KDSM,Des Moines International Airport,IA,14933,72546,41.53399,-93.65307,286.29
+KDVN,Davenport Municipal Airport,IA,94982,74455,41.61338,-90.59479,230.49
+KEBS,Webster City Municipal Airport,IA,04920,,42.43724,-93.87237,341.68
+KEOK,Keokuk Municipal Airport,IA,04921,,40.46149,-91.42739,0.0
+KEST,"Estherville, Estherville Municipal Airport",IA,94971,,43.40111,-94.74722,400.6
+KFFL,Fairfield Municipal Airport,IA,04925,,41.0521,-91.98339,243.54
+KFOD,Fort Dodge,IA,94933,72549,42.55,-94.18333,0.0
+KFSW,Fort Madison Municipal Airport,IA,04930,,40.66154,-91.32672,220.68
+KHNR,"Harlan, Harlan Municipal Airport",IA,04936,,41.58444,-95.33972,375.21
+KICL,Schenck Field Airport,IA,04937,,40.72421,-95.02224,302.36
+KIKV,Ankeny Regional Airport,IA,04938,,41.68782,-93.56944,277.37
+KIOW,Iowa City Municipal Airport,IA,14937,,41.63945,-91.5445,198.74
+KLRJ,Le Mars Municipal Airport,IA,04942,,42.77478,-96.19239,364.54
+KLWD,"Lamoni, Lamoni Municipal Airport",IA,94991,,40.63056,-93.90083,345.52
+KMCW,Mason City Municipal Airport,IA,14940,,43.15442,-93.32607,362.12
+KMIW,"Marshalltown, Marshalltown Municipal Airport",IA,94988,,42.11056,-92.91611,295.25
+KMPZ,"Mount Pleasant, Mount Pleasant Municipal Airport",IA,04947,,40.94667,-91.51111,223.72
+KMUT,Muscatine,IA,04950,,41.36667,-91.15,0.0
+KOLZ,Oelwein Municipal Airport,IA,04955,,42.68316,-91.97595,327.96
+KOTM,Ottumwa Regional Airport,IA,14950,,41.10082,-92.44451,254.31
+KOXV,Knoxville,IA,04962,,41.3,-93.11667,282.24
+KPEA,"Pella, Pella Municipal Airport",IA,04964,,41.4,-92.93333,269.75
+KRDK,Red Oak,IA,04966,,41.01667,-95.26667,318.21
+KSDA,Shenandoah Municipal,IA,04973,,40.75,-95.41667,295.96
+KSHL,Sheldon,IA,04975,,43.21667,-95.83333,432.51
+KSLB,Storm Lake,IA,04976,,42.6,-95.23333,453.54
+KSPW,Spencer Municipal Airport,IA,14972,72650,43.16825,-95.21008,407.52
+KSUX,"Sioux City, Sioux Gateway Airport",IA,14943,72557,42.4025,-96.38444,332.84
+KTNU,Newton Municipal Airport - Earl Johnson Field,IA,04977,,41.67014,-93.01902,290.47
+KCKP,"Cherokee, Cherokee Municipal Airport",IA,54920,,42.73167,-95.55583,0.0
+KIIB,"Independence, Independence Municipal Airport",IA,04989,,42.45,-91.93333,298.09
+KVTI,"Vinton, Vinton Veterans Memorial Airpark Airport",IA,04981,,42.21861,-92.02583,257.56
+KOOA,"Oskaloosa, Oskaloosa Municipal Airport",IA,54919,,41.22611,-92.49361,0.0
+KGGI,Grinnell Municipal Airfield,IA,14976,,41.7092,-92.7349,0.0
+KPRO,Perry Municipal Airport,IA,54943,,41.828,-94.1599,308.76
+KTVK,Centerville Municipal Airport,IA,54939,,40.6839,-92.901,311.84
+KI75,Osceola Municipal Airport,IA,54942,,41.05222,-93.68966,339.85
+KIFA,Iowa Falls Municipal Airport,IA,54941,,42.471,-93.27,346.56
+KFXY,Forest City Municipal Airport,IA,54940,,43.235,-93.624,374.6
+KHPT,Hampton Municipal Airport,IA,,,42.72369,-93.22633,358.44
+KBOI,Boise Air Terminal,ID,24131,72681,43.56704,-116.24053,873.1
+KBYI,Burley Municipal Airport,ID,24133,,42.54525,-113.7686,1262.87
+KCOE,Coeur d'Alene Airport - Pappy Boyington Field,ID,24136,,47.76667,-116.81667,703.17
+KEUL,Caldwell - Caldwell Industrial Airport,ID,94195,,43.64055,-116.63017,0.0
+KIDA,Idaho Falls Regional Airport,ID,24145,,43.52083,-112.06611,1442.68
+KJER,Jerome County Airport,ID,04110,,42.72736,-114.45469,1226.55
+KLLJ,Challis - Challis Airport,ID,04114,,44.523,-114.21611,1534.13
+KLWS,"Lewiston, Lewiston-Nez Perce County Airport",ID,24149,72783,46.37472,-117.01444,435.8
+KMUO,Mountain Home Air Force Base,ID,24106,,43.05,-115.86667,0.0
+KMYL,McCall Airport,ID,94182,,44.89425,-116.09978,1531.14
+KP69,Lowell,ID,04109,,46.14417,-115.59639,451.1
+KPIH,"Pocatello, Pocatello Regional Airport",ID,24156,72578,42.92028,-112.57111,1356.64
+KRXE,"Rexburg, Rexburg-Madison County Airport",ID,94194,,43.83167,-111.80611,1480.79
+KGIC,Grangeville - Idaho County Airport,ID,00452,,45.94111,-116.13257,1010.11
+KSMN,"Salmon, Lemhi County Airport",ID,24196,,45.11667,-113.88333,1232.61
+KSNT,"Stanley, Stanley Ranger Station",ID,04112,,44.20861,-114.93444,1979.68
+KSUN,"Hailey, Friedman Memorial Airport",ID,94161,,43.5,-114.3,1617.27
+KTWF,Joslin Field - Magic Valley Regional Airport,ID,94178,,42.4785,-114.47739,1269.84
+KSZT,"Sandpoint, Sandpoint Airport",ID,04129,,48.29944,-116.56,648.31
+KDIJ,"Driggs, Driggs-Reed Memorial Airport",ID,04135,,43.74167,-111.09778,0.0
+K1U7,Bear Lake County Airport,ID,,,42.2497,-111.3416,1806.85
+K65S,Boundary County Airport,ID,00310,,48.726,-116.2952,711.1
+KMAN,Nampa Municipal Airport,ID,00264,,43.5813,-116.5231,773.28
+KGNG,Gooding Municipal Airport,ID,24142,,42.91716,-114.76516,1127.15
+K1H2,"Effingham, Effingham County Memorial Airport",IL,93816,,39.07056,-88.53333,0.0
+KAAA,Logan County Airport,IL,04862,,40.15885,-89.33891,181.97
+KALN,St. Louis Regional Airport,IL,03958,,38.88968,-90.03163,165.51
+KARR,Aurora Municipal Airport,IL,04808,,41.77132,-88.48147,213.73
+KBLV,"Belleville, Scott AFB/MidAmerica Airport",IL,13802,,38.55,-89.85,0.0
+KBMI,"Bloomington/Normal, Central Illinois Regional Airport at Bloomington-Normal",IL,54831,,40.47694,-88.91583,263.65
+KC09,Morris Muni-James R Washburn Field Airport,IL,04867,,41.43164,-88.41519,178.0
+KC75,Marshall County Airport,IL,04868,,41.02307,-89.38854,173.13
+KCMI,University of Illinois - Willard,IL,94870,,40.03245,-88.27547,226.54
+KCPS,St. Louis Downtown Airport,IL,03960,,38.56403,-90.14871,123.4
+KDEC,Decatur Airport,IL,03887,,39.8308,-88.87192,205.15
+KDKB,De Kalb Taylor Municipal Airport,IL,04871,,41.93381,-88.70657,278.89
+KDNV,"Danville, Vermilion County Airport",IL,94891,,40.19944,-87.59556,202.39
+KDPA,"Chicago / West Chicago, Dupage Airport",IL,94892,,41.89639,-88.25111,228.34
+KENL,Centralia Municipal Airport,IL,53887,,38.50951,-89.08996,162.76
+KFEP,Albertus Airport,IL,04876,,42.24751,-89.58104,261.82
+KFOA,Flora Municipal Airport,IL,53889,,38.66726,-88.4527,143.87
+KFWC,"Fairfield, Fairfield Municipal Airport",IL,53891,,38.37861,-88.41278,132.89
+KGBG,Galesburg Municipal Airport,IL,94959,,40.9329,-90.43339,0.0
+KHSB,Harrisburg-Raleigh Airport,IL,53897,,37.81281,-88.54486,120.7
+KIGQ,Lansing Municipal Airport,IL,04879,,41.54125,-87.52822,187.76
+KIJX,Jacksonville Municipal Airport,IL,53944,,39.77401,-90.24187,190.2
+KIKK,Greater Kankakee Airport,IL,04880,,41.06871,-87.85372,191.72
+KJOT,Joliet Regional Airport,IL,14834,,41.51755,-88.17903,0.0
+KLOT,Lewis University Airport,IL,04831,,41.60307,-88.10164,231.78
+KLWV,Lawrenceville-Vincennes International Airport,IL,13809,,38.76046,-87.59903,130.05
+KMDH,Southern Illinois Airport,IL,93810,,37.78328,-89.24532,122.07
+KMDW,"Chicago, Chicago Midway Airport",IL,14819,72534,41.78417,-87.75528,185.82
+KMLI,Moline Quad-City Airport,IL,14923,72544,41.4482,-90.52359,175.49
+KMQB,Macomb Municipal Airport,IL,04949,,40.51763,-90.64807,0.0
+KMTO,"Mattoon / Charleston, Coles County Memorial Airport",IL,53802,,39.47806,-88.27917,216.43
+KMVN,Mount Vernon Airport,IL,93894,,38.32842,-88.85292,0.0
+KMWA,Marion - Williamson County Regional Airport,IL,03865,,37.76671,-89.00993,140.21
+KOLY,Olney-Noble Airport,IL,53822,,38.72133,-88.1799,0.0
+KPIA,Peoria - General Downing-Peoria International Airport,IL,14842,72532,40.6675,-89.68389,199.68
+KPNT,Pontiac Municipal Airport,IL,04889,,40.92327,-88.6213,200.86
+KPPQ,"Pittsfield, Pittsfield Penstone Municipal Airport",IL,53950,,39.63889,-90.77833,216.41
+KPRG,Edgar County Airport,IL,63810,,39.69817,-87.6669,199.34
+KPWK,"Chicago / Wheeling, Pal-Waukee Airport",IL,04838,,42.12083,-87.90472,191.57
+KRFD,"Rockford, Greater Rockford Airport",IL,94822,72543,42.19278,-89.09333,221.01
+KRPJ,"Rochelle, Rochelle Municipal-Koritz Field Airport",IL,04890,,41.89057,-89.08175,238.05
+KSAR,Sparta Community-Hunter Field Airport,IL,63814,,38.14624,-89.70243,163.98
+KSLO,"Salem, Salem-Leckrone Airport",IL,03879,72433,38.64278,-88.96417,173.74
+KSPI,Springfield - Abraham Lincoln Capital Airport,IL,93822,72439,39.84527,-89.68405,179.73
+KSQI,Sterling Rockfalls,IL,04894,,41.7432,-89.66547,197.21
+KTAZ,"Taylorville, Taylorville Municipal Airport",IL,63817,,39.53417,-89.32778,189.59
+KTIP,Rantoul National Aviation Center Airport,IL,04896,,40.28952,-88.1473,224.64
+KUGN,Chicago/Waukegan Regional Airport,IL,14880,,42.42546,-87.86339,216.47
+KUIN,Quincy Regional Airport-Baldwin Field,IL,93989,72443,39.9371,-91.19659,231.62
+KVYS,Illinois Valley Regional Airport,IL,04899,,41.35175,-89.14963,199.34
+KORD,"Chicago, Chicago-O'Hare International Airport",IL,94846,72530,41.97972,-87.90444,204.81
+K3LF,Litchfield Municipal Airport,IL,63878,,39.16052,-89.67419,0.0
+KAJG,"Mount Carmel, Mount Carmel Municipal Airport",IL,63853,,38.60928,-87.72508,161.24
+KCIR,Cairo Regional Airport,IL,93809,,37.06388,-89.2232,0.0
+KCUL,Carmi Municipal Airport,IL,63840,,38.08875,-88.12125,118.26
+KI63,"Mount Sterling, Mount Sterling Municipal Airport",IL,,,39.9875,-90.80417,223.11
+KM30,Metropolis Municipal Airport,IL,63851,,37.18243,-88.74885,117.04
+KRSV,Robinson Municipal Airport,IL,63841,,39.01361,-87.64846,140.82
+KSFY,Tri-Township Airport,IL,04996,,42.04544,-90.11009,187.76
+K06C,Schaumburg Regional Airport,IL,,,41.98934,-88.10124,244.14
+KAID,Anderson Municipal Airport,IN,04828,,40.10612,-85.60977,274.32
+KBAK,Columbus / Bakalar,IN,13803,,39.26667,-85.9,0.0
+KBMG,"Bloomington, Monroe County Airport",IN,03893,,39.14306,-86.61667,253.33
+KEKM,Elkhart Municipal,IN,04806,,41.71667,-86.0,0.0
+KEVV,"Evansville, Evansville Regional Airport",IN,93817,72432,38.04306,-87.52028,122.51
+KEYE,"Indianapolis, Eagle Creek Airpark",IN,53842,,39.825,-86.29583,247.35
+KFWA,Fort Wayne International Airport,IN,14827,72533,40.97251,-85.20637,242.97
+KGEZ,Shelbyville Municipal Airport,IN,53866,,39.58546,-85.79982,244.37
+KGSH,"Goshen, Goshen Municipal Airport",IN,14829,,41.52611,-85.78667,251.19
+KGUS,Grissom Air Force Base / Peru,IN,94833,,40.65,-86.15,0.0
+KGYY,Gary Regional Airport,IN,04807,,41.61212,-87.40908,0.0
+KHNB,Huntingburg,IN,53896,,38.25,-86.95,161.24
+KHUF,Terre Haute Regional Airport,IN,03868,,39.4429,-87.32207,172.75
+KIND,Indianapolis International Airport,IN,93819,72438,39.72518,-86.2816,270.49
+KLAF,"Lafayette, Purdue University Airport",IN,14835,,40.4125,-86.9475,181.65
+KMIE,"Muncie, Delaware County-Johnson Field",IN,94895,,40.23417,-85.39361,285.23
+KSBN,South Bend International Airport,IN,14848,72535,41.70889,-86.31861,235.38
+KVPZ,Valparaiso Porter County Municipal Airport,IN,04846,,41.45349,-86.99805,233.99
+KASW,"Warsaw, Warsaw Municipal Airport",IN,54809,,41.27444,-85.84,259.08
+KOKK,"Kokomo, Kokomo Municipal Airport",IN,54807,,40.53333,-86.06667,252.98
+KTYQ,INDIANAPOLIS,IN,00173,,40.03066,-86.2515,281.03
+KMQJ,Indianapolis Regional Airport,IN,,,39.84314,-85.89774,262.74
+KRZL,Rensselaer Jasper County Airport,IN,00388,,40.94789,-87.18258,212.14
+KOXI,Starke County Airport,IN,00187,,41.33,-86.665,208.18
+KGGP,Logansport/Cass County Airport,IN,00336,,40.711,-86.373,225.25
+KRCR,Rochester Fulton County Airport,IN,00265,,41.06553,-86.18169,241.1
+KMZZ,Marion Municipal Airport,IN,94852,,40.49,-85.68,263.04
+KGWB,Auburn De Kalb County Airport,IN,00167,,41.307,-85.064,268.22
+KMGC,Michigan City Municipal Airport,IN,00384,,41.7033,-86.8212,200.25
+KPPO,La Porte Municipal Airport,IN,00347,,41.5725,-86.7345,247.19
+KANQ,Angola Tri-State Steuben County Airport,IN,00430,,41.6404,-85.0851,303.58
+KDCY,Daviess County Airport,IN,00441,,38.7004,-87.1297,143.26
+KMCX,Monticello White County Airport,IN,,,40.7088,-86.7668,206.04
+KHHG,Huntington Municipal Airport,IN,,,40.8529,-85.4571,245.67
+KFKR,Frankfort Municipal Airport,IN,,,40.2734,-86.5622,262.43
+KCFJ,Crawfordsville Municipal Airport,IN,,,39.9756,-86.9199,243.54
+KIMS,Madison Municipal Airport,IN,,,38.7589,-85.4655,249.02
+KC62,Kendallville Municipal Airport,IN,,,41.4739,-85.2541,306.32
+KHFY,Greenwood Municipal Airport,IN,,,39.6276,-86.088,250.55
+KRID,Richmond Municipal Airport,IN,03846,,39.7572,-84.8428,346.86
+KHLB,Batesville Airport,IN,,,39.34313,-85.25843,296.57
+KFRH,French Lick Municipal Airport,IN,,,38.50622,-86.63694,241.4
+KPLD,Portland Municipal Airport,IN,,,40.45158,-84.98903,282.24
+KC65,Plymouth,IN,,,41.36667,-86.3,243.84
+KJVY,Clark Regional Airport,IN,,,38.36661,-85.73814,144.48
+KOJC,"Olathe, Johnson County Executive Airport",KS,03967,,38.85,-94.73917,327.25
+KIXD,"Olathe, New Century Aircenter",KS,93909,72447,38.82444,-94.88694,321.54
+KICT,Wichita - Wichita Dwight D. Eisenhower National Airport,KS,03928,72450,37.64722,-97.42944,426.61
+KIAB,McConnell Air Force Base,KS,03923,,37.61667,-97.26667,0.0
+KHUT,"Hutchinson, Hutchinson Municipal Airport",KS,13986,,38.06806,-97.86056,463.21
+KCNU,"Chanute, Chanute Martin Johnson Airport",KS,13981,,37.67028,-95.48417,298.77
+KEWK,"Newton, Newton City/County Airport",KS,53939,,38.05,-97.28333,466.95
+KDDC,"Dodge City, Dodge City Regional Airport",KS,13985,72451,37.77278,-99.96972,786.41
+KGCK,Garden City Regional Airport,KS,23064,,37.9275,-100.72444,877.14
+KLBL,"Liberal, Liberal Municipal Airport",KS,23020,,37.05,-100.96667,875.69
+KGBD,"Great Bend, Great Bend Municipal Airport",KS,13940,,38.35,-98.86667,573.02
+KHYS,"Hays, Hays Regional Airport",KS,03968,,38.85,-99.26667,608.99
+KP28,"Medicine Lodge, Medicine Lodge",KS,03957,72452,37.28389,-98.55278,467.87
+KMHK,"Manhattan, Manhattan Municipal Airport",KS,03936,,39.13528,-96.67778,319.34
+KTOP,"Topeka, Philip Billard Municipal Airport",KS,13996,72456,39.0725,-95.62583,268.1
+KFOE,"Topeka, Forbes Field",KS,13920,,38.94139,-95.65056,315.12
+KCNK,"Concordia, Blosser Municipal Airport",KS,13984,72458,39.55139,-97.65056,444.29
+KRSL,"Russell, Russell Municipal Airport",KS,93997,,38.87278,-98.81306,568.11
+KSLN,"Salina, Salina Municipal Airport",KS,03919,,38.78,-97.64417,385.03
+KEHA,"Elkhart, Elkhart-Morton County Airport",KS,93076,72460,37.0,-101.88333,0.0
+KGLD,"Goodland, Renner Field",KS,23065,72465,39.3675,-101.69306,1132.52
+KHLC,"Hill City, Hill City Municipal Airport",KS,93990,,39.37472,-99.82972,667.09
+KCFV,"Coffeyville, Coffeyville Municipal Airport",KS,93967,,37.09111,-95.56639,227.37
+KPPF,"Parsons, Tri-City Airport",KS,03998,,37.32778,-95.50417,263.87
+KWLD,"Winfield / Arkansas City, Strother Field",KS,13932,,37.16806,-97.03694,350.99
+KLWC,"Lawrence, Lawrence Municipal Airport",KS,03997,,39.00833,-95.21167,251.94
+KFRI,Fort Riley - Marshall AAF,KS,13947,72455,39.05586,-96.76166,0.0
+KAAO,Wichita Jabara Airport,KS,03974,,37.74969,-97.21908,427.95
+KEMP,"Emporia, Emporia Municipal Airport",KS,13989,,38.32889,-96.19389,366.25
+KPTT,Pratt Municipal,KS,93978,,37.7,-98.75,594.97
+KUKL,Coffey County Airport,KS,,,38.30247,-95.72497,357.53
+KJHN,Stanton County Municipal Airport,KS,,,37.5782,-101.7304,1013.46
+KMPR,MCPHERSON,KS,,,38.35244,-97.69133,454.46
+KHQG,Hugoton Municipal Airport,KS,,,37.16308,-101.37052,954.94
+KTQK,Scott City Municipal Airport,KS,,,38.47502,-100.88444,903.12
+K3K3,Syracuse-Hamilton County Municipal Airport,KS,,,37.99858,-101.7476,1014.01
+KK82,Smith Center Municipal Airport,KS,,,39.76261,-98.7945,548.34
+KCBK,Shalz Field Airport,KS,03037,,39.42746,-101.04662,971.09
+KPTS,Atkinson Municipal Airport,KS,00142,,37.4494,-94.7311,290.17
+KOEL,Oakley Municipal Airport,KS,,,39.11178,-100.81667,928.12
+KNRN,Norton Municipal Airport,KS,,,39.85047,-99.89469,726.34
+K13K,Lt. William M. Milliken Airport,KS,,,37.85161,-96.29202,367.99
+KIDP,INDEPENDENCE,KS,00141,,37.1584,-95.7784,251.16
+KSYF,ST FRANCIS,KS,00143,,39.763884,-101.797861,1040.28
+KMYZ,Marysville Municipal Airport,KS,,,39.8553,-96.6306,391.06
+KEQA,El Dorado Captain Jack Thomas Airport,KS,,,37.77534,-96.81449,420.01
+K3AU,Augusta Municipal Airport,KS,,,37.6716,-97.0779,404.77
+KK88,Allen County Airport,KS,,,37.8682,-95.3869,309.37
+KOWI,Ottawa Municipal Airport,KS,,,38.5409,-95.2542,294.44
+K19S,Sublette Municipal Airport,KS,,,37.4969,-100.8329,886.05
+KLYO,Lyons-Rice County Municipal Airport,KS,,,38.34025,-98.22856,515.42
+KOIN,Oberlin Municipal Airport,KS,,,39.83489,-100.53978,823.87
+KADT,Atwood-Rawlins County City-County Airport,KS,03043,,39.84034,-101.04248,911.66
+KBWG,"Bowling Green, Bowling Green-Warren County Regional Airport",KY,93808,,36.96444,-86.41944,159.33
+KCVG,Cincinnati/Northern Kentucky International Airport,KY,93814,72421,39.04456,-84.67229,262.43
+KEHR,Henderson City,KY,53886,,37.81667,-87.68333,117.96
+KFFT,"Frankfort, Capital City Airport",KY,53841,,38.18472,-84.90333,236.82
+KFTK,Fort Knox,KY,13807,72424,37.9,-85.96667,0.0
+KHOP,Fort Campbell U. S. Army Airfield,KY,13806,74671,36.66667,-87.5,0.0
+KJKL,"Jackson, Carroll Airport",KY,03889,72419,37.59139,-83.31444,445.45
+KLEX,Lexington Blue Grass Airport,KY,93820,72422,38.0339,-84.61146,293.23
+KLOU,"Louisville, Bowman Field Airport",KY,13810,,38.22778,-85.66361,164.56
+KLOZ,"London, London-Corbin Airport-Magee Field",KY,03849,,37.08944,-84.06861,359.97
+KOWB,"Owensboro, Owensboro-Daviess County Airport",KY,53803,,37.74,-87.16667,122.83
+KPAH,"Paducah, Barkley Regional Airport",KY,03816,72435,37.05639,-88.77389,154.18
+KSDF,Louisville Muhammad Ali International Airport,KY,93821,72423,38.17406,-85.7365,146.3
+KSME,"Somerset, Somerset-Pulaski County - J.T. Wilson Field Airport",KY,63815,,37.05417,-84.615,282.55
+KGLW,"Glasgow, Glasgow Municipal Airport",KY,00361,,37.03167,-85.95361,218.24
+K1A6,"Middlesboro, Middlesboro-Bell County Airport",KY,63875,,36.61056,-83.73722,0.0
+KEKQ,"Monticello, Wayne County Airport",KY,63882,,36.85528,-84.85611,0.0
+KTWT,"Sturgis, Sturgis Municipal Airport",KY,,,37.54083,-87.95167,113.39
+KCEY,"Murray Kyle Oakley Field, KY",KY,00437,,36.6646,-88.3728,176.17
+KK62,FALMOUTH,KY,,,38.70407,-84.39182,273.71
+KDVK,Stuart Powell Field Airport,KY,00144,,37.5775751,-84.7694978,312.12
+K2I0,Madisonville Municipal Airport,KY,00421,,37.35593,-87.39822,124.36
+KI35,Harlan,KY,00334,,36.85933,-83.35847,473.05
+KIOB,Mount Sterling-Montgomery County Airport,KY,00146,,38.0575,-83.9829,311.2
+KSJS,Big Sandy Regional Airport,KY,00476,,37.751,-82.6367,372.47
+KM25,Mayfield Graves County Airport,KY,,,36.7691,-88.5847,159.41
+KSYM,Clyde A. Thomas Regional Airport,KY,,,38.215,-83.5874,313.33
+KFGX,Flemingsburg Fleming-Mason Airport,KY,,,38.5418,-83.7434,278.28
+KDWU,Ashland Regional Airport,KY,,,38.5545,-82.738,166.42
+KPBX,Pikeville Pike County Airport and Hatcher Field,KY,,,37.5587,-82.5674,448.97
+K6I2,Lebanon-Springfield Airport,KY,,,37.6352,-85.2418,263.96
+KBYL,Williamsburg-Whitley County Airport,KY,,,36.79541,-84.20127,358.75
+KM21,Muhlenberg County Airport,KY,,,37.2262,-87.1564,128.63
+KEKX,Elizabethtown Addington Field Airport,KY,,,37.686,-85.925,236.22
+KKY8,Hancock County Airport-Ron Lewis Field,KY,,,37.953,-86.8592,125.58
+K27K,Georgetown Scott County Regional Airport,KY,,,38.23444,-84.43469,288.65
+KBRY,Samuels Field Airport,KY,,,37.81433,-85.49964,203.91
+KAAS,Taylor County Airport,KY,,,37.35828,-85.30942,280.72
+KCPF,Wendell H Ford Airport,KY,,,37.38736,-83.26161,382.95
+KLNQ,Boothville Heliport,LA,43110,,29.35414,-89.43591,3.05
+KAEX,"Alexandria, Alexandria International Airport",LA,93915,74754,31.33472,-92.55861,25.03
+KARA,Acadiana Regional Airport,LA,53915,,30.02918,-91.88451,4.84
+KASD,"Slidell, Slidell Airport",LA,53865,72233,30.34306,-89.82194,7.51
+KBAD,Barksdale Air Force Base,LA,13944,,32.5,-93.66667,0.0
+KBTR,"Baton Rouge, Baton Rouge Metropolitan, Ryan Field",LA,13970,72232,30.53722,-91.14694,20.44
+KCWF,Chenault Airpark,LA,13941,,30.21667,-93.15,0.0
+KDTN,"Shreveport, Shreveport Downtown Airport",LA,53905,,32.5425,-93.74472,52.27
+KESF,Alexandria Esler Regional Airport,LA,13935,,31.39634,-92.28273,26.93
+KHDC,"Hammond, Hammond Municipal Airport",LA,03908,,30.52083,-90.4175,0.0
+KHUM,Houma-Terrebonne Airport,LA,12927,,29.56341,-90.66283,0.0
+KIER,"Natchitoches, Natchitoches Regional Airport",LA,53943,,31.73583,-93.09917,36.88
+KLCH,Lake Charles Regional Airport,LA,03937,72240,30.12556,-93.22767,4.79
+KLFT,"Lafayette, Lafayette Regional Airport",LA,13976,,30.20222,-91.99306,10.76
+KMLU,Monroe Regional Airport,LA,13942,,32.51557,-92.02995,22.14
+KMSY,"New Orleans, New Orleans International Airport",LA,12916,72231,29.99278,-90.25083,-0.99
+KNBG,New Orleans Naval Air Station - Alvin Callender Field,LA,12958,,29.83736,-90.02445,0.0
+KNEW,"New Orleans, New Orleans Lakefront Airport",LA,53917,,30.04944,-90.02889,0.87
+KP92,Salt Point,LA,12968,,29.55903,-91.52498,1.01
+KPOE,"Fort Polk, Polk AAF Ft Polk",LA,03993,72239,31.05,-93.19389,144.06
+KPTN,Patterson Memorial,LA,12936,,29.71667,-91.33333,0.0
+KRSN,"Ruston, Ruston Regional Airport",LA,53958,,32.51444,-92.58833,94.79
+KSHV,"Shreveport, Shreveport Regional Airport",LA,13957,72248,32.44694,-93.82417,85.1
+KTVR,"Vicksburg, Vicksburg / Tallulah Regional Airport",LA,03996,,32.34806,-91.03,25.24
+KBQP,"Bastrop, Morehouse Memorial Airport",LA,53992,,32.75583,-91.88056,0.0
+KBXA,"Bogalusa, George R Carr Memorial Air Field",LA,00148,,30.81361,-89.86472,36.58
+KDRI,"De Ridder, Beauregard Parish Airport",LA,03976,,30.83167,-93.33972,0.0
+KACP,"Oakdale, Allen Parish Airport",LA,53991,,30.75056,-92.68861,0.0
+KGAO,"Galliano, South Lafourche Airport",LA,12993,,29.44472,-90.26111,0.0
+KAQV,Ft. Polk - Peason Ridge,LA,03949,72282,31.4,-93.2833,115.28
+KBKB,Ft. Polk - Fullerton Landing Strip,LA,53988,,31.0217,-92.9107,94.49
+KUXL,Southland Field,LA,00359,,30.1314,-93.3761,3.05
+KGBK,MAGNOLIA OIL PLATFORM,LA,00243,,27.2,-92.2,224.03
+KMNE,Minden Airport,LA,00268,,32.64603,-93.29808,85.04
+KGHB,GB172/Salsa (Shell E-P),LA,00303,,27.84,-91.988,30.18
+KATP,Green Canyon 787 Atlantis,LA,00312,,27.195,-90.027,50.29
+KMIS,Main Pass 140B (Apache Corp),LA,00307,,29.296,-88.842,24.99
+KVKY,Main Pass 289C (Apache Corp),LA,00331,,29.248,-88.441,115.21
+KVOA,VK 786/Petronius (Chevron),LA,00302,,29.229,-87.781,53.04
+KGRY,Green Canyon 338 Front Runner,LA,00453,,27.625,-90.441,58.22
+KIYA,Abbeville Chris Crusta Memorial Airport,LA,00184,,29.97578,-92.08422,15.24
+K3R7,Jennings Airport,LA,00381,,30.2427,-92.6735,7.01
+K5R8,De Quincy Industrial Airpark,LA,00423,,30.4412,-93.4735,25.6
+KREG,Louisiana Regional Airport,LA,00460,,30.1714,-90.9404,4.57
+KHZR,New Roads False River Regional Airport,LA,00457,,30.7183,-91.4787,12.19
+KOPL,Opelousas St Landry Parish Airport,LA,00466,,30.5584,-92.0994,23.16
+KAPS,Port of South Louisiana Executive Regional Airport,LA,,,30.08747,-90.58283,1.98
+K0R4,Vidalia Concordia Parish,LA,,,31.562,-91.5065,16.46
+K3F3,Mansfield - C E Rusty Williams Airport,LA,,,32.0717,-93.764,98.76
+KDSF,Mississippi Canyon,LA,,,28.35,-88.26667,39.99
+K7N0,New Orleans - Superdome,LA,00483,,29.95,-90.06667,9.14
+KACK,"Nantucket, Nantucket Memorial Airport",MA,14756,,41.25389,-70.05972,11.24
+KAQW,North Adams Harriman-and-West Airport,MA,54768,,42.69731,-73.16955,197.04
+KBAF,"Westfield, Barnes Municipal Airport",MA,14775,,42.15972,-72.71278,80.61
+KBED,Laurence G Hanscom Field Airport,MA,14702,74490,42.46811,-71.29463,38.97
+KBOS,"Boston, Logan International Airport",MA,14739,72509,42.36056,-71.01056,3.25
+KBVY,"Beverly, Beverly Municipal Airport",MA,54733,,42.58361,-70.91639,27.63
+KCEF,Chicopee Falls / Westover Air Force Base,MA,14703,74491,42.2,-72.53333,0.0
+KCQX,"Chatham, Chatham Municipal Airport",MA,94624,,41.6875,-69.99333,18.49
+KEWB,"New Bedford, New Bedford Regional Airport",MA,94726,,41.67528,-70.95694,22.45
+KFIT,"Fitchburg, Fitchburg Municipal Airport",MA,04780,,42.55194,-71.75583,102.3
+KFMH,Otis Air National Guard Base,MA,14704,,41.65,-70.51667,0.0
+KHYA,"Hyannis, Barnstable Municipal-Boardman Airport",MA,94720,,41.67194,-70.26972,11.35
+KLWM,Lawrence Municipal Airport,MA,94723,,42.7126,-71.12553,41.48
+KMVY,Marthas Vineyard Airport,MA,94724,,41.39298,-70.61588,17.87
+KORE,Orange Municipal Airport,MA,54756,,42.57,-72.28693,165.78
+KORH,"Worcester, Worcester Regional Airport",MA,94746,72510,42.27056,-71.87306,305.52
+KOWD,"Norwood, Norwood Memorial Airport",MA,54704,,42.19083,-71.17389,13.01
+KPSF,Pittsfield Municipal Airport,MA,14763,,42.42691,-73.28897,351.18
+KPVC,Provincetown Municipal Airport,MA,64708,,42.07436,-70.21816,2.44
+KPYM,"Plymouth, Plymouth Municipal Airport",MA,54769,,41.90861,-70.72806,42.24
+KTAN,"Taunton, Taunton Municipal Airport",MA,54777,,41.87556,-71.02111,8.63
+KGHG,Marshfield Airport,MA,64774,,42.0983,-70.6722,0.0
+KADW,Camp Springs / Andrews Air Force Base,MD,13705,74594,38.81667,-76.85,0.0
+KAPG,Phillips Army Air Field / Aberdeen,MD,13701,,39.46667,-76.16667,17.37
+KBWI,"Baltimore, Baltimore-Washington International Airport",MD,93721,72406,39.17329,-76.68404,41.99
+KDMH,"Baltimore, Inner Harbor",MD,93784,,39.28333,-76.61667,6.1
+KESN,Easton / Newman Field,MD,03756,,38.8,-76.06667,0.0
+KFDK,Frederick Municipal Airport,MD,13730,,39.41775,-77.36982,0.0
+KFME,Fort Meade / Tipton,MD,93733,,39.08333,-76.76667,46.02
+KHGR,"Hagerstown, Washington County Regional Airport",MD,93706,,39.70583,-77.73,209.44
+KMTN,Baltimore / Martin,MD,93744,,39.33333,-76.41667,0.0
+KNAK,"Annapolis, United States Naval Academy",MD,13752,,38.99125,-76.48907,1.83
+KNHK,"Patuxent River, Naval Air Station",MD,13721,72404,38.27861,-76.41389,0.0
+KOXB,"Ocean City, Ocean City Municipal Airport",MD,93786,,38.31056,-75.12389,1.77
+KSBY,"Salisbury, Salisbury-Ocean City Wicomico County Regional Airport",MD,93720,72398,38.34056,-75.51028,14.41
+KNUI,"St. Inigoes, Webster Field, Naval Electronic Systems Engineering Activity",MD,03757,,38.14889,-76.42,0.0
+KRSP,Camp David,MD,03749,,39.645,-77.468,562.97
+K2G4,Garrett County Airport,MD,03755,,39.5803,-79.3394,0.0
+K2W6,St Marys County Airport,MD,00126,,38.3154,-76.5501,43.28
+KCGE,Cambridge-Dorchester Airport,MD,00356,,38.5393,-76.0304,6.1
+KCGS,College Park Airport,MD,00358,,38.9806,-76.9223,15.24
+KW29,Bay Bridge Field,MD,00124,,38.9767,-76.33,5.18
+KGAI,Gaithersburg - Montgomery County Airport,MD,93764,,39.16957,-77.16551,0.0
+KDMW,Carroll County Regional Jack B Poage Field,MD,03724,,39.6083,-77.0077,240.49
+KMLT,"Millinocket, Millinocket Municipal Airport",ME,14610,,45.64778,-68.69194,122.24
+K40B,Clayton Lake,ME,94605,,46.61667,-69.53333,304.8
+KAUG,"Augusta, Augusta State Airport",ME,14605,,44.32056,-69.79722,106.38
+KBGR,"Bangor, Bangor International Airport",ME,14606,72607,44.79722,-68.81861,44.92
+KBHB,"Bar Harbor, Hancock County-Bar Harbor Airport",ME,14616,,44.45,-68.36667,26.82
+KCAR,"Caribou, Caribou Municipal Airport",ME,14607,72712,46.86722,-68.01333,190.99
+KFVE,"Frenchville, Northern Aroostook Regional Airport",ME,04836,,47.285,-68.30722,300.15
+KGNR,Greenville,ME,94626,72619,45.46462,-69.5538,424.28
+KHUL,"Houlton, Houlton International Airport",ME,14609,,46.12306,-67.79194,146.42
+KIWI,Wiscasset Airport,ME,94623,,43.96401,-69.71076,16.19
+KIZG,"Fryeburg, Eastern Slopes Regional Airport",ME,54772,,43.98917,-70.95028,137.9
+KLEW,Auburn-Lewiston,ME,94709,,44.05,-70.28333,0.0
+KPQI,Presque Isle,ME,14604,72713,46.68333,-68.05,0.0
+KPWM,"Portland, Portland International Jetport",ME,14764,72606,43.64222,-70.30444,13.49
+KRKD,"Rockland, Knox County Regional Airport",ME,94601,,44.06667,-69.1,14.33
+KSFM,"Sanford, Sanford Regional Airport",ME,64709,,43.4,-70.71667,74.37
+KWVL,"Waterville, Waterville Robert LaFleur Airport",ME,14615,,44.53333,-69.68333,94.49
+K8B0,Steven A Bean Municipal Airport,ME,,,44.99,-70.6623,556.26
+KACB,"Bellaire, Antrim County Airport",MI,04863,,44.98833,-85.19833,188.98
+KADG,"Adrian, Lenawee County Airport",MI,04847,,41.86778,-84.07944,244.05
+KAMN,"Alma, Gratiot Community Airport",MI,54816,,43.32194,-84.68778,227.69
+KANJ,Sault Ste. Marie,MI,14847,72734,46.47944,-84.35722,219.75
+KAPN,"Alpena, Alpena County Regional Airport",MI,94849,72639,45.07167,-83.56444,208.25
+KARB,"Ann Arbor, Ann Arbor Municipal Airport",MI,94889,,42.22389,-83.74,250.63
+KAZO,Kalamazoo/Battle Creek International Airport,MI,94815,,42.2283,-85.54595,263.34
+KBAX,Huron County Memorial Airport,MI,54817,,43.77741,-82.98271,233.48
+KBEH,Southwest Michigan Regional Airport,MI,94871,,42.12896,-86.41515,195.43
+KBIV,Holland - West Michigan Regional Airport,MI,04839,,42.74611,-86.09667,206.49
+KBTL,Battle Creek Executive Airport,MI,14815,,42.31197,-85.24144,282.49
+KCAD,Wexford County Airport,MI,14817,,44.27847,-85.42069,397.76
+KCIU,"Sault Ste Marie, Chippewa County International Airport",MI,04869,,46.25,-84.46667,0.0
+KCMX,Houghton County Memorial Airport,MI,14858,72744,47.16597,-88.48072,323.88
+KCVX,"Charlevoix, Charlevoix Municipal Airport",MI,04870,,45.30472,-85.27472,196.9
+KDET,Coleman A Young Municipal Airport,MI,14822,,42.40729,-83.00894,189.83
+KDTW,"Detroit, Detroit Metropolitan Wayne County Airport",MI,94847,72537,42.23139,-83.33083,191.87
+KDUH,"Lambertville, Toledo Suburban Airport",MI,04872,,41.73583,-83.65528,203.91
+KERY,"Newberry, Luce County Airport",MI,04874,,46.31111,-85.45722,281.33
+KESC,Delta County Airport,MI,94853,,45.72268,-87.09372,181.05
+KFNT,"Flint, Bishop International Airport",MI,14826,72637,42.96667,-83.74944,234.85
+KGLR,Gaylord Regional Airport,MI,04854,,45.01658,-84.68937,405.94
+KGOV,"Grayling, Grayling Army Airfield",MI,04878,,44.68028,-84.72889,350.22
+KGRR,"Grand Rapids, Gerald R. Ford International Airport",MI,94860,72635,42.88083,-85.52278,240.26
+KHTL,"Houghton Lake, Roscommon County Airport",MI,94814,72638,44.35111,-84.67417,350.6
+KHYX,Saginaw County H W Browne Airport,MI,04829,,43.43191,-83.86476,182.88
+KIMT,"Iron Mountain / Kingsford, Ford Airport",MI,94893,,45.81417,-88.10889,343.17
+KIRS,"Sturgis, Kirsch Municipal Airport",MI,54827,,41.81278,-85.43917,281.94
+KISQ,"Manistique, Schoolcraft County Airport",MI,04881,,45.97472,-86.17194,209.09
+KIWD,"Ironwood, Gogebic-Iron County Airport",MI,94926,,46.53333,-90.13333,0.0
+KJXN,Jackson County Airport - Reynolds Field,MI,14833,,42.26171,-84.46147,295.94
+KJYM,Hillsdale Municipal Airport,MI,04882,,41.91972,-84.58528,360.27
+KLAN,Capital Region International Airport,MI,14836,72539,42.77616,-84.5997,261.23
+KLDM,"Ludington, Mason County Airport",MI,04883,,43.96667,-86.4,195.07
+KMBL,Manistee County - Blacker Airport,MI,94894,,44.27142,-86.23773,189.28
+KMBS,MBS International Airport,MI,14845,,43.5281,-84.08129,201.73
+KMCD,Mackinac Island Airport,MI,54820,,45.86628,-84.63437,225.55
+KMGN,"Harbor Springs, Harbor Springs Airport",MI,04884,,45.42556,-84.91333,206.35
+KMKG,"Muskegon, Muskegon County Airport",MI,14840,72636,43.17111,-86.23667,190.32
+KMNM,Menominee - Marinette Twin County Airport,MI,94896,,45.12628,-87.64438,0.0
+KMOP,"Mount Pleasant, Mount Pleasant Municipal Airport",MI,04885,,43.61667,-84.73333,230.12
+KMTC,Selfridge Air National Guard Base,MI,14804,,42.60458,-82.83528,176.78
+KOEB,Branch County Memorial Airport,MI,04886,,41.93085,-85.05429,292.3
+KONZ,"Detroit/Grosse Ile, Grosse Ile Airport",MI,54819,,42.09861,-83.16111,178.92
+KOSC,"Oscoda, Oscoda-Wurtsmith Airport",MI,14808,,44.45,-83.36667,0.0
+KOZW,"Howell, Livingston County Airport",MI,04887,,42.62944,-83.98417,287.73
+KP58,Port Hope,MI,94898,,44.02194,-82.79306,180.01
+KP59,Copper Harbor,MI,94899,72538,47.46694,-87.875,185.01
+KPHN,St Clair County International Airport,MI,04888,,42.91031,-82.53315,195.07
+KPLN,Pellston Regional Airport of Emmet County,MI,14841,,45.56443,-84.79287,215.29
+KPTK,"Pontiac, Oakland County International Airport",MI,94817,,42.66306,-83.41,295.39
+KRMY,Brooks Field Airport,MI,54821,,42.25238,-84.95253,286.82
+KRQB,"Big Rapids, Roben-Hood Airport",MI,14864,,43.7225,-85.50417,282.85
+KSAW,"Marquette, Sawyer International Airport",MI,94836,,46.35361,-87.39528,0.0
+KSJX,"Beaver Island, Beaver Island Airport",MI,04892,,45.69222,-85.56639,203.0
+KSLH,"Cheboygan, Cheboygan County Airport",MI,04893,,45.65361,-84.51917,193.55
+KTEW,"Mason, Mason Jewett Field Airport",MI,54822,,42.56583,-84.42333,281.03
+KTTF,"Monroe, Custer Airport",MI,54823,,41.94,-83.43472,186.54
+KTVC,Cherry Capital Airport,MI,14850,,44.73898,-85.56788,185.21
+KYIP,"Detroit, Willow Run Airport",MI,14853,,42.23667,-83.52611,215.67
+KFPK,"Charlotte, Fitch H Beach Airport",MI,04877,,42.57444,-84.81139,267.61
+KFKS,"Frankfort, Frankfort Dow Memorial Field Airport",MI,54818,,44.625,-86.20056,192.63
+KLWA,"South Haven, South Haven Area Regional Airport",MI,54826,,42.35083,-86.25611,203.0
+KP53,Munising - Munising Lakeshore Observation,MI,54813,,46.41167,-86.65083,186.54
+KPZQ,"Rogers City, Presque Isle County Airport",MI,54825,,45.40694,-83.81278,204.22
+KRNP,"Owosso, Owosso Community Airport",MI,54824,,42.99278,-84.13889,224.33
+KCFS,"Caro, Tuscola Area Airport",MI,54828,,43.45861,-83.44528,213.66
+KVLL,"Troy, Oakland/Troy Airport",MI,54829,,42.54278,-83.17778,218.24
+KDRM,Drummond Island Airport,MI,54844,,46.0072,-83.7427,202.69
+KHAI,Haines Memorial Airport,MI,54850,,41.9598,-85.5934,0.0
+KFFX,Fremont Municipal Airport,MI,00140,,43.43933,-85.99483,253.29
+KIKW,Jack Barstow Airport,MI,00216,,43.6624,-84.26213,194.16
+KY70,Ionia County Airport,MI,00240,,42.938,-85.0605,249.02
+KD95,Lapeer Dupont-lapeer,MI,00298,,43.0665,-83.2715,254.2
+KY31,West Branch Community Airport,MI,,,44.2448,-84.1798,268.83
+KACQ,Waseca Municipal Airport,MN,54916,,44.07024,-93.55342,343.2
+KADC,Wadena Municipal Airport,MN,94997,,46.45022,-95.21353,417.58
+KAEL,"Albert Lea, Albert Lea Municipal Airport",MN,94968,,43.68333,-93.36667,383.74
+KAIT,Aitkin Municipal Airport - Steve Kurtz Field,MN,94999,,46.54899,-93.67573,366.98
+KANE,Minneapolis / Blaine,MN,94974,,45.14258,-93.21272,277.98
+KAQP,Appleton Municipal Airport,MN,54917,,45.22488,-96.00412,310.9
+KAUM,Austin Municipal,MN,04902,,43.66667,-92.93333,375.82
+KAXN,"Alexandria, Chandler Field",MN,14910,,45.86861,-95.39417,432.78
+KBBB,Benson Municipal Airport,MN,54904,,45.33098,-95.64692,316.69
+KBDE,Baudette International Airport,MN,94961,,48.72605,-94.61215,329.79
+KBJI,Bemidji,MN,14958,72755,47.50762,-94.92783,424.28
+KBRD,Brainerd - Crow Wing County Airport,MN,94938,,46.40205,-94.12734,372.47
+KCBG,Cambridge Municipal Airport,MN,04909,,45.56275,-93.26436,288.04
+KCDD,Crane Lake - Scotts Seaplane Base,MN,94977,,48.26014,-92.47485,0.0
+KCKC,Grand Marais/Cook County Airport,MN,04911,,47.83665,-90.38644,548.03
+KCKN,Crookston Municipal Field,MN,04912,,47.84042,-96.6201,274.02
+KCOQ,Cloquet Carlton County Airport,MN,04914,,46.69869,-92.5034,0.0
+KCQM,Cook Municipal Airport,MN,54905,,47.81997,-92.68169,404.47
+KDLH,Duluth International Airport,MN,14913,72745,46.84347,-92.1866,433.4
+KDTL,Detroit Lakes Airport-Wething Field,MN,94962,,46.82854,-95.88567,0.0
+KDXX,"Madison, Madison-Lac Qui Parle County Airport",MN,04918,,44.98394,-96.17884,329.79
+KDYT,Duluth - Sky Harbor Airport,MN,04919,,46.72452,-92.04448,185.93
+KELO,"Ely, Ely Municipal Airport",MN,94964,,47.81667,-91.83333,0.0
+KETH,Wheaton Municipal Airport,MN,04922,,45.78284,-96.54607,0.0
+KEVM,Eveleth-Virginia Municipal Airport,MN,04923,,47.4274,-92.49717,0.0
+KFBL,"Faribault, Faribault Municipal Airport",MN,94969,,44.32983,-93.31186,0.0
+KFCM,Minneapolis - Flying Cloud Airport,MN,94963,,44.83217,-93.47051,275.73
+KFFM,Fergus Falls Municipal Airport-Einar Mickel,MN,94966,,46.28655,-96.15338,0.0
+KFGN,Flag Island,MN,04926,,49.31667,-94.9,329.18
+KFKA,"Preston, Fillmore County Airport",MN,04927,,43.67701,-92.17422,388.92
+KFOZ,Bigfork Municipal Airport,MN,04928,,47.78317,-93.65326,411.18
+KFRM,"Fairmont, Fairmont Municipal Airport",MN,94948,,43.65,-94.41667,353.87
+KFSE,"Fosston, Fosston Municipal Airport",MN,04929,,47.59278,-95.77333,0.0
+KGHW,Glenwood Municipal Airport,MN,04931,,45.64564,-95.31876,424.59
+KGNA,"Grand Marais, The Bay of Grand Marais",MN,94992,,47.7472,-90.3444,185.01
+KGPZ,"Grand Rapids, Grand Rapids/Itasca County Airport-Gordon Newstrom Field",MN,94919,,47.21667,-93.51667,0.0
+KGYL,Glencoe Municipal Airport,MN,04932,,44.7588,-94.0905,302.36
+KHCD,"Hutchinson, Hutchinson Municipal Airport-Butler Field",MN,04933,,44.85961,-94.38551,323.09
+KHCO,Hallock Municipal Airport,MN,04934,,48.75245,-96.93759,249.63
+KHIB,Chisholm-Hibbing Airport,MN,94931,,47.38039,-92.83245,408.22
+KBDH,Willmar Municipal Airport - John L. Rice Field,MN,00125,,45.11113,-95.12583,344.12
+KINL,Falls International Airport,MN,14918,72747,48.55944,-93.39556,357.29
+KJKJ,Moorhead Municipal Airport,MN,04939,,46.8404,-96.65442,279.5
+KJMR,Mora Municipal Airport,MN,04940,,45.88863,-93.26901,308.46
+KJYG,St. James Municipal Airport,MN,54906,,43.98558,-94.55299,325.22
+KLJF,Litchfield Municipal Airport,MN,04941,,45.09485,-94.50837,347.47
+KLVN,"Minneapolis, Airlake Airport",MN,04943,,44.62778,-93.22806,292.61
+KLXL,"Little Falls, Little Falls/Morrison County Airport-Lindbergh Field",MN,04944,,45.95,-94.35,341.99
+KMGG,"Maple Lake, Maple Lake Municipal Airport",MN,04945,,45.23535,-93.98959,313.33
+KMIC,"Minneapolis, Crystal Airport",MN,94960,,45.0625,-93.35083,263.37
+KMJQ,"Jackson, Jackson Municipal Airport",MN,04946,,43.65,-94.98333,440.74
+KMKT,"Mankato, Mankato Regional Airport",MN,14954,,44.21667,-93.91667,0.0
+KMML,"Marshall, Southwest Minnesota Regional Airport - Marshall/Ryan Field",MN,94976,,44.45,-95.81667,0.0
+KMOX,"Morris, Morris Municipal Airport",MN,04948,,45.56667,-95.96667,344.42
+KMSP,"Minneapolis, Minneapolis-St. Paul International Airport",MN,14922,72658,44.88306,-93.22889,254.54
+KMVE,Montevideo-Chippewa County Airport,MN,04951,,44.96749,-95.71159,315.16
+KMWM,Windom Municipal Airport,MN,04952,,43.90999,-95.10723,0.0
+KMZH,Moose Lake Carlton County Airport,MN,04954,,46.41632,-92.80491,327.96
+KONA,"Winona, Winona Municipal Airport-Max Conrad Field",MN,04956,,44.08333,-91.7,199.95
+KORB,Orr Regional Airport,MN,04958,,48.01707,-92.85376,399.59
+KOTG,"Worthington, Worthington Municipal Airport",MN,94927,,43.65,-95.58333,478.54
+KOVL,Olivia Regional Airport,MN,04960,,44.77923,-95.03033,327.96
+KOWA,Owatonna Degner Regional Airport,MN,04961,,44.11907,-93.25687,349.3
+KPKD,Park Rapids Municipal Airport,MN,94967,,46.89968,-95.06681,439.25
+KPNM,Princeton,MN,54914,,45.56425,-93.60801,298.4
+KPQN,Pipestone Municipal Airport,MN,04965,,43.98542,-96.29764,529.13
+KPWC,Pine River Regional Airport,MN,54915,,46.72654,-94.38485,394.72
+KROS,Rush City Regional Airport,MN,04969,,45.69628,-92.95424,281.33
+KRRT,Warroad International Memorial Airport,MN,04971,,48.93183,-95.34046,327.36
+KRST,"Rochester, Rochester International Airport",MN,14925,72644,43.90417,-92.49167,397.93
+KRWF,Redwood Falls Municipal Airport,MN,14992,,44.54828,-95.08042,312.69
+KSAZ,"Staples, Staples Municipal Airport",MN,54910,,46.38083,-94.80667,392.28
+KSGS,South St. Paul Municipal-Richard E. Flemi,MN,04974,,44.86006,-93.03203,249.94
+KSTC,St. Cloud Regional Airport,MN,14926,72655,45.54415,-94.05165,310.21
+KSTP,Downtown Holman Field,MN,14927,,44.93237,-93.05588,213.31
+KTOB,Dodge Center Airport,MN,04978,,44.02026,-92.8295,397.76
+KTVF,"Thief River Falls, Thief River Falls Regional Airport",MN,94956,,48.06667,-96.18333,339.85
+KTWM,Two Harbors,MN,04979,,47.05,-91.75,329.18
+KULM,New Ulm Municipal Airport,MN,04980,,44.32274,-94.50244,308.15
+KVVV,"Ortonville, Ortonville Muncipal-Martinson Field Airport",MN,04982,,45.30556,-96.42444,335.28
+KVWU,Waskish Municipal Airport,MN,04983,,48.15014,-94.512,359.97
+KXVG,"Longville, Longville Municipal Airport",MN,04984,,46.99028,-94.20389,406.6
+KPEX,"Paynesville, Paynesville Municipal Airport",MN,54927,,45.37247,-94.73878,0.0
+KCFE,"Buffalo, Buffalo Municipal Airport",MN,54901,,45.15889,-93.84306,294.74
+KGDB,"Granite Falls, Granite Falls Municipal Airport/Lenzen-Roe Memorial Field",MN,04999,,44.75306,-95.55583,319.13
+KHZX,Mc Gregor - Isedor Iverson Airport,MN,04997,,46.61904,-93.31267,374.29
+KDVP,Slayton Municipal Airport,MN,54924,,43.99055,-95.78102,0.0
+KLYV,Quentin Aanenson Field Airport,MN,54926,,43.62166,-96.21394,0.0
+KSYN,Stanton Airfield,MN,54930,,44.47362,-93.01448,0.0
+KTKC,"Tracy, Tracy Municipal Airport",MN,54931,,44.24951,-95.61189,0.0
+KCNB,Canby Airfield,MN,54923,,44.7295,-96.266,0.0
+KY63,Elbow Lake Municipal Airport,MN,00182,,45.98837,-95.99353,367.28
+K14Y,Todd Field Airport,MN,00179,,45.90171,-94.87275,406.3
+K04W,Hinckley Field of Dreams Airport,MN,00237,,46.02437,-92.89905,311.2
+KD39,Sauk Centre Municipal Airport,MN,00238,,45.70566,-94.93084,379.17
+K21D,Lake Elmo Airport,MN,00180,,45.0002,-92.8549,284.07
+K3N8,Mahnomen County Airport,MN,,,47.2605,-95.9281,378.99
+KY49,Walker Municipal Airport,MN,,,47.1595,-94.6453,410.87
+KRYM,Ray S Miller Army Airfield,MN,,,46.08997,-94.35986,350.52
+KROX,"Roseau, Roseau Municipal Airport/Rudy Billberg Field",MN,04970,,48.85,-95.7,322.78
+KAIZ,"Kaiser Lake Ozark, Lee C Fine Memorial Airport",MO,53931,,38.1,-92.55,264.87
+KCDJ,"Chillicothe, Chillicothe Agri-Science Center",MO,53916,,39.81667,-93.58333,231.01
+KCGI,"Cape Girardeau, Cape Girardeau Regional Airport",MO,03935,72329,37.22556,-89.57833,101.81
+KCOU,"Columbia, Columbia Regional Airport",MO,03945,72445,38.81694,-92.21833,272.23
+KDMO,"Sedalia, Sedalia Memorial Airport",MO,03994,,38.71222,-93.17444,271.64
+KFAM,Farmington Airport,MO,93996,,37.76667,-90.43333,0.0
+KIRK,"Kirksville, Kirksville Regional Airport",MO,14938,,40.09722,-92.54333,291.43
+KJEF,"Jefferson City, Jefferson City Memorial Airport",MO,03963,,38.59444,-92.15583,165.66
+KJLN,"Joplin, Joplin Regional Airport",MO,13987,,37.15611,-94.50056,296.36
+KLXT,"Lee's Summit, Lee's Summit Municipal Airport",MO,53879,,38.95972,-94.37167,304.82
+KMCI,"Kansas City, Kansas City International Airport",MO,03947,72446,39.29722,-94.73056,307.39
+KMKC,"Kansas City, Kansas City Downtown Airport",MO,13988,,39.12083,-94.59694,226.18
+KPOF,"Poplar Bluff, Poplar Bluff Municipal Airport",MO,03975,72330,36.77056,-90.32222,99.6
+KSET,"St. Charles, St. Charles County Smartt Airport",MO,53904,,38.93056,-90.4325,131.78
+KSGF,"Springfield, Springfield Regional Airport",MO,13995,72440,37.23972,-93.38972,391.09
+KSTJ,"St. Joseph, Rosecrans Memorial Airport",MO,13993,72449,39.76806,-94.90917,246.09
+KSTL,St. Louis Lambert International Airport,MO,13994,72434,38.7525,-90.37361,161.95
+KSUS,"St. Louis, Spirit Of St. Louis Airport",MO,03966,,38.65722,-90.65583,139.49
+KSZL,Whiteman Air Force Base,MO,13930,,38.73333,-93.55,0.0
+KTBN,Fort Leonard Wood,MO,03938,,37.73333,-92.13333,0.0
+KUNO,"West Plains, West Plains Municipal Airport",MO,53901,,36.87917,-91.905,373.57
+KVIH,"Rolla / Vichy, Rolla National Airport",MO,13997,72442,38.13194,-91.76528,338.46
+KMBY,Omar N Bradley Airport,MO,,,39.46341,-92.42638,264.26
+KMYJ,Mexico Memorial Airport,MO,,,39.1575,-91.8183,250.85
+KHAE,Hannibal Regional Airport,MO,00455,,39.7252,-91.4439,234.7
+KSIK,Sikeston Memorial Municipal Airport,MO,,,36.8989,-89.5618,96.01
+KLRY,Harrisonville Lawrence Smith Memorial Airport,MO,,,38.611,-94.3421,278.89
+KEVU,Maryville Northwest Missouri Regional Airport,MO,,,40.3525,-94.915,350.52
+KRCM,Skyhaven Airport,MO,00363,,38.7842,-93.8029,243.23
+KLBO,LEBANON,MO,,,37.64833,-92.6525,402.64
+KMAW,Malden Municipal Airport,MO,03817,,36.6005,-89.9922,92.05
+KRAW,Warsaw Municipal Airport,MO,,,38.3469,-93.3454,285.29
+KBBG,Branson,MO,00207,,36.5321,-93.2005,397.15
+KHFJ,Monett,MO,00149,,36.9062,-94.0128,401.12
+KGLY,"Clinton, MO",MO,00222,,38.3566,-93.6842,251.16
+KVER,Jesse Viertel Memorial Airport,MO,00295,,38.94672,-92.68267,218.24
+KFYG,Washington Regional Airport,MO,00116,,38.5876,-90.9938,149.05
+KGPH,Mosby Midwest National Air Center Airport,MO,00354,,39.3325,-94.3096,237.13
+KFWB,Branson West Muni - Emerson Field,MO,00451,,36.6985,-93.4022,411.18
+KTKX,Kennett - Kennett Memorial Airport,MO,,,36.22256,-90.03671,79.86
+KPCD,Perryville Regional Airport,MO,,,37.86867,-89.86214,113.29
+KEZZ,Cameron Memorial Airport,MO,,,39.72756,-94.27639,315.77
+KBIX,Keesler Air Force Base / Biloxi,MS,13820,,30.41667,-88.91667,0.0
+KCBM,Columbus Air Force Base,MS,13825,,33.65,-88.45,0.0
+KGLH,"Greenville, Mid Delta Regional Airport",MS,13939,74768,33.48278,-90.98556,37.84
+KGPT,Gulfport - Gulfport-Biloxi International Airport,MS,93874,74757,30.41194,-89.08083,4.93
+KGTR,"Columbus/West Point/Starkville, Golden Triangle Regional Airport",MS,53893,,33.45,-88.58333,0.0
+KGWO,"Greenwood, Greenwood-LeFlore Airport",MS,13978,74758,33.4925,-90.08361,42.66
+KHBG,"Hattiesburg, Bobby L Chain Municipal Airport",MS,13833,74759,31.26945,-89.25613,44.68
+KHEZ,"Natchez, Hardy-Anders Field Natchez-Adams County Airport",MS,03961,,31.61593,-91.29724,0.0
+KHKS,"Jackson, Hawkins Field Airport",MS,13927,,32.33472,-90.2225,101.67
+KHSA,"Bay St. Louis, Stennis International Airport",MS,63852,,30.36778,-89.45472,7.01
+KJAN,"Jackson, Jackson International Airport",MS,03940,72235,32.31972,-90.0775,90.71
+KMCB,"McComb, McComb / Pike County / John E Lewis Field Airport",MS,93919,,31.17833,-90.47194,123.56
+KMEI,"Meridian, Key Field",MS,13865,72234,32.33806,-88.74778,88.08
+KNMM,"Meridian, Meridian Naval Air Station - McCain Field",MS,03866,,32.55194,-88.55528,82.6
+KOLV,"Olive Branch, Olive Branch Airport",MS,63808,,34.97889,-89.78694,122.53
+KPIB,"Hattiesburg/Laurel, Hattiesburg-Laurel Regional Airport",MS,53808,,31.46667,-89.33333,89.31
+KPQL,Moss Point - Trent Lott International Airport,MS,53858,,30.46305,-88.53155,2.76
+KTUP,"Tupelo, Tupelo Regional Airport",MS,93862,72332,34.26806,-88.77,103.78
+KUOX,"Oxford, University-Oxford Airport",MS,53806,,34.38444,-89.53556,137.77
+KVKS,Vicksburg Municipal,MS,93999,,32.23333,-90.93333,31.39
+KNJW,"Meridian, Joe Williams Naval Outlying Field",MS,53849,,32.79611,-88.83167,164.59
+KUTA,"Tunica, Tunica Municipal Airport",MS,23903,,34.68083,-90.34639,0.0
+KDLP,WEST DELTA OIL PLATFORM,MS,00442,,29.12,-89.55,36.27
+KCKM,"Fletcher Field, Clarksdale",MS,00314,,34.2997,-90.5123,53.04
+KSTF,"George M Bryan Airport, Starkville",MS,00275,,33.4331,-88.8486,101.19
+KCRX,Corinth,MS,00311,,34.915,-88.6035,130.15
+KM40,Monroe County Airport,MS,00389,,33.87375,-88.489667,69.19
+K1R7,Brookhaven-Lincoln County Airport,MS,00317,,31.6058,-90.4093,149.05
+KJVW,JB Williams Airport,MS,00278,,32.30447,-90.41053,75.29
+KIKT,Nakika Subsea Development Platform,MS,00459,,28.5208,-88.2889,25.3
+KRNV,Cleveland Municipal Airport,MS,00474,,33.7611,-90.7579,42.67
+K0R0,Columbia-Marion County Airport,MS,,,31.297,-89.8128,80.77
+K5A6,Winona-Montgomery County Airport,MS,,,33.465,-89.7302,110.64
+KMBO,Madison Bruce Campbell Field Airport,MS,,,32.4384,-90.1014,99.36
+KPMU,Batesville Panola County,MS,,,34.3635,-89.8929,66.75
+KMJD,Picayune Municipal Airport,MS,,,30.48747,-89.65119,17.07
+KBHK,"Baker, Baker Municipal Airport",MT,94055,,46.34778,-104.2575,902.89
+KBIL,"Billings, Billings Logan International Airport",MT,24033,72677,45.80694,-108.54222,1094.34
+KBTM,"Butte, Bert Mooney Airport",MT,24135,72774,45.95472,-112.4975,1677.82
+KBZN,"Bozeman, Gallatin Field",MT,24132,,45.78806,-111.16083,1350.68
+KCTB,"Cut Bank, Cut Bank Municipal Airport",MT,24137,72769,48.60833,-112.37611,1171.85
+KDLN,"Dillon, Dillon Airport",MT,24138,72770,45.2575,-112.55444,1584.73
+KGDV,"Glendive, Dawson Community Airport",MT,24087,,47.13333,-104.8,748.89
+KGFA,Malmstrom Air Force Base,MT,24112,,47.5,-111.18333,0.0
+KGGW,"Glasgow, Glasgow International Airport",MT,94008,72768,48.21389,-106.62139,693.12
+KGTF,"Great Falls, Great Falls International Airport",MT,24143,72775,47.47333,-111.38222,1117.67
+KHLN,Helena Regional Airport,MT,24144,72772,46.60445,-111.9892,1178.12
+KHVR,"Havre, Havre City-County Airport",MT,94012,72777,48.54278,-109.76333,788.18
+KJDN,"Jordan, Jordan Airport",MT,94051,,47.32583,-106.9475,801.01
+KLVM,"Livingston, Mission Field Airport",MT,24150,,45.69944,-110.44833,1415.92
+KLWT,"Lewistown, Lewistown Municipal Airport",MT,24036,,47.04917,-109.46639,1257.4
+KMLP,"Mullan Pass, Mullan Pass Vor",MT,24154,,47.45417,-115.66972,1834.6
+KMLS,"Miles City, Frank Wiley Field Airport",MT,24037,74230,46.42806,-105.88639,800.23
+KMSO,"Missoula, Missoula International Airport",MT,24153,72773,46.92083,-114.0925,973.84
+KOLF,"Wolf Point, Clayton Airport",MT,94017,,48.09444,-105.57722,604.69
+KSDY,Sidney-Richland,MT,94028,,47.7,-104.2,603.5
+KPWD,Sher-Wood Airport,MT,,,48.789,-104.52297,685.8
+KWYS,West Yellowstone,MT,94163,,44.68333,-111.11667,0.0
+KGPI,"Kalispell, Glacier Park International Airport",MT,24146,72779,48.30417,-114.26361,903.16
+KRVF,Ruby Valley Field Airport,MT,,,45.53542,-112.30228,1458.99
+KEKS,Ennis - Big Sky Airport,MT,,,45.27436,-111.64886,1640.74
+K6S8,Laurel Municipal Airport,MT,,,45.70517,-108.76077,1071.98
+KM75,Malta Airport,MT,,,48.36694,-107.91934,687.02
+K6S0,Big Timber Airport,MT,24093,,45.80647,-109.97826,1247.85
+KMVH,N BAR Ranch Airport,MT,,,46.8381,-108.9368,1355.14
+K00U,Big Horn County Airport,MT,,,45.74439,-107.66044,922.02
+K2DP,Dare County Gunnery Range,NC,93742,74695,35.66667,-75.9,0.0
+KAKH,Gastonia Municipal Airport,NC,53870,,35.19687,-81.15545,241.54
+KASJ,"Ahoskie, Tri-County Airport",NC,93796,,36.2975,-77.17083,20.73
+KAVL,"Asheville, Asheville Regional Airport",NC,03812,72315,35.43194,-82.5375,645.57
+KBUY,Burlington Alamance Regional Airport,NC,93783,,36.04753,-79.47375,184.95
+KCLT,"Charlotte, Charlotte / Douglas International Airport",NC,13881,72314,35.21333,-80.94861,222.64
+KCPC,"Whiteville, Columbus County Municipal Airport",NC,93799,,34.27278,-78.715,29.87
+KCTZ,Sampson County Airport,NC,03727,,34.97522,-78.36276,45.11
+KDPL,Duplin County Airport,NC,03702,,34.99942,-77.97995,41.76
+KECG,Elizabeth City C/G Regional Airport,NC,13786,72307,36.25771,-76.1716,1.69
+KEDE,"Edenton, Northeastern Regional Airport",NC,03703,,36.02778,-76.56722,6.1
+KEQY,"Monroe, Monroe Airport",NC,53872,,35.01694,-80.62056,204.42
+KEWN,"New Bern, Craven County Regional Airport",NC,93719,,35.0675,-77.04722,3.23
+KEXX,"Lexington, Davidson County Airport",NC,53888,,35.78111,-80.30389,223.42
+KFAY,"Fayetteville, Fayetteville Regional Airport",NC,93740,,34.98944,-78.88,56.66
+KFBG,Fort Bragg / Simmons Army Airfield,NC,93737,74693,35.1314,-78.93158,0.0
+KFQD,"Rutherfordton, Rutherford County-Marchman Field Airport",NC,53890,,35.42833,-81.935,328.57
+KGEV,Jefferson - Ashe County Airport,NC,53892,,36.43333,-81.41667,969.26
+KGSB,Seymour-Johnson Air Force Base,NC,13713,,35.34457,-77.94583,33.22
+KGSO,"Greensboro, Piedmont Triad International Airport",NC,13723,72317,36.0975,-79.94361,276.51
+KGWW,"Goldsboro, Goldsboro-Wayne Municipal Airport",NC,03708,,35.46056,-77.965,40.84
+KHBI,"Asheboro, Asheboro Municipal Airport",NC,03709,,35.65389,-79.895,205.13
+KHFF,Mackall U. S. Army Airfield,NC,93747,,35.03333,-79.5,0.0
+KHKY,"Hickory, Hickory Regional Airport",NC,03810,72301,35.74222,-81.38222,356.57
+KHNZ,Henderson-Oxford Airport,NC,03711,,36.36352,-78.52889,160.63
+KHRJ,"Erwin, Harnett County Airport",NC,03712,,35.37861,-78.73361,60.35
+KHSE,"Hatteras, Mitchell Field",NC,93729,72304,35.23222,-75.6225,3.76
+KILM,Wilmington International Airport,NC,13748,72302,34.26681,-77.89987,6.99
+KINT,"Winston Salem, Smith Reynolds Airport",NC,93807,,36.13333,-80.22472,291.6
+KIPJ,"Lincolnton, Lincolnton-Lincoln County Regional Airport",NC,53899,,35.48306,-81.16139,266.7
+KISO,"Kinston, Kinston Regional Jetport at Stallings Field",NC,93726,,35.33333,-77.61667,28.65
+KJNX,"Smithfield, Johnston County Airport",NC,03713,,35.54083,-78.39028,50.29
+KJQF,Concord Regional Airport,NC,63801,,35.38963,-80.70735,214.88
+KLBT,Lumberton Municipal Airport,NC,13776,,34.60817,-79.059,36.91
+KMEB,Laurinburg Maxton Airport,NC,93782,,34.79132,-79.3683,64.89
+KMQI,Manteo / Dare County Regional,NC,13766,,35.91667,-75.7,3.96
+KMRH,Beaufort Smith Field,NC,93765,,34.73259,-76.6566,1.51
+KMRN,Morganton-Lenoir Airport,NC,63859,,35.81922,-81.60971,387.1
+KMWK,Mount Airy/Surry County Airport,NC,63807,,36.45675,-80.55483,380.09
+KNCA,MCAS New River,NC,93727,,34.70627,-77.44066,0.0
+KNJM,Bogue Field Marine Corps Auxiliary Field,NC,93743,,34.69403,-77.02945,0.0
+KNKT,Cherry Point Marine Corps Air Station,NC,13754,72309,34.89719,-76.88135,0.0
+KOAJ,"Jacksonville, Albert J Ellis Airport",NC,93753,,34.83333,-77.61667,29.26
+KOCW,"Washington, Warren Field Airport",NC,03741,,35.57056,-77.04972,11.58
+KPGV,Pitt-Greenville Airport,NC,13783,,35.63742,-77.38506,7.62
+KPOB,Pope Air Force Base,NC,13714,72303,35.17531,-79.00771,66.45
+KRDU,"Raleigh / Durham, Raleigh-Durham International Airport",NC,13722,72306,35.89223,-78.78185,120.53
+KRHP,Andrews-Murphy Airport,NC,63811,,35.19394,-83.86182,516.94
+KRUQ,Rowan County Airport,NC,63812,,35.64417,-80.52359,235.61
+KRWI,"Rocky Mount, Rocky Mount-Wilson Regional Airport",NC,93759,,35.855,-77.89306,45.62
+KSOP,"Pinehurst/Southern Pines, Moore County Airport",NC,03720,,35.23333,-79.4,140.51
+KSUT,Brunswick County Airport,NC,03721,,33.92921,-78.07223,7.62
+KSVH,Statesville Municipal Airport,NC,63816,,35.76362,-80.9473,294.13
+KTDF,"Roxboro, Person County Airport",NC,03722,,36.285,-78.98417,185.62
+KTNB,Watauga County Hospital Heliport,NC,63819,,36.19856,-81.65171,910.44
+KTTA,"Sanford, Sanford-Lee County Regional Airport",NC,03723,,35.5825,-79.10139,75.29
+KUKF,"North Wilkesboro, Wilkes County Airport",NC,63821,,36.21667,-81.08333,396.24
+KVUJ,"Albemarle, Stanly County Airport",NC,63824,,35.41667,-80.15083,185.62
+K1A5,Macon County Airport,NC,63844,,35.22277,-83.41497,615.7
+KRCZ,Rockingham-Hamlet Airport,NC,03738,,34.89545,-79.75755,109.12
+KEHO,Shelby Municipal Airport,NC,63843,,35.25563,-81.59858,258.17
+KEYF,Curtis L Brown Jr. Field Airport,NC,03705,,34.60418,-78.57902,40.54
+KFFA,"Kill Devil Hills, First Flight Airport",NC,03736,,36.01667,-75.66667,3.96
+KLHZ,Franklin County Airport,NC,03731,,36.02288,-78.33405,112.47
+KNBT,"Piney Island, Bt-11 Bombing Range",NC,00370,,35.02222,-76.4625,5.18
+KONX,"Currituck, Currituck County Airport",NC,03737,,36.39889,-76.01611,4.88
+KSIF,"Reidsville, Rockingham County NC Shiloh Airport",NC,03763,,36.43722,-79.85083,0.0
+KAFP,Anson County Airport,NC,00383,,35.01944,-80.07836,91.14
+K24A,Jackson County Airport,NC,,,35.3159,-83.2071,870.81
+KETC,Tarboro-Edgecombe Airport,NC,00290,,35.9373,-77.54648,16.15
+KIXA,Halifax-Northampton Regional Airport,NC,00231,,36.33,-77.635,44.2
+K7W6,Hyde County Airport,NC,,,35.56204,-75.95566,2.44
+KFAR,"Fargo, Hector International Airport",ND,14914,72753,46.92528,-96.81111,272.78
+KJMS,"Jamestown, Jamestown Municipal Airport",ND,14919,,46.92972,-98.67833,455.69
+KDVL,"Devils Lake, Devils Lake Municipal Airport",ND,94928,,48.11667,-98.91667,439.22
+KRDR,Grand Forks Air Force Base,ND,94925,,47.96667,-97.4,0.0
+KGFK,"Grand Forks, Grand Forks International Airport",ND,14916,72757,47.94806,-97.1825,255.55
+KBIS,"Bismarck, Bismarck Municipal Airport",ND,24011,72764,46.7825,-100.75722,506.21
+KDIK,"Dickinson, Dickinson Municipal Airport",ND,24012,72763,46.79722,-102.80194,787.42
+KMIB,Minot Air Force Base,ND,94011,,48.41667,-101.35,0.0
+KMOT,Minot International Airport,ND,24013,,48.25203,-101.2689,505.18
+KN60,Garrison,ND,94041,,47.64583,-101.43944,581.99
+KHEI,"Hettinger, Hettinger Municipal Airport",ND,94038,,46.01056,-102.64972,823.24
+KBWP,"Wahpeton, Harry Stern Airport",ND,54922,,46.24389,-96.60722,0.0
+K2C8,CAVALIER,ND,00283,,48.78377,-97.62964,272.19
+KGAF,GRAFTON,ND,00291,,48.4,-97.37,251.16
+K06D,ROLLA,ND,00281,,48.88,-99.62,555.04
+KRUG,RUGBY,ND,00293,,48.38,-100.02,472.14
+K46D,CARRINGTON,ND,00266,,47.45,-99.15,490.12
+K7L2,LINTON,ND,00318,,46.22,-100.25,542.24
+KHZE,HAZEN,ND,00292,,47.28,-101.58,553.21
+KD50,CROSBY,ND,00287,,48.93,-103.3,594.06
+KD60,TIOGA,ND,00289,,48.38,-102.9,690.98
+KY19,MANDAN,ND,00296,,46.77,-100.9,593.14
+KS25,WATFORD CITY,ND,00294,,47.8,-103.25,643.13
+K20U,BEACH,ND,00282,,46.93,-103.98,840.03
+KD55,Langdon,ND,00288,,48.7531,-98.3937,490.12
+K9D7,CANDO,ND,00285,,48.48,-99.23,450.19
+K96D,Walhalla Municipal Airport,ND,00368,,48.94017,-97.90528,290.17
+KBAC,Valley City,ND,00301,,46.9412,-98.018,427.02
+KGWR,Gwinner,ND,00150,,46.2187,-97.6435,386.18
+K2D5,Oakes Municipal Airport,ND,00321,,46.1731,-98.0799,407.21
+K5H4,Harvey Municipal Airport,ND,00322,,47.7912,-99.9317,489.2
+KS32,Cooperstown,ND,00327,,47.4228,-98.1059,434.04
+K08D,Stanley Municipal Airport,ND,00300,,48.3008,-102.4064,684.28
+KD57,Glen Ullin Regional Airport,ND,,,46.8128,-101.8602,636.73
+KBWW,Bowman Regional Airport,ND,,,46.16551,-103.30074,903.73
+KXWA,Williston Basin International Airport,ND,94099,,48.26086,-103.75114,718.04
+KOMA,Omaha - Eppley Airfield,NE,14942,72550,41.3119,-95.90185,298.82
+KLNK,"Lincoln, Lincoln Municipal Airport",NE,14939,72551,40.83111,-96.76444,356.73
+KBIE,Beatrice Municipal,NE,94947,,40.3,-96.75,0.0
+KGRI,"Grand Island, Central Nebraska Regional Airport",NE,14935,72552,40.95833,-98.3125,561.67
+KODX,"Ord, Evelyn Sharp Field Airport",NE,94958,,41.62417,-98.9525,627.45
+KHSI,"Hastings, Hastings Municipal Airport",NE,94949,,40.60056,-98.42583,591.05
+KEAR,"Kearney, Kearney Municipal Airport",NE,14905,,40.73333,-99.0,649.22
+KTQE,"Tekamah, Tekamah Municipal Airport",NE,94978,,41.76694,-96.17778,312.01
+KFNB,"Falls City, Brenner Field Airport",NE,94957,,40.07889,-95.59194,298.76
+KOFF,Omaha / Offutt Air Force Base,NE,14949,72554,41.11667,-95.9,0.0
+KBBW,"Broken Bow, Broken Bow Municipal Airport",NE,94946,,41.43333,-99.65,771.12
+KANW,Ainsworth Regional Airport,NE,94975,,42.57484,-99.99832,787.6
+KOFK,"Norfolk, Stefan Memorial Airport",NE,14941,72556,41.98056,-97.43694,476.19
+KFET,Fremont Municipal Airport,NE,04924,,41.45,-96.51667,366.67
+KOLU,"Columbus, Columbus Municipal Airport",NE,94951,,41.45,-97.33333,0.0
+KONL,O'Neill / Baker Field,NE,04957,,42.46667,-98.68333,0.0
+KSNY,"Sidney, Sidney Municipal Airport",NE,24030,72561,41.09944,-102.98556,1306.83
+KLBF,"North Platte, North Platte Regional Airport",NE,24023,72562,41.12194,-100.66833,848.81
+KMCK,"McCook, McCook Municipal Airport",NE,94040,,40.20306,-100.58833,779.41
+KIML,"Imperial, Imperial Municipal Airport",NE,24091,,40.51667,-101.61667,996.45
+KHDE,Brewster Field Airport,NE,04935,,40.45,-99.33333,702.26
+KAIA,"Alliance, Alliance Municipal Airport",NE,24044,,42.05722,-102.8,1196.29
+KCDR,"Chadron, Chadron Municipal Airport",NE,24017,,42.8375,-103.09528,1003.03
+KBFF,"Scottsbluff, Heilig Field",NE,24028,72566,41.86694,-103.58583,1205.98
+KVTN,"Valentine, Miller Field",NE,24032,72567,42.85861,-100.55139,790.95
+KAUH,"Aurora, Aurora Municipal Airport",NE,04901,,40.89389,-97.99444,548.34
+KLXN,"Lexington, Jim Kelly Field Airport",NE,14994,,40.79111,-99.77722,733.04
+KOGA,"Ogallala, Searle Field Airport",NE,94063,,41.11972,-101.76889,990.6
+KAFK,"Nebraska City, Nebraska City Municipal Airport",NE,04993,,40.6,-95.85,351.43
+KBVN,Albion Municipal Airport,NE,54921,,41.73016,-98.05453,548.34
+KHJH,"Hebron, Hebron Municipal Airport",NE,04998,,40.15222,-97.58694,448.97
+KIBM,"Kimball, Kimball Municipal Airport/Robert E Arraj Field",NE,94073,,41.18333,-103.66667,1491.69
+KJYR,"York, York Municipal Airport",NE,14989,,40.89667,-97.62278,507.19
+KMLE,"Omaha, Millard Airport",NE,04992,,41.19583,-96.11222,319.74
+KTIF,"Thedford, Thomas County Airport",NE,94087,,41.96194,-100.56889,888.19
+KLCG,"Wayne, Wayne Municipal Airport",NE,54925,,42.24167,-96.98139,434.04
+KPMV,"Plattsmouth, Plattsmouth Municipal Airport",NE,00470,,40.95,-95.91778,367.28
+KBTA,Blair Municipal Airport,NE,00436,,41.4148,-96.109,395.94
+KAHQ,Wahoo,NE,00323,,41.2406,-96.5946,373.08
+KAFN,Jaffrey Airport-Silver Ranch,NH,54770,,42.80667,-72.00127,308.39
+KASH,Nashua - Boire Field Airport,NH,54754,,42.77981,-71.51409,0.0
+KBML,"Berlin, Berlin Municipal Airport",NH,94700,72616,44.57611,-71.17861,342.32
+KCON,Concord Municipal Airport,NH,14745,72605,43.20489,-71.50257,103.15
+KDAW,Rochester - Skyhaven Airport,NH,54791,,43.27939,-70.92426,100.19
+KEEN,"Keene, Dillant-Hopkins Airport",NH,94721,,42.9,-72.26667,146.61
+KHIE,Whitefield - Mount Washington Regional Airport,NH,54728,,44.36595,-71.55218,319.27
+KLCI,"Laconia, Laconia Municipal Airport",NH,54736,,43.56667,-71.41667,0.0
+KLEB,Lebanon Municipal Airport,NH,94765,,43.6271,-72.30537,168.92
+KMHT,Manchester Airport,NH,14710,,42.92964,-71.43559,69.82
+KMWN,Mount Washington,NH,14755,72613,44.27086,-71.30337,1911.71
+KPSM,Pease Air Force Base / Portsmouth,NH,04743,,43.08333,-70.81667,0.0
+K1P1,Plymouth Municipal Airport,NH,64773,,43.77714,-71.75598,0.0
+K12N,"Andover, Aeroflex-Andover Airport",NJ,54779,,41.00928,-74.73628,176.78
+KACY,"Atlantic City, Atlantic City International Airport",NJ,93730,72407,39.45202,-74.56699,17.78
+KBLM,Belmar-Farmingdale,NJ,54760,,40.18333,-74.13333,0.0
+KCDW,"Caldwell, Essex County Airport",NJ,54743,,40.87639,-74.28306,51.97
+KEWR,"Newark, Newark International Airport",NJ,14734,72502,40.6825,-74.16944,1.95
+KFWN,"Sussex, Sussex Airport",NJ,54793,,41.19925,-74.62594,127.53
+KMIV,"Millville, Millville Municipal Airport",NJ,13735,,39.36623,-75.0778,17.75
+KMMU,Morristown Municipal,NJ,54738,,40.8,-74.41667,0.0
+KNEL,Lakehurst Naval Air Station,NJ,14780,72409,40.03661,-74.35251,0.0
+KSMQ,"Somerville, Somerset Airport",NJ,54785,,40.62405,-74.66898,30.07
+KTEB,"Teterboro, Teterboro Airport",NJ,94741,,40.85889,-74.05667,0.8
+KTTN,"Trenton, Mercer County Airport",NJ,14792,,40.27639,-74.81639,57.93
+KVAY,"Mount Holly, South Jersey Regional Airport",NJ,93780,,39.94076,-74.84071,15.17
+KWRI,Mcguire Air Force Base,NJ,14706,,40.01667,-74.6,0.0
+KWWD,"Wildwood, Cape May County Airport",NJ,03726,,39.01667,-74.91667,7.01
+KMJX,Miller Air Park,NJ,00462,,39.927,-74.292,24.99
+KLDJ,Linden Airport,NJ,00178,,40.6174,-74.2446,7.01
+KABQ,"Albuquerque, Albuquerque International Airport",NM,23050,72365,35.04167,-106.61472,1619.01
+KAEG,"Albuquerque, Double Eagle II Airport",NM,03034,,35.145,-106.795,1779.12
+KALM,Alamogordo-White,NM,93097,,32.83512,-105.99408,0.0
+KATS,Artesia Municipal Airport,NM,03035,,32.85239,-104.46444,1079.3
+KCAO,Clayton Municipal Airpark,NM,23051,72360,36.44834,-103.15367,1514.55
+KCNM,"Carlsbad, Cavern City Air Terminal Airport",NM,93033,,32.3375,-104.26333,990.54
+KCQC,Clines Corners,NM,03027,,35.0,-105.66667,2158.01
+KCVN,Clovis Municipal Airport,NM,23077,,34.42274,-103.0802,0.0
+KCVS,Cannon Air Force Base / Clovis,NM,23008,,34.38333,-103.31667,0.0
+KDMN,Deming Municipal Airport,NM,23078,,32.25927,-107.72051,1311.61
+KFMN,"Farmington, Four Corners Regional Airport",NM,23090,,36.74361,-108.22917,1676.18
+KGNT,"Grants, Grants-Milan Municipal Airport",NM,93057,,35.16528,-107.90222,1987.3
+KGUP,Gallup Municipal Airport,NM,23081,,35.50859,-108.79316,1970.33
+KHMN,Holloman Air Force Base,NM,23002,,32.85,-106.1,1267.36
+KHOB,Hobbs / Lea County,NM,93034,,32.68333,-103.21667,1114.04
+KLAM,Los Alamos Airport,NM,93091,,35.87969,-106.26869,0.0
+KLRU,"Las Cruces, Las Cruces International Airport",NM,93041,,32.28944,-106.92194,1357.58
+KLVS,Las Vegas Municipal Airport,NM,23054,,35.65584,-105.13852,2094.0
+KROW,Roswell International Air Center Airport,NM,23009,72268,33.30737,-104.50816,1104.56
+KRTN,Raton Municipal - Crews Field Airport,NM,23052,,36.741528,-104.502183,1936.42
+KSAF,Santa Fe County Municipal Airport,NM,23049,,35.61097,-106.09573,1916.31
+KSKX,"Taos, Taos Regional Airport",NM,03012,,36.45,-105.66667,0.0
+KSRR,Sierra Blanca Regional Airport,NM,93083,,33.46677,-105.52778,2075.69
+KSVC,Grant County Airport,NM,93063,,32.63099,-108.14658,1637.69
+KTCC,Tucumcari Municipal Airport,NM,23048,,35.18053,-103.60145,1230.91
+KTCS,"Truth Or Consequences, Truth Or Consequences Municipal Airport",NM,93045,72271,33.23667,-107.26806,1470.19
+K4MR,Melrose Gunnery Range,NM,93064,74638,34.3,-103.8,1325.88
+KONM,Socorro Municipal Airport,NM,93040,,34.02633,-106.90372,0.0
+KAXX,Angel Fire Airport,NM,00137,,36.42586,-105.29028,2554.22
+KLSB,Lordsburg Municipal Airport,NM,00345,,32.33346,-108.69174,1304.24
+K0A0,Spaceport America AWOS,NM,,,32.99,-106.96739,1401.01
+KSXU,Santa Rosa Route 66 Airport,NM,,,34.93567,-104.64256,1460.3
+KDRA,"Mercury, Desert Rock Airport",NV,03160,72387,36.6207,-116.02868,984.5
+KEKO,"Elko, Elko Regional Airport",NV,24121,,40.82404,-115.78635,1540.51
+KELY,"Ely, Ely Airport",NV,23154,72486,39.295,-114.84528,1904.89
+KLAS,Harry Reid International Airport,NV,23169,72386,36.07188,-115.1634,662.82
+KLOL,"Lovelock, Derby Field Airport",NV,24172,,40.0684,-118.57017,1189.52
+KLSV,Nellis Air Force Base,NV,23112,,36.23333,-115.03333,0.0
+KNFL,"Fallon, Naval Air Station",NV,93102,,39.43222,-118.68556,0.0
+KP68,Eureka Airport ASOS,NV,03170,72477,39.60139,-116.00556,1809.29
+KRNO,"Reno, Reno Tahoe International Airport",NV,03198,72489,39.50776,-119.76819,1518.0
+KTPH,"Tonopah, Tonopah Airport",NV,23153,,38.06028,-117.08722,1645.68
+KVGT,"Las Vegas, North Las Vegas Airport",NV,53123,,36.21205,-115.19395,667.36
+KWMC,"Winnemucca, Winnemucca Municipal Airport",NV,24128,72583,40.90194,-117.80722,1310.59
+KHND,Las Vegas - Henderson Executive Airport,NV,53127,,35.97665,-115.13221,749.2
+KHTH,Hawthorne Industrial Airport,NV,,,38.54482,-118.63137,1284.73
+KINS,Nellis AFB - Indian Springs Auxiliary Airfield,NV,23141,74614,36.58573,-115.69008,0.0
+KCXP,Carson City Airport,NV,00171,,39.19056,-119.73191,1432.26
+KBVU,Boulder City Municipal Airport,NV,00269,,35.9475,-114.8611,671.17
+KRTS,Reno/Stead,NV,00279,,39.6682,-119.8764,1540.15
+K05U,Eureka Airport AWOS,NV,00170,,39.60209,-116.00625,1815.08
+KMEV,Minden-Tahoe Airport,NV,,,38.9963,-119.75,1440.48
+KTMT,Austin Airport,NV,,,39.46794,-117.19745,1748.09
+KALB,Albany International Airport,NY,54775,72518,42.74722,-73.79912,95.01
+KART,"Watertown, Watertown International Airport",NY,94790,,43.99194,-76.02167,94.66
+KBGM,"Binghamton, Binghamton Regional Airport",NY,04725,72515,42.20778,-75.98139,485.69
+KBUF,"Buffalo, Greater Buffalo International Airport",NY,14733,72528,42.93998,-78.73604,218.39
+KDKK,"Dunkirk, Chautauqua County / Dunkirk Airport",NY,14747,,42.49306,-79.27583,203.92
+KDSV,"Dansville, Dansville Municipal Airport",NY,94704,72523,42.56944,-77.71444,195.95
+KELM,"Elmira, Elmira / Corning Regional Airport",NY,14748,,42.15639,-76.90278,285.3
+KELZ,"Wellsville, Wellsville Municipal Airport",NY,54757,,42.1075,-77.98444,637.62
+KFOK,The Gabreski Airport,NY,14719,,40.85053,-72.61927,13.09
+KFRG,Farmingdale - Republic Airport,NY,54787,,40.73443,-73.41639,22.84
+KFZY,"Fulton, Oswego County Airport",NY,54773,,43.35083,-76.38806,143.54
+KGFL,"Glens Falls, Floyd Bennett Memorial Airport",NY,14750,72522,43.34111,-73.61056,97.72
+KGTB,Fort Drum / Wheeler-Sack U. S. Army Airfield,NY,14715,,44.05,-75.73333,0.0
+KHPN,White Plains - Westchester County Airport,NY,94745,,41.06237,-73.70456,112.93
+KHWV,"Shirley, Brookhaven Airport",NY,54790,,40.82167,-72.86889,20.0
+KIAG,"Niagara Falls, Niagara Falls International Airport",NY,04724,,43.10829,-78.93818,178.33
+KISP,"Islip, Long Island Mac Arthur Airport",NY,04781,72505,40.79389,-73.10167,25.37
+KITH,"Ithaca, Ithaca Tompkins Regional Airport",NY,94761,,42.49083,-76.45833,0.0
+KJFK,"New York, Kennedy International Airport",NY,94789,74486,40.63915,-73.76393,2.66
+KJHW,"Jamestown, Chautauqua County/Jamestown Airport",NY,04720,,42.15,-79.26667,0.0
+KLGA,"New York, La Guardia Airport",NY,14732,72503,40.77917,-73.88,2.99
+KMGJ,"Montgomery, Orange County Airport",NY,04789,,41.50917,-74.265,108.2
+KMSS,"Massena, Massena International-Richards Field",NY,94725,,44.93583,-74.84556,60.87
+KMSV,"Monticello, Sullivan County International Airport",NY,54746,,41.7,-74.8,427.63
+KMTP,"Montauk, Montauk Airport",NY,54780,,41.07306,-71.92333,2.01
+KNYC,"New York City, Central Park",NY,94728,72506,40.78333,-73.96667,42.67
+KOGS,Ogdensburg International Airport,NY,,,44.68186,-75.4655,90.53
+KOLE,Cattaraugus County-Olean Airport,NY,00465,,42.24119,-78.37136,651.05
+KPBG,Plattsburgh International Airport ,NY,64776,,44.65,-73.46667,50.41
+KPOU,"Poughkeepsie, Dutchess County Airport",NY,14757,,41.62667,-73.88417,46.58
+KRME,Griffiss Air Force Base / Rome,NY,64775,,43.23333,-75.4,144.66
+KROC,"Rochester, Greater Rochester International Airport",NY,14768,72529,43.11667,-77.67667,164.47
+KSCH,Schenectady Airport,NY,04741,,42.85,-73.93333,0.0
+KSLK,"Saranac Lake, Adirondack Regional Airport",NY,94740,,44.39306,-74.20278,505.57
+KSWF,Newburgh / Stewart,NY,14714,,41.5,-74.1,0.0
+KSYR,"Syracuse, Syracuse Hancock International Airport",NY,14771,72519,43.10917,-76.10333,124.92
+KPEO,"Penn Yan, Penn Yan Airport",NY,54778,,42.64306,-77.04944,267.37
+KVGC,Hamilton Municipal Airport,NY,,,42.84344,-75.56119,346.01
+KPTD,Potsdam Municipal Airport/Damon Field,NY,,,44.67667,-74.94844,144.48
+KSDC,Williamson-Sodus Airport,NY,,,43.23459,-77.11946,424.19
+KN03,Cortland County-Chase Field,NY,,,42.5926,-76.2149,365.15
+KNY0,Fulton County Airport,NY,,,42.99819,-74.32955,268.53
+KJRB,New York Downtown Manhattan,NY,,,40.7012,-74.009,2.13
+K6B9,Skaneateles Aero Drome,NY,,,42.914,-76.4408,316.38
+KGVQ,Genesee County Airport,NY,,,43.03175,-78.16967,278.28
+KAKR,"Akron, Akron Fulton International Airport",OH,14813,,41.0375,-81.46417,318.13
+KAOH,"Lima, Lima Allen County Airport",OH,04850,,40.70806,-84.02139,293.04
+KBJJ,"Wooster, Wayne County Airport",OH,04842,,40.87306,-81.88667,336.84
+KBKL,"Cleveland, Burke Lakefront Airport",OH,04853,,41.52556,-81.66889,177.52
+KCAK,Akron Canton Regional Airport,OH,14895,72521,40.91811,-81.44343,368.76
+KCGF,Cleveland / Cuyahoga,OH,04805,,41.56667,-81.48333,0.0
+KCLE,Cleveland Hopkins International Airport,OH,14820,72524,41.40569,-81.85193,236.75
+KCMH,John Glenn Columbus International Airport,OH,14821,72428,39.9907,-82.87691,246.84
+KDAY,"Dayton, Cox Dayton International Airport",OH,93815,72429,39.90611,-84.21861,302.64
+KDFI,"Defiance, Defiance Memorial Airport",OH,04851,,41.33639,-84.42944,215.04
+KFDY,"Findlay, Findlay Airport",OH,14825,,41.01361,-83.66861,246.52
+KFFO,Dayton / Wright-Patterson Air Force Base,OH,13840,74570,39.83333,-84.05,0.0
+KHAO,Butler County Regional Airport,OH,53855,,39.36121,-84.52061,184.7
+KHZY,Ashtabula - Northeast Ohio Regional Airport,OH,04857,,41.77944,-80.69667,278.35
+KILN,"Wilmington, Airborne Airpark Airport",OH,13841,72426,39.42833,-83.77917,322.69
+KLCK,Rickenbacker Air National Guard Base,OH,13812,,39.81667,-82.93333,0.0
+KLHQ,"Lancaster, Fairfield County Airport",OH,53844,,39.75722,-82.66333,258.72
+KLNN,Willoughby,OH,04809,,41.68333,-81.38333,0.0
+KLPR,"Lorain / Elyria, Lorain County Regional Airport",OH,04849,,41.34611,-82.17944,241.04
+KLUK,"Cincinnati, Cincinnati Municipal Airport Lunken Field",OH,93812,,39.10583,-84.41583,144.85
+KMFD,Mansfield - Mansfield Lahm Regional Airport,OH,14891,72420,40.82028,-82.51778,392.76
+KMGY,"Dayton, Dayton-Wright Brothers Airport",OH,53859,,39.58889,-84.22472,290.43
+KMNN,"Marion, Marion Municipal Airport",OH,04855,,40.61667,-83.06833,300.31
+KOSU,"Columbus, Ohio State University Airport",OH,04804,,40.07806,-83.07806,274.99
+KPHD,"New Philadelphia, Harry Clever Field",OH,04852,,40.47194,-81.42361,271.7
+KSGH,"Springfield, Springfield-Beckley Municipal Airport",OH,63888,,39.84028,-83.84,0.0
+KTDZ,Toledo - Toledo Executive Airport,OH,04848,,41.56306,-83.47639,189.01
+KTOL,Toledo - Toledo Express Airport,OH,94830,72536,41.58704,-83.80539,205.49
+KTZR,"Columbus, Bolton Field Airport",OH,63825,,39.90083,-83.13722,0.0
+KUNI,OHIO U/ATHEN-ALBANY,OH,00131,,39.22,-82.23,233.17
+KVTA,"Newark, Newark Heath Airport",OH,04858,,40.02278,-82.4625,267.62
+KYNG,"Youngstown, Youngstown-Warren Regional Airport",OH,14852,72525,41.25444,-80.67389,355.62
+KZZV,"Zanesville, Zanesville Municipal Airport",OH,93824,,39.94444,-81.89222,268.56
+KAXV,Neil Armstrong Airport,OH,,,40.49356,-84.29808,277.98
+KMWO,Hook Field Municipal Airport,OH,63887,,39.531,-84.3953,0.0
+K4I3,Knox County Airfield,OH,00139,,40.3289,-82.5261,363.02
+KI68,Warren County Airport,OH,,,39.46217,-84.25184,273.71
+KPOV,Portage County Airport,OH,00380,,41.21,-81.252,365.15
+KDLZ,Delaware Municipal Airport,OH,00315,,40.2797,-83.1148,288.04
+KEDJ,Bellefontaine Regional Airport,OH,00324,,40.3723,-83.8192,342.29
+KMRT,Marysville Union County Airport,OH,00232,,40.2247,-83.3516,311.2
+KVES,Versailles Darke County Airport,OH,00251,,40.2044,-84.5319,307.24
+KPCW,Port Clinton Carl R Keller Field Airport,OH,00468,,41.5163,-82.8687,179.83
+KI69,Batavia Clermont County Airport,OH,00458,,39.0784,-84.2102,256.95
+KUSE,Wauseon Fulton County Airport,OH,,,41.6101,-84.1272,237.44
+KRZT,Chillicothe Ross County Airport,OH,,,39.4404,-83.0231,220.98
+KI67,Cincinnati W Airport,OH,43801,,39.2589,-84.7743,178.03
+KUYF,London Madison County Airport,OH,,,39.9327,-83.462,329.49
+KI19,Lewis A. Jackson Regional Airport,OH,,,39.69352,-83.98958,289.26
+KOWX,Ottawa Putnam County Airport,OH,,,41.0356,-83.982,232.56
+KCDI,Cambridge Municipal Airport,OH,,,39.975,-81.5776,243.54
+KI23,Fayette County Airport,OH,,,39.5704,-83.4205,298.7
+KPMH,Greater Portsmouth Regional Airport,OH,,,38.84047,-82.84731,202.08
+KOXD,Miami University Airport,OH,,,39.50225,-84.78436,316.99
+KI74,Urbana Grimes Field,OH,,,40.1326,-83.7534,325.22
+KVNW,Van Wert County Airport,OH,,,40.86383,-84.60636,239.27
+KGUY,Guymon / Guymon Municipal Airport,OK,03030,,36.68167,-101.50528,948.72
+K1F0,"Ardmore, Ardmore Downtown Executive Airport",OK,53929,,34.14694,-97.1225,257.25
+KADH,"Ada, Ada Municipal Airport",OK,53930,,34.80444,-96.67139,309.68
+KADM,"Ardmore, Ardmore Municipal Airport",OK,93940,,34.30306,-97.01944,220.98
+KAVK,"Alva, Alva Regional Airport",OK,53933,,36.77306,-98.67,449.28
+KBVO,"Bartlesville, Bartlesville Municipal Airport",OK,03959,,36.76833,-96.02611,210.41
+KCHK,"Chickasha, Chickasha Municipal Airport",OK,53935,,35.09611,-97.96611,350.52
+KCQB,"Chandler, Chandler Municipal Airport",OK,53936,,35.72389,-96.82028,299.92
+KCSM,"Clinton, Clinton-Sherman Airport",OK,03932,,35.35667,-99.20361,584.68
+KDUA,"Durant, Eaker Field Airport",OK,53937,,33.94222,-96.39444,212.75
+KDUC,"Duncan, Halliburton Field Airport",OK,53938,,34.47083,-97.96,339.24
+KEND,Vance Air Force Base / Enid,OK,13909,,36.33333,-97.91667,0.0
+KFDR,"Frederick, Frederick Municipal Airport",OK,03981,,34.34444,-98.98306,378.15
+KFSI,Fort Sill,OK,13945,72355,34.6,-98.4,0.0
+KGAG,"Gage, Gage Airport",OK,13975,74641,36.29667,-99.76889,665.93
+KGCM,"Claremore, Claremore Regional Airport",OK,53940,,36.29444,-95.47972,220.98
+KGMJ,"Grove, Grove Municipal Airport",OK,53941,,36.60528,-94.73861,253.9
+KGOK,"Guthrie, Guthrie Municipal Airport",OK,53913,,35.85194,-97.4075,324.57
+KHBR,"Hobart, Hobart Municipal Airport",OK,93986,,34.98944,-99.0525,473.35
+KJSV,"Sallisaw, Sallisaw Municipal Airport",OK,53946,,35.43806,-94.80278,160.93
+KJWG,"Watonga, Watonga Airport",OK,53947,,35.86472,-98.42083,471.83
+KLAW,"Lawton, Lawton Municipal Airport",OK,03950,,34.5575,-98.41667,326.03
+KLTS,Altus Air Force Base,OK,13902,72352,34.65,-99.26667,0.0
+KMKO,Muskogee-Davis Regional Airport,OK,93953,,35.65694,-95.35972,183.39
+KMLC,"McAlester, McAlester Regional Airport",OK,93950,,34.88222,-95.78306,229.55
+KOKC,"Oklahoma City, Will Rogers World Airport",OK,13967,72353,35.38861,-97.60028,389.94
+KOKM,"Okmulgee, Okmulgee Municipal Airport",OK,53949,,35.66806,-95.94861,219.46
+KOUN,Norman / Max Westheimer,OK,03948,72357,35.2435,-97.4708,344.91
+KPNC,"Ponca City, Ponca City Municipal Airport",OK,13969,72453,36.73056,-97.09972,304.33
+KPVJ,"Pauls Valley, Pauls Valley Municipal Airport",OK,53951,,34.71111,-97.22333,295.05
+KPWA,"Oklahoma City, Wiley Post Airport",OK,03954,,35.54111,-97.64667,390.2
+KRKR,"Poteau, Robert S Kerr Airport",OK,53953,,35.02167,-94.62139,137.46
+KRVS,Tulsa - Jones Jr. Airport,OK,53908,,36.04255,-95.99005,189.09
+KSWO,"Stillwater, Stillwater Regional Airport",OK,03965,,36.16222,-97.08917,292.85
+KTIK,Tinker Air Force Base,OK,13919,72354,35.41667,-97.38333,0.0
+KTQH,"Tahlequah, Tahlequah Municipal Airport",OK,53956,,35.92889,-95.00444,266.09
+KTUL,"Tulsa, Tulsa International Airport",OK,13968,72356,36.1975,-95.88639,194.86
+KWDG,"Enid, Enid Woodring Regional Airport",OK,53986,,36.37917,-97.79111,0.0
+KWWR,"Woodward, West Woodward Airport",OK,53957,,36.43667,-99.52111,666.9
+KSNL,"Shawnee, Shawnee Municipal Airport",OK,93911,,35.35722,-96.94278,0.0
+KAXS,"Altus, Altus/Quartz Mountain Regional Airport",OK,63901,,34.69861,-99.33806,0.0
+KCLK,"Clinton, Clinton Regional Airport",OK,13999,,35.53806,-98.92139,0.0
+KCUH,"Cushing, Cushing Municipal Airport",OK,53993,,35.94972,-96.77278,0.0
+KSRE,"Seminole, Seminole Municipal Airport",OK,23902,,35.27444,-96.675,0.0
+KOJA,"Weatherford, Thomas P Stafford Airport",OK,00364,,35.54472,-98.66833,489.2
+K4O4,"Idabel, Mc Curtain County Regional Airport",OK,53990,,33.90917,-94.85917,0.0
+KRQO,"El Reno, El Reno Regional Airport",OK,53999,,35.4725,-98.00556,0.0
+KBKN,Blackwell-Tonkawa Municipal Airport,OK,00212,,36.74511,-97.34958,314.25
+KRCE,Clarence E Page Municipal Airport,OK,00215,,35.48808,-97.82356,413.0
+KGZL,Stigler,OK,00214,,35.2891,-95.0939,183.18
+KHHW,Hugo Stan Stamper Municipal Airport,OK,00172,,34.0348,-95.5419,174.04
+KOWP,William R Pogue Municipal Airport,OK,00467,,36.1753,-96.1518,272.19
+KELK,Elk City Regional Business Airport,OK,03977,,35.4308,-99.3943,0.0
+KHSD,Sundance Airport,OK,,,35.60183,-97.70616,363.63
+KH71,Mid-America Industrial Airport,OK,,,36.22538,-95.33005,189.59
+KMIO,Miami Regional Airport,OK,,,36.90922,-94.8875,246.28
+KGCD,Grant County Regional Airport,OR,00387,,44.40287,-118.96715,1127.15
+KAST,"Astoria, Astoria Regional Airport",OR,94224,72791,46.15694,-123.8825,3.37
+KBKE,Baker Municipal Airport,OR,24130,,44.84302,-117.80987,1025.01
+KBNO,Burns Municipal Airport,OR,94185,72683,43.59488,-118.95791,1262.8
+KCVO,"Corvallis, Corvallis Municipal Airport",OR,24202,,44.5,-123.28333,0.0
+KEUG,"Eugene, Mahlon Sweet Field",OR,24221,72693,44.13333,-123.21444,108.98
+KHIO,Portland-Hillsboro Airport,OR,94261,,45.54765,-122.95568,59.8
+KHRI,"Hermiston, Hermiston Municipal Airport",OR,04113,,45.82583,-119.26111,195.09
+KLGD,La Grande/Union County Airport,OR,24148,,45.29066,-118.00884,826.92
+KLKV,Lake County Airport,OR,94285,,42.15664,-120.39721,1441.09
+KLMT,Klamath Falls International Airport,OR,94236,,42.14703,-121.72548,1244.45
+KMEH,Meacham,OR,24152,,45.51176,-118.42466,1137.0
+KMFR,Rogue Valley International Airport,OR,24225,72597,42.37503,-122.87696,398.19
+KONO,Ontario Municipal Airport,OR,24162,,44.01424,-117.00808,666.76
+KONP,"Newport, Newport Municipal Airport",OR,24285,,44.58028,-124.05806,37.19
+KOTH,Southwest Oregon Regional Airport,OR,24284,,43.41948,-124.2437,0.0
+KPDT,Eastern Oregon Regional Airport at Pendleton,OR,24155,72688,45.69757,-118.83444,452.49
+KPDX,"Portland, Portland International Airport",OR,24229,72698,45.59578,-122.60917,6.68
+KRBG,Roseburg Regional Airport,OR,24231,,43.23368,-123.3577,152.87
+KRDM,Redmond Roberts Field,OR,24230,72692,44.25588,-121.14059,929.22
+KREO,Rome,OR,94107,,42.59018,-117.86458,1235.99
+KSLE,Salem - McNary Field,OR,24232,72694,44.90493,-123.00096,62.39
+KSXT,Sexton Summit,OR,24235,,42.6,-123.3656,1170.74
+KTTD,"Portland, Portland-Troutdale Airport",OR,24242,,45.55111,-122.40889,7.54
+KUAO,Aurora State Airport,OR,94281,,45.24658,-122.77095,59.65
+KMMV,"McMinnville, McMinnville Municipal Airport",OR,94273,,45.19611,-123.13222,48.2
+KTMK,"Tillamook, Tillamook Airport",OR,00118,,45.41806,-123.81444,11.28
+KSPB,Scappoose Industrial Airpark,OR,04201,,45.7691,-122.86365,15.08
+KS21,Sunriver,OR,,,43.88333,-121.45,1269.19
+K4S1,Gold Beach Municipal Airport,OR,,,42.41536,-124.42492,5.49
+KBOK,"Brookings, Brookings Airport",OR,24267,,42.07444,-124.29,139.9
+KBDN,Bend Airport AWOS,OR,00224,,44.0948,-121.2006,1055.22
+K4S2,Ken Jernstedt Airfield,OR,,,45.67457,-121.53493,192.33
+K3S8,Grants Pass Airport,OR,,,42.51011,-123.38798,343.2
+K6S2,Florence Municipal Airport,OR,,,43.9828,-124.1114,15.54
+KS33,Madras Municipal Airport,OR,24204,,44.6653,-121.1564,742.8
+KS39,Prineville Airport,OR,,,44.287,-120.9038,990.6
+K77S,Hobby Field Airport,OR,,,43.93075,-123.00667,163.98
+KMQS,Chester County Airport,PA,00136,,39.98333,-75.86667,201.17
+KABE,"Allentown, Lehigh Valley International Airport",PA,14737,72517,40.64985,-75.44771,117.37
+KAFJ,Washington - Washington County Airport,PA,04827,,40.13333,-80.28333,0.0
+KAGC,Pittsburgh - Allegheny County Airport,PA,14762,,40.35521,-79.92144,379.21
+KAOO,Altoona - Blair County Airport,PA,14736,,40.29994,-78.3168,446.61
+KAVP,"Wilkes-Barre - Scranton, Wilkes-Barre / Scranton International Airport",PA,14777,72513,41.33889,-75.72667,289.87
+KBFD,Bradford Regional Airport,PA,04751,,41.79838,-78.63539,642.15
+KBTP,"Butler, Butler County Airport/K W Scholter Field",PA,64705,,40.78333,-79.95,380.09
+KBVI,Beaver County Airport,PA,04813,,40.77351,-80.38248,0.0
+KCXY,"Harrisburg, Capital City Airport",PA,14751,,40.21843,-76.8552,102.15
+KDUJ,Du Bois - Jefferson County Airport,PA,04787,,41.17948,-78.89326,550.45
+KDYL,"Doylestown, Doylestown Airport",PA,54786,,40.33016,-75.12286,120.53
+KERI,"Erie, Erie International Airport",PA,14860,72526,42.08,-80.1825,222.23
+KFIG,"Clearfield, Clearfield-Lawrence Airport",PA,54792,,41.04667,-78.41167,459.9
+KFKL,"Franklin, Venango Regional Airport",PA,94868,,41.38333,-79.86667,0.0
+KGKJ,Port Meadville Airport,PA,04843,,41.62584,-80.21231,427.53
+KIDI,Indiana / Stewart Field,PA,64706,,40.63333,-79.1,0.0
+KIPT,Williamsport - Lycoming County Airport,PA,14778,72514,41.24298,-76.92173,159.75
+KJST,Johnstown - Cambria County Airport,PA,04726,,40.3149,-78.83074,693.92
+KLBE,Latrobe / Westmoreland,PA,54735,,40.2731,-79.41033,0.0
+KLNS,"Lancaster, Lancaster Airport",PA,54737,,40.12058,-76.29446,121.13
+KMDT,"Harrisburg, Harrisburg International Airport",PA,14711,72399,40.19361,-76.76333,91.14
+KMPO,"Mount Pocono, Pocono Mountains Municipal Airport",PA,54789,,41.13821,-75.37971,574.61
+KMUI,Muir Army Air Field / Indiantown,PA,54723,,40.43808,-76.56434,0.0
+KPHL,"Philadelphia, Philadelphia International Airport",PA,13739,72408,39.87327,-75.22678,2.15
+KPIT,"Pittsburgh, Pittsburgh International Airport",PA,94823,72520,40.50389,-80.26639,360.49
+KPNE,"Philadelphia, Northeast Philadelphia Airport",PA,94732,,40.07889,-75.01361,32.93
+KPTW,"Pottstown, Pottstown Limerick Airport",PA,54782,,40.23802,-75.55487,88.71
+KSEG,Selinsgrove Penn Valley Airport,PA,14770,,40.81929,-76.86582,135.35
+KTHV,"York, York Airport",PA,93778,,39.91944,-76.87694,141.44
+KUNV,State College - University Park Airport,PA,54739,,40.85344,-77.8401,0.0
+KRDG,"Reading, Reading Regional Airport",PA,14712,,40.37333,-75.95944,101.25
+KHMZ,"Bedford, Bedford County Airport",PA,,,40.08528,-78.51222,354.48
+KLOM,Philadelphia - Wings Field Airport,PA,64752,,40.13758,-75.2684,0.0
+KRVL,Reedsville / Mifflin,PA,,,40.68333,-77.63333,249.63
+KUKT,Quakertown Airport,PA,64753,,40.4368,-75.38016,160.32
+KUCP,"New Castle, New Castle Municipal Airport",PA,00122,,41.02528,-80.41333,327.05
+KCKZ,Pennridge Airport,PA,,,40.38919,-75.29047,172.82
+KOQN,Brandywine Regional Airport,PA,,,39.99011,-75.5819,140.97
+KXLL,Allentown Queen City Municipal Airport,PA,00379,,40.57,-75.488,122.22
+KN38,Wellsboro Johnston Airport,PA,,,41.72789,-77.3965,578.82
+KHZL,Hazleton Municipal Airport,PA,,,40.98447,-75.99005,488.59
+K22N,Lehighton Jake Arner Memorial Airport,PA,,,40.8095,-75.7615,162.76
+K2G9,Somerset County Airport,PA,,,40.0389,-79.015,692.51
+KOYM,St Marys Municipal Airport,PA,,,41.41248,-78.50263,589.48
+KPJC,Zelienople Municipal Airport,PA,,,40.80197,-80.16086,273.65
+KVVS,Joseph A Hardy Connellsville Airport,PA,93795,,39.95906,-79.65742,386.18
+TJBQ,"Aquadilla, Rafael Hernandez Airport",PR,11603,,18.5,-67.13333,72.24
+TJNR,"Roosevelt Roads, Roosevelt Roads Naval Station, Ofstie Field",PR,11630,,18.25528,-65.64333,10.06
+TJIG,San Juan Fernando Luis Ribas Dominicci,PR,00494,,18.4568,-66.0981,3.05
+KBID,Block Island State Airport,RI,94793,,41.16947,-71.57873,32.0
+KOQU,N. Kingston / Quonset,RI,54752,,41.6,-71.41667,5.79
+KPVD,Rhode Island TF Green International Airport,RI,14765,72507,41.72233,-71.42772,15.42
+KSFZ,"Pawtucket, North Central State Airport",RI,64710,,41.91667,-71.5,134.42
+KUUU,"Newport, Newport State Airport",RI,14787,,41.53,-71.28361,45.1
+KWST,"Westerly, Westerly State Airport",RI,14794,,41.34972,-71.79889,19.84
+KAND,"Anderson, Anderson County Airport",SC,93846,72319,34.49778,-82.70972,233.75
+KCAE,"Columbia, Columbia Metropolitan Airport",SC,13883,72310,33.94194,-81.11806,68.29
+KCEU,"Clemson, Clemson-Oconee County Airport",SC,53850,,34.67222,-82.88139,270.83
+KCHS,"Charleston, Charleston Air Force Base",SC,13880,72208,32.89889,-80.04056,13.29
+KCRE,North Myrtle Beach Grand Strand Airport,SC,93718,,33.81619,-78.72043,8.82
+KCUB,Columbia - Jim Hamilton L.B. Owens Airport,SC,53867,,33.97083,-80.99444,54.72
+KFLO,Florence - Florence Regional Airport,SC,13744,,34.18778,-79.73083,42.97
+KGMU,Greenville Downtown Airport,SC,13886,,34.84873,-82.35004,309.91
+KGRD,"Greenwood, Greenwood County Airport",SC,53874,,34.24722,-82.15472,188.15
+KGSP,Greenville Spartanburg International Airport,SC,03870,72312,34.90611,-82.21255,294.41
+KMMT,McEntire Air National Guard Weather Facility Base,SC,03858,,33.91667,-80.8,0.0
+KMYR,Myrtle Beach International Airport,SC,13717,74791,33.67975,-78.92833,0.0
+KNBC,"Beaufort, Marine Corps Air Station",SC,93831,,32.49361,-80.70306,0.0
+KOGB,"Orangeburg, Orangeburg Municipal Airport",SC,53854,,33.46389,-80.85361,59.01
+KSPA,Spartanburg Memorial,SC,93804,,34.91667,-81.95,244.14
+KSSC,Shaw Air Force Base,SC,13849,74790,33.96667,-80.48333,0.0
+KUDG,"Darlington, Darlington County Jetport Airport",SC,03742,,34.44917,-79.89028,58.52
+KUZA,"Rock Hill, Rock Hill - York County Airport",SC,53871,,34.98389,-81.05583,197.36
+KHXD,"Hilton Head Island, Hilton Head Airport",SC,63837,,32.21667,-80.7,7.32
+KMNI,Manning / Cooper Regional,SC,00371,,33.58333,-80.21667,31.09
+KGYH,Greenville-Donaldson Center Airport,SC,63889,,34.7583,-82.3764,0.0
+KGGE,Georgetown County Airport       ,SC,00391,,33.3117,-79.3196,12.19
+KHYW,Conway Horry County Airport,SC,00204,,33.829,-79.122,10.06
+KMAO,Marion County Airport,SC,00200,,34.181,-79.335,28.04
+KHVS,Hartsville Regional Airport,SC,00219,,34.403,-80.119,111.25
+KBBP,Marlboro County Jetport,SC,00217,,34.622,-79.734,45.11
+KCQW,Cheraw Municipal Lynch Bellinger Field,SC,00197,,34.713,-79.957,73.15
+KSMS,Sumter Airport,SC,00202,,33.995,-80.361,55.17
+KCDN,Camden Woodward Field,SC,00195,,34.284,-80.565,92.05
+KFDW,Winnsboro/Fairfield County Airport,SC,00220,,34.315,-81.109,176.17
+KEOE,Newberry County Airport,SC,00189,,34.309,-81.64,173.13
+KLUX,Laurens County Airport,SC,00190,,34.507,-81.947,212.14
+KDCM,Chester Catawba Regional Airport,SC,00192,,34.789,-81.196,200.25
+KLKR,Lancaster County-mc Whirter Field,SC,00199,,34.723,-80.855,148.13
+KCKI,Kingstree Williamsburg Regional Airport,SC,00196,,33.717,-79.857,20.12
+KBNL,Barnwell Regional Airport,SC,00194,,33.258,-81.388,75.29
+KAIK,Aiken Municipal Airport,SC,00193,,33.649,-81.685,161.24
+KLRO,Mount Pleasant Regional-Faison Field,SC,00390,,32.898,-79.783,4.27
+KJZI,Charleston Executive Airport,SC,00198,,32.701,-80.003,5.18
+KDYB,Summerville Airport,SC,00218,,33.063,-80.279,17.07
+KRBW,Walterboro Lowcountry Regional Airport,SC,00201,,32.921,-80.641,31.09
+KARW,Beaufort County Airport,SC,00203,,32.412,-80.634,38.1
+KLQK,Pickens County Airport,SC,00271,,34.80997,-82.70289,309.07
+KMKS,Moncks Corner Berkeley County,SC,00191,,33.1855,-80.0362,22.25
+KAQX,Allendale County Airport,SC,,,32.9951,-81.2703,49.01
+K35A,Union County Airport - Troy Shelton Field,SC,,,34.68695,-81.64117,185.93
+KFSD,"Sioux Falls, Foss Field",SD,14944,72651,43.57694,-96.75361,432.39
+KBKX,"Brookings, Brookings Municipal Airport",SD,94902,,44.3,-96.81667,0.0
+KYKN,"Yankton, Chan Gurney Municipal Airport",SD,94911,,42.91667,-97.38333,357.23
+K9V9,"Chamberlain, Chamberlain Municipal Airport",SD,94943,72653,43.76667,-99.31833,519.07
+KHON,"Huron, Huron Regional Airport",SD,14936,72654,44.38806,-98.22833,390.72
+KMHE,"Mitchell, Mitchell Municipal Airport",SD,94950,,43.76667,-98.03333,396.43
+KATY,"Watertown, Watertown Municipal Airport",SD,14946,,44.90472,-97.14944,530.58
+KABR,"Aberdeen, Aberdeen Regional Airport",SD,14929,72659,45.44333,-98.41306,398.4
+KRAP,"Rapid City, Rapid City Regional Airport",SD,94043,72662,44.04556,-103.05389,1029.0
+KRCA,Ellsworth Air Force Base,SD,24006,,44.15,-103.1,0.0
+KPIR,"Pierre, Pierre Regional Airport",SD,24025,72656,44.38278,-100.28583,523.86
+KICR,"Winner, Bob Wiley Field Airport",SD,94990,,43.39056,-99.8425,614.99
+KIEN,"Pine Ridge, Pine Ridge Airport",SD,94039,,43.02556,-102.52306,1001.97
+KMBG,"Mobridge, Mobridge Municipal Airport",SD,94052,,45.55,-100.40861,520.97
+K2WX,Buffalo,SD,94037,,45.60444,-103.54639,921.99
+KD07,Faith,SD,94056,,45.03194,-102.01917,784.01
+KPHP,"Philip, Philip Airport",SD,24024,,44.05111,-101.60111,672.74
+K8D3,"Sisseton, Sisseton Municipal Airport",SD,94993,,45.66889,-96.99139,352.99
+KCUT,"Custer, Custer County Airport",SD,94032,,43.73306,-103.6175,1695.76
+KSPF,Spearfish / Clyde Ice,SD,00386,,44.48333,-103.78333,1198.17
+KMDS,Madison Municipal Airport,SD,00211,,44.0164147,-97.0855992,523.04
+KBNA,"Nashville, Nashville International Airport",TN,13897,72327,36.11889,-86.68917,180.2
+KCHA,"Chattanooga, Lovell Field",TN,13882,72324,35.03333,-85.2,203.99
+KCKV,Clarksville Outlaw Field,TN,03894,72328,36.61689,-87.41174,167.68
+KCSV,"Crossville, Crossville Memorial-Whitson Field Airport",TN,03847,72325,35.95139,-85.085,568.58
+KDYR,"Dyersburg, Dyersburg Municipal Airport",TN,03809,,36.0,-89.4,91.44
+KHZD,Huntingdon Carroll County Airport,TN,,,36.08896,-88.46538,151.18
+KM04,COVINGTON MUNI,TN,,,35.58,-89.59,85.34
+KM08,BOLIVAR/WILLIAM L WHITEHURST,TN,,,35.21,-89.04,152.1
+KMEM,Memphis International Airport,TN,13893,72334,35.05644,-89.98634,76.63
+KMKL,"Jackson, McKellar-Sipes Regional Airport",TN,03811,,35.59306,-88.91667,129.16
+KMQY,"Smyrna, Smyrna Airport",TN,13827,,36.00889,-86.52,0.0
+KNQA,"Millington, Millington Municipal Airport",TN,93839,,35.35667,-89.87028,0.0
+KOQT,Oak Ridge,TN,53868,72427,36.02278,-84.23333,274.32
+KPHT,Paris - Henry County Airport,TN,,,36.34,-88.38,176.78
+KSZY,SELMER/ROBERT SIBLEY,TN,,,35.2,-88.5,185.93
+KTRI,"Bristol / Johnson / Kingsport, Tri-City Regional Airport",TN,13877,72335,36.47972,-82.39889,455.92
+KTYS,"Knoxville, McGhee Tyson Airport",TN,13891,72326,35.81806,-83.98583,295.82
+KUCY,Union City - Everett-Stewart Regional Airport,TN,63820,,36.38,-88.98,103.94
+KSNH,SAVANNAH/HARDIN CO,TN,,,35.17,-88.22,144.17
+KDKX,Knoxville Downtown Airport,TN,,,35.96581,-83.87169,253.9
+KMRC,Columbia / Maury County,TN,00463,,35.55,-87.18333,207.87
+K0A9,Elizabethton Municipal Airport,TN,00210,,36.371,-82.173,486.16
+KBGF,Winchester Municipal Airport,TN,00344,,35.1775,-86.0662,298.09
+KTHA,Tullahoma Regional Airport/William Northern Field,TN,00348,,35.38,-86.2467,330.1
+KSRB,Sparta Upper Cumberland Regional Airport,TN,00372,,36.0559,-85.5307,312.12
+KMMI,Athens McMinn County Airport,TN,,,35.3973,-84.5626,261.52
+KRZR,Cleveland Regional Jetport,TN,,,35.2115,-84.7998,262.13
+KPVE,Lexington-Parsons Beech River Regional Airport,TN,,,35.6564,-88.1954,148.74
+KRNC,McMinnville Warren County Memorial Airport,TN,,,35.6991,-85.8402,314.55
+KSYI,Shelbyville Bomar Field & Shelbyville Municipal Airport,TN,,,35.5594,-86.4425,243.84
+KMOR,Morristown Moore-Murrell Airport,TN,00496,,36.1794,-83.3754,399.9
+KFYM,Fayetteville Municipal Airport,TN,,,35.0597,-86.564,299.92
+KGKT,Sevierville Gatlinburg - Pigeon Forge Airport,TN,00497,,35.85681,-83.53334,309.07
+KM91,Springfield Robertson County Airport,TN,,,36.5363,-86.9189,215.49
+KJAU,Jacksboro Campbell County Airport,TN,,,36.3341,-84.163,359.66
+KGZS,Pulaski Abernathy Field Airport,TN,,,35.1537,-87.0568,208.79
+K1M5,Portland Municipal Airport,TN,,,36.5929,-86.4769,249.33
+KXNX,Sumner County Regional Airport,TN,,,36.37508,-86.40842,177.76
+KFYE,Somerville - Fayette County Airport,TN,,,35.2061,-89.3929,132.89
+K2A0,Dayton,TN,,,35.4817,-84.9322,219.15
+KMNV,Monroe County Airport,TN,,,35.54522,-84.38039,314.25
+K8A3,Livingston Municipal Airport,TN,,,36.4135,-85.31044,418.19
+KRKW,Rockwood Municipal Airport,TN,,,35.92501,-84.691,507.19
+KLUG,Ellington Airport,TN,,,35.50697,-86.80389,218.54
+KM54,Lebanon Municipal Airport,TN,,,36.1904,-86.3157,179.53
+KGCY,Greeneville-Greene County Municipal Airport,TN,03829,,36.19601,-82.81099,490.12
+KM02,Dickson Municipal Airport,TN,,,36.1279,-87.4298,271.88
+K2M2,Lawrenceburg-Lawrence County Airport,TN,,,35.23431,-87.25794,285.29
+KSCX,Scott Municipal Airport,TN,,,36.45569,-84.58575,470.92
+KDRT,"Del Rio, Del Rio International Airport",TX,22010,72261,29.37472,-100.92361,314.0
+KDLF,Laughlin Air Force Base Auxiliary Airfield,TX,22001,,29.36652,-100.78469,0.0
+KGDP,"Pine Springs, Guadalupe Mountains National Park",TX,23055,72262,31.83111,-104.80889,1655.0
+KSJT,"San Angelo, Mathis Field",TX,23034,72263,31.35139,-100.49389,582.39
+KDHT,"Dalhart, Dalhart Municipal Airport",TX,93042,74736,36.02333,-102.54722,1215.46
+KMRF,Marfa,TX,93035,72264,30.36667,-104.01667,0.0
+KMAF,"Midland, Midland International Airport",TX,23023,72265,31.94778,-102.20861,874.9
+KINK,"Wink, Winkler County Airport",TX,23040,,31.77972,-103.20139,858.3
+KLBB,"Lubbock, Lubbock International Airport",TX,23042,72267,33.6675,-101.82139,993.2
+KELP,"El Paso, El Paso International Airport",TX,23044,72270,31.81111,-106.37583,1202.13
+KCDS,"Childress, Childress Municipal Airport",TX,23007,72366,34.4275,-100.28333,593.94
+KAMA,"Amarillo, Amarillo International Airport",TX,23047,72363,35.22,-101.71722,1094.99
+KBGD,"Borger, Hutchinson County Airport",TX,03024,,35.695,-101.395,926.84
+KFST,"Fort Stockton, Fort Stockton-Pecos County Airport",TX,23091,,30.91194,-102.91667,917.65
+KODO,"Odessa, Odessa-Schlemeyer Field",TX,03031,,31.92139,-102.39167,909.32
+K6R6,Dryden - Terrell County Airport,TX,03032,,30.04806,-102.21306,701.01
+KHHF,"Canadian, Hemphill County Airport",TX,93046,,35.9,-100.4,0.0
+KPVW,"Plainview, Hale County Airport",TX,23097,,34.16806,-101.71722,0.0
+KSWW,"Sweetwater, Avenger Field Airport",TX,23033,,32.46722,-100.46639,725.42
+K11R,"Brenham, Brenham Municipal Airport",TX,53928,,30.21889,-96.37417,93.88
+K3T5,"La Grange, Fayette Regional Air Center Airport",TX,12978,,29.90806,-96.95,98.76
+KABI,"Abilene, Abilene Regional Airport",TX,13962,72266,32.41028,-99.68167,544.78
+KACT,"Waco, Waco Regional Airport",TX,13959,72256,31.61722,-97.22778,151.87
+KADS,Dallas / Addison Airport,TX,03970,,32.96667,-96.83333,0.0
+KAFW,"Fort Worth, Fort Worth Alliance Airport",TX,53909,,32.97333,-97.31806,215.61
+KALI,"Alice, Alice International Airport",TX,12932,,27.74111,-98.02694,51.95
+KATT,"Austin City, Austin Camp Mabry",TX,13958,72254,30.31667,-97.76667,204.22
+KAUS,Austin-Bergstrom International Airport,TX,13904,74745,30.18304,-97.67987,146.49
+KBAZ,New Braunfels National Airport,TX,12971,,29.70575,-98.04322,197.63
+KBMQ,"Burnet, Burnet Municipal Craddock Field",TX,03999,,30.74056,-98.23528,386.15
+KBPT,Beaumont/Port Arthur Southeast Texas Regional Airport,TX,12917,72241,29.9521,-94.0261,3.82
+KBRO,"Brownsville, Brownsville / South Padre Island International Airport",TX,12919,72250,25.91417,-97.42306,7.1
+KBWD,"Brownwood, Brownwood Regional Airport",TX,93943,,31.8,-98.95,419.71
+KCLL,"College Station, Easterwood Field",TX,03904,74746,30.58222,-96.36167,96.0
+KCOT,"Cotulla, Cotulla-La Salle County Airport",TX,12947,,28.45833,-99.22028,143.99
+KCRP,"Corpus Christi, Corpus Christi International Airport",TX,12924,72251,27.77306,-97.51278,14.81
+KCRS,"Corsicana, Campbell Field-Corsicana Municipal Airport",TX,53912,,32.03111,-96.39889,135.02
+KCXO,"Conroe, Montgomery County Airport",TX,53902,,30.35667,-95.41389,69.38
+KDAL,Dallas Love Field,TX,13960,72258,32.85416,-96.85506,147.61
+KDFW,Dallas/Fort Worth International Airport,TX,03927,72259,32.89743,-97.02196,165.69
+KDTO,Denton Enterprise Airport,TX,03991,,33.20505,-97.20061,194.63
+KDWH,"Houston, Hooks Memorial Airport",TX,53910,,30.0675,-95.55611,46.77
+KDYS,"Abilene, Dyess Air Force Base",TX,13910,,32.42,-99.85694,0.0
+KEFD,Houston / Ellington,TX,12906,,29.6,-95.16667,0.0
+KERV,"Kerrville, Kerrville Municipal Airport/Louis Schreiner Field",TX,12961,,29.96667,-99.08333,0.0
+KFTW,"Fort Worth, Meacham International Airport",TX,13961,74739,32.82528,-97.36417,213.57
+KFWS,Fort Worth Spinks Airport,TX,03985,,32.56537,-97.30837,236.7
+KGGG,Longview - East Texas Regional Airport,TX,03901,72247,32.39056,-94.71389,107.27
+KGKY,Arlington Municipal Airport,TX,53907,,32.65829,-97.09509,179.69
+KGLE,"Gainesville, Gainesville Municipal Airport",TX,93929,,33.65139,-97.19694,0.0
+KGLS,"Galveston, Scholes Field",TX,12923,72242,29.27028,-94.86417,1.52
+KGPM,"Grand Prairie, Grand Prairie Municipal Airport",TX,53984,,32.69861,-97.04667,179.53
+KGRK,"Fort Hood, Robert Gray AAF Ft Hood",TX,03902,,31.06667,-97.81667,0.0
+KGTU,"Georgetown, Georgetown Municipal Airport",TX,53942,,30.68333,-97.68333,239.88
+KGVT,Greenville / Majors,TX,13926,,33.06667,-96.06667,0.0
+KGVW,Galveston 209A,TX,03929,,29.13,-94.55,321.87
+KHDO,"Hondo, Hondo Municipal Airport",TX,12962,,29.35944,-99.17417,281.0
+KHLR,"Fort Hood, Hood AAF Ft Hood",TX,03933,72257,31.13333,-97.7,0.0
+KHOU,"Houston, Houston Hobby Airport",TX,12918,72244,29.6375,-95.2825,13.2
+KHRL,"Harlingen, Rio Grande Valley International Airport",TX,12904,,26.22972,-97.65528,9.45
+KHYI,"San Marcos, San Marcos Municipal Airport",TX,12979,,29.89361,-97.86472,181.97
+KIAH,Houston Intercontinental Airport,TX,12960,72243,29.9844,-95.36074,27.49
+KILE,"Killeen, Skylark Field Airport",TX,03972,,31.08333,-97.68333,256.34
+KJAS,"Jasper, Jasper County-Bell Field Airport",TX,53945,,30.88556,-94.03472,64.92
+KJCT,"Junction, Kimble County Airport",TX,13973,74740,30.51083,-99.76639,521.45
+KLBX,"Angleton / Lake Jackson, Brazoria County Airport",TX,12976,,29.11536,-95.46323,7.74
+KLFK,"Lufkin, Angelina County Airport",TX,93987,,31.23389,-94.75,87.09
+KLRD,"Laredo, Laredo International Airport",TX,12907,72252,27.54361,-99.46139,150.57
+KLVJ,"Houston, Pearland Regional Airport",TX,12975,,29.52111,-95.24194,11.92
+KMFE,"McAllen, Miller International Airport",TX,12959,,26.17972,-98.24444,30.14
+KMWL,"Mineral Wells, Mineral Wells Airport",TX,93985,,32.78167,-98.06028,287.11
+KNFW,"Fort Worth, Naval Air Station",TX,13911,,32.76583,-97.43333,185.32
+KNGP,"Corpus Christi, Corpus Christi Naval Air Station/Truax Field",TX,12926,,27.6925,-97.29111,4.67
+KNQI,"Kingsville, Naval Air Station",TX,12928,,27.50306,-97.81167,13.38
+KOCH,"Nacogdoches, A L Mangham Jr. Regional Airport",TX,53948,,31.58333,-94.71667,108.2
+KPIL,"Port Isabel, Port Isabel-Cameron County Airport",TX,12957,,26.15917,-97.3375,5.13
+KPRX,Paris / Cox Field,TX,93955,,33.63333,-95.45,0.0
+KPSX,Palacios Municipal Airport,TX,12935,,28.72485,-96.25347,3.15
+KPWG,"Waco, Mc Gregor Executive Airport",TX,53952,,31.48333,-97.31667,180.44
+KRBD,"Dallas, Redbird Airport",TX,03971,,32.67583,-96.86389,200.42
+KRKP,Rockport Aransas County Airport,TX,12972,,28.08371,-97.04664,7.46
+KRND,Randolph Air Force Base,TX,12911,,29.53333,-98.28333,221.89
+KSAT,"San Antonio, San Antonio International Airport",TX,12921,72253,29.53278,-98.46361,243.57
+KSEP,"Stephenville, Clark Field Municipal Airport",TX,03969,72260,32.21667,-98.18333,402.64
+KSGR,"Houston, Sugar Land Municipal / Hull Field Airport",TX,12977,,29.62222,-95.65667,23.47
+KSKF,San Antonio - Kelly Field,TX,12909,,29.38333,-98.58333,0.0
+KSPS,"Wichita Falls, Sheppard Air Force Base",TX,13966,72351,33.97861,-98.49278,308.62
+KSSF,"San Antonio, Stinson Municipal Airport",TX,12970,,29.33889,-98.47167,173.1
+KT82,"Fredericksburg, Gillespie County Airport",TX,93947,,30.24361,-98.90944,0.0
+KTPL,"Temple, Draughon-Miller Central Texas Regional Airport",TX,93984,,31.15,-97.4,0.0
+KTRL,"Terrell, Terrell Municipal Airport",TX,53911,,32.71361,-96.26833,143.03
+KTYR,"Tyler, Tyler Pounds Field",TX,13972,,32.35861,-95.40389,159.48
+KUTS,"Huntsville, Huntsville Municipal Airport",TX,53903,,30.74389,-95.58611,105.38
+KVCT,"Victoria, Victoria Regional Airport",TX,12912,72255,28.8625,-96.92972,33.69
+KCOM,COLEMAN,TX,00276,,31.84,-99.4,517.25
+KAQO,"Llano, Llano Municipal Airport",TX,53983,,30.78361,-98.66194,335.89
+KBIF,Biggs Army Air Field - Fort Bliss,TX,23019,,31.86119,-106.36916,1203.05
+KBKS,"Falfurrias, Brooks County Airport",TX,12982,,27.20667,-98.12111,34.14
+KBPG,"Big Spring, Big Spring McMahon-Wrinkle Airport",TX,03044,,32.2,-101.51667,784.25
+KBYY,"Bay City, Bay City Municipal Airport",TX,12981,,28.97306,-95.86333,13.72
+KCPT,"Cleburne, Cleburne Municipal Airport",TX,53981,,32.35361,-97.43361,260.3
+KDUX,"Dumas, Moore County Airport",TX,03070,,35.85778,-102.01306,0.0
+KE38,"Alpine, Alpine-Casparis Municipal Airport",TX,03049,,30.38417,-103.68333,1375.56
+KEBG,"Edinburg, Edinburg International Airport",TX,12983,,26.44194,-98.12944,24.38
+KECU,"Rocksprings, Edwards County Airport",TX,23098,,29.94667,-100.17361,0.0
+KF05,"Vernon, Wilbarger County Airport",TX,53969,,34.22556,-99.28361,385.57
+KGDJ,"Granbury, Granbury Municipal Airport",TX,53977,,32.44417,-97.81667,237.13
+KGNC,"Seminole, Gaines County Airport",TX,03056,,32.67528,-102.6525,1010.41
+KGOP,"Gatesville, City-County Airport",TX,00362,,31.42111,-97.79694,276.15
+KGYB,"Giddings, Giddings-Lee County Airport",TX,53979,,30.16917,-96.98,147.83
+KGYI,"Sherman/Denison, Grayson County Airport",TX,53967,,33.71667,-96.66667,228.3
+KHBV,"Hebbronville, Jim Hogg County Airport",TX,12994,,27.33333,-98.73333,0.0
+KHQZ,"Mesquite, Mesquite Metro Airport",TX,53970,,32.74694,-96.53028,136.25
+KINJ,"Hillsboro, Hillsboro Municipal Airport",TX,53972,,32.08333,-97.09722,208.79
+KJDD,"Mineola/Quitman, Wood County Airport",TX,53978,,32.74194,-95.49639,132.28
+KJSO,"Jacksonville, Cherokee County Airport",TX,53971,,31.86917,-95.21722,206.35
+KJWY,"Midlothian/Waxahachie, Mid-Way Regional Airport",TX,53966,,32.45583,-96.91222,228.3
+KJXI,"Gilmer, Fox Stephens Field - Gilmer Municipal Airport",TX,53982,,32.69889,-94.94861,126.49
+KLHB,"Hearne, Hearne Municipal Airport",TX,53973,,30.87167,-96.62222,86.87
+KLNC,Lancaster Airport,TX,53975,,32.58323,-96.72091,152.7
+KLUD,"Decatur, Decatur Municipal Airport",TX,53964,,33.25444,-97.58056,319.13
+KMDD,"Midland, Midland Airpark",TX,03071,,32.03639,-102.10083,0.0
+KMKN,"Comanche, Comanche County-City Airport",TX,53997,,31.91667,-98.60028,0.0
+KNOG,Orange Grove NALF,TX,12974,,27.8947,-98.04251,70.97
+KORG,"Orange, Orange County Airport",TX,53998,,30.06917,-93.80361,0.0
+KOSA,"Mount Pleasant, Mount Pleasant Regional Airport",TX,53962,,33.09528,-94.96139,110.64
+KPEQ,"Pecos, Pecos Municipal Airport",TX,03058,,31.38222,-103.51056,796.44
+KPKV,Port Lavaca - Calhoun County Airport,TX,12986,,28.65159,-96.68196,9.14
+KPPA,"Pampa, Perry Lefors Field Airport",TX,03052,,35.61278,-100.99611,989.08
+KPSN,"Palestine, Palestine Municipal Airport",TX,93983,74750,31.77944,-95.70611,0.0
+KPYX,"Perryton, Perryton Ochiltree County Airport",TX,03045,,36.4,-100.73333,889.41
+KRBO,"Robstown, Nueces County Airport",TX,12984,,27.77833,-97.69028,24.08
+KRPH,"Graham, Graham Municipal Airport",TX,53965,,33.11,-98.55528,342.29
+KSLR,"Sulphur Springs, Sulphur Springs Municipal Airport",TX,93937,,33.16111,-95.62111,0.0
+KSNK,"Snyder, Winston Field Airport",TX,03050,,32.69333,-100.95028,740.66
+KSOA,"Sonora, Sonora Municipal Airport",TX,03059,,30.58556,-100.64833,652.27
+KUVA,"Uvalde, Garner Field Airport",TX,12985,,29.21111,-99.74333,287.12
+KXBP,"Bridgeport, Bridgeport Municipal Airport",TX,53976,,33.17528,-97.82833,259.38
+KARM,"Wharton, Wharton Regional Airport",TX,12953,,29.25417,-96.15417,0.0
+KRAS,"Port Aransas, Mustang Beach Airport",TX,12995,,27.81167,-97.08861,0.0
+KLZZ,"Lampasas, Lampasas Airport",TX,00229,,31.10611,-98.19583,370.03
+KRWV,"Caldwell, Caldwell Municipal Airport",TX,23901,,30.51528,-96.70389,0.0
+KBBD,"Brady, Curtis Field Airport",TX,93942,,31.17917,-99.32389,0.0
+KDKR,"Crockett, Houston County Airport",TX,03073,,31.30694,-95.40361,0.0
+KBEA,Beeville Municipal Airport,TX,00127,,28.362,-97.791,82.3
+KHRX,Hereford Municipal Airport,TX,00129,,34.8578,-102.3264,1153.06
+KPEZ,Pleasanton Municipal Airport,TX,00130,,28.9562,-98.5184,131.06
+KTFP,Mc Campbell,TX,00365,,27.913,-97.2115,5.18
+KCWC,Kickapoo Downtown Airport,TX,00134,,33.8606,-98.4904,304.19
+KTME,Houston Executive Airport,TX,00208,,29.80717,-95.89791,51.21
+KMNZ,Hamilton Municipal Airport,TX,00357,,31.6659,-98.1486,396.24
+KBKD,Stephens County Airport,TX,00176,,32.719,-98.891,391.06
+KRFI,Rusk County Airport,TX,00175,,32.1417,-94.8517,135.03
+KAPY,"Zapata, TX",TX,00181,,26.969,-99.249,129.24
+K6R3,Cleveland,TX,00378,,30.3567,-95.0083,46.02
+KDZB,Horseshoe Bay Resort Airpark,TX,00225,,30.5271,-98.3588,333.15
+KRYW,"Lago Vista TX, Rusty Allen Airport",TX,00166,,30.4967,-97.9659,375.21
+KEDC,Austin Executive Airport,TX,00230,,30.3925,-97.5621,188.06
+KBQX,BRAZOS 451 OIL PLATFORM,TX,00435,,28.5,-95.72,34.14
+KEMK,E BREAKS OIL PLATFORM,TX,00246,,27.82,-94.32,224.03
+KGUL,GUNNISON OIL PLATFORM,TX,00247,,27.3,-93.53,224.03
+KOZA,Ozona Municipal Airport,TX,00239,,30.7353,-101.203,726.03
+KASL,Marshall,TX,00431,,32.5205,-94.3078,108.81
+K0F2,Bowie Municipal Airport,TX,00209,,33.6017,-97.7756,336.19
+KBPC,Mesa Vista Ranch AP,TX,00213,,35.889,-101.03,845.21
+KVAF,East Breaks 643/Boomvang Spar,TX,00272,,27.354,-94.625,101.19
+KHHV,Alaminos Canyon 25/H-D (ExxonMobil),TX,00456,,26.939,-94.689,25.3
+KAXH,Houston Southwest Airport,TX,00223,,29.50613,-95.47692,21.03
+KMCJ,John Dunn Helistop,TX,00188,,29.714,-95.395,69.19
+KCVB,Castroville Municipal Airport,TX,00177,,29.34192,-98.8509,235.0
+KFTN,Faith Ranch Airport,TX,00270,,28.2086,-100.0188,236.22
+KT35,Cameron (Milam Co) Municipal Airpark,TX,00351,,30.879356,-96.971097,123.14
+K5C1,San Antonio Boerne Stage Field,TX,00263,,29.7239,-98.6946,422.15
+KBMT,Beaumont Municipal Airport,TX,00313,,30.0702,-94.2151,10.06
+KE11,Andrews County Airport,TX,00349,,32.3311,-102.5295,967.13
+KF46,Rockwall Municipal Airport,TX,00448,,32.9322,-96.43484,175.26
+KCFD,Bryan Coulter Field,TX,00438,,30.7157,-96.3314,112.17
+KPRS,Presidio Lely International Airport,TX,00471,,29.6341,-104.3616,896.11
+KT20,Gonzales Roger M. Dreyer Memorial,TX,00477,,29.528,-97.4614,108.2
+KLXY,Mexia Limestone County Airport,TX,00461,,31.6412,-96.5145,166.12
+KCZT,Carrizo Springs Dimmit County Airport,TX,,,28.5222,-99.8236,182.58
+K66R,Robert R Wells Jr Airport,TX,,,29.6411,-96.5158,73.76
+KELA,Eagle Lake,TX,,,29.6006,-96.3219,56.08
+KF17,Center Municipal Airport,TX,,,31.8316,-94.1564,97.23
+K5T9,Eagle Pass - Maverick County Memorial International Airport,TX,,,28.8571,-100.5135,267.61
+KT70,Spofford - Laughlin Air Force Base Auxiliary #1,TX,12992,,29.11738,-100.47347,294.13
+KGZN,Gregory M Simmons Memorial Airport,TX,,,32.3658,-99.0237,521.51
+KIKG,Kleberg County Airport,TX,,,27.5509,-98.0309,39.93
+KF00,Jones Field - Bonham,TX,,,33.6131,-96.1793,188.37
+KETN,Eastland Municipal Airport,TX,,,32.41489,-98.80969,446.23
+KLUV,Lamesa Municipal Airport,TX,,,32.75631,-101.92022,914.0
+KSEQ,Seguin - Randolph AFB Auxiliary Field,TX,,,29.56579,-97.90834,160.02
+K2R9,Kenedy Regional Airport,TX,,,28.82499,-97.86557,88.09
+K4F2,Panola County Airport-Sharpe Field,TX,,,32.17608,-94.29881,75.59
+KT74,Taylor Municipal Airport,TX,63904,,30.5726,-97.4432,0.0
+KT41,La Porte Municipal Airport,TX,,,29.6693,-95.0642,7.62
+KE41,Reagan County Airport,TX,,,31.1989,-101.473,824.79
+KVHN,Culberson County Airport,TX,,,31.05783,-104.78381,1206.09
+KT69,Alfred C Bubba Thomas Airport,TX,,,28.038569,-97.5425,14.63
+K81R,San Saba County Municipal Airport,TX,,,31.23575,-98.7177,380.7
+KT89,Lajitas International Airport,TX,,,29.27713,-103.68579,801.99
+KE42,Major Samuel B Cornelius Field Airport,TX,,,36.221,-101.1945,941.83
+KSLC,"Salt Lake City, Salt Lake City International Airport",UT,24127,72572,40.77069,-111.96503,1289.0
+KU42,"Salt Lake City, Salt Lake City Municipal 2 Airport",UT,04116,,40.6196,-111.99016,1402.99
+KHIF,Hill Air Force Base,UT,24101,,41.11112,-111.96229,0.0
+KOGD,Ogden-Hinckley Airport,UT,24126,72575,41.19406,-112.01681,1356.08
+KBMC,Brigham City Regional Airport,UT,24180,,41.5464,-112.0601,1288.08
+KPVU,"Provo, Provo Municipal Airport",UT,24174,,40.21667,-111.71667,0.0
+KLGU,Logan-Cache Airport,UT,94128,,41.78652,-111.85187,1355.66
+KPUC,Price - Carbon County Regional Airport,UT,93141,72470,39.60886,-110.75548,1777.22
+KVEL,Vernal Airport,UT,94030,,40.44295,-109.51273,1604.92
+KBCE,Bryce Canyon Airport,UT,23159,,37.70128,-112.14897,2309.87
+KBDG,Blanding Municipal Airport,UT,03036,,37.586,-109.482,1787.65
+KCDC,Cedar City Municipal Airport,UT,93129,,37.70675,-113.09695,1703.75
+KCNY,"Moab, Canyonlands Field",UT,93075,,38.76,-109.74472,1387.13
+KDPG,Michael Army Airfield - Dugway Proving Ground,UT,24103,,40.18376,-112.9217,0.0
+KENV,Wendover Airport,UT,24193,72581,40.72056,-114.03583,1291.44
+KMLF,Milford Municipal Airport,UT,23176,72475,38.42252,-113.01089,1533.5
+KSGU,St George Regional Airport,UT,23186,,37.0451,-113.50561,894.89
+KU52,BEAVER MUNICIPAL AIRPORT,UT,,,38.23071,-112.6753497,1786.13
+KKNB,KANAB MUNICIPAL AIRPORT,UT,,,37.01,-112.53,1483.77
+KU55,PANGUITCH MUNICIPAL AIRPORT,UT,,,37.85,-112.39,2060.14
+KTVY,Bolinder Field-Tooele Valley Airport,UT,,,40.61269,-112.35362,1316.13
+KU69,DUCHESNE,UT,,,40.1919,-110.38099,1775.76
+KDTA,"Delta, Delta Municipal Airport",UT,23162,,39.38333,-112.50967,1450.54
+KHVE,Hanksville,UT,23170,,38.418037,-110.704038,1355.14
+K41U,Manti-Ephraim Airport,UT,,,39.33133,-111.61273,1679.14
+KAKQ,Wakefield Municipal Airport,VA,93773,,36.98274,-77.00137,32.03
+KAVC,"South Hill, Mecklenburg-Brunswick Regional Airport",VA,93797,,36.68861,-78.05417,134.72
+KBCB,Virginia Tech Airport,VA,53881,72318,37.21667,-80.41667,649.83
+KBKT,Ft. Pickett / Blackstone,VA,13726,,37.08333,-77.95,133.32
+KCHO,Charlottesville-Albemarle Airport,VA,93736,,38.13738,-78.45516,192.33
+KCJR,Culpeper Regional Airport,VA,93798,,38.52607,-77.85738,0.0
+KCPK,"Chesapeake, Chesapeake Municipal Airport",VA,03701,,36.66556,-76.32056,6.1
+KDAA,Fort Belvoir,VA,93728,,38.71667,-77.18333,0.0
+KDAN,"Danville, Danville Regional Airport",VA,13728,,36.57278,-79.33611,168.19
+KDCA,"Washington/Reagan National Airport, DC",VA,13743,72405,38.84833,-77.03417,4.08
+KEMV,"Emporia, Emporia-Greensville Regional Airport",VA,03704,,36.68694,-77.48278,38.71
+KEZF,"Fredericksburg, Shannon Airport",VA,03706,,38.26667,-77.45,25.91
+KFAF,Fort Eustis / Felker,VA,93735,,37.13333,-76.61667,0.0
+KFKN,Franklin / J B Rose,VA,13763,,36.7,-76.9,0.0
+KFVX,Farmville,VA,03707,,37.35,-78.43333,127.1
+KHEF,"Manassas, Manassas Regional Airport/Harry P. Davis Field",VA,03710,,38.71667,-77.51667,58.52
+KHLX,Hillsville,VA,53895,,36.76667,-80.81667,820.83
+KHSP,Hot Springs / Ingalls,VA,93757,,37.95,-79.83333,0.0
+KIAD,"Washington/Dulles International Airport, DC",VA,93734,72403,38.93472,-77.4475,88.39
+KJYO,Leesburg / Godfrey,VA,03714,,39.08333,-77.56667,118.57
+KLFI,Langley Air Force Base,VA,13702,74598,37.08333,-76.35,3.05
+KLKU,"Louisa, Louisa County Airport/Freeman Field",VA,03715,,38.00972,-77.97028,150.27
+KLNP,Wise / Lonesome Pine,VA,63802,,36.98333,-82.53333,818.08
+KLYH,"Lynchburg, Lynchburg Regional Airport",VA,13733,72410,37.32083,-79.20667,274.88
+KMFV,Melfa / Accomack Airport,VA,03716,,37.65,-75.76667,14.33
+KMKJ,Marion / Wytheville,VA,63805,,36.9,-81.35,779.98
+KMTV,Martinsville,VA,63806,,36.63333,-80.01667,286.82
+KNGU,"Norfolk, Naval Air Station",VA,13750,,36.93361,-76.29583,0.0
+KNTU,"Virginia Beach, Oceana, Naval Air Station",VA,13769,,36.82111,-76.02833,0.0
+KNYG,Quantico Marine Corps Airfield - Turner Field,VA,13773,,38.50326,-77.30129,0.0
+KOFP,"Ashland, Hanover County Municipal Airport",VA,93775,,37.70806,-77.43444,61.55
+KOKV,Winchester Regional,VA,03717,,39.15,-78.15,221.59
+KOMH,"Orange, Orange County Airport",VA,03718,,38.24722,-78.04556,142.95
+KORF,"Norfolk, Norfolk International Airport",VA,13737,72308,36.90361,-76.19194,3.3
+KPHF,"Newport News, Newport News / Williamsburg International Airport",VA,93741,,37.13194,-76.49306,10.94
+KPSK,Dublin / New River Valley,VA,13868,,37.13333,-80.68333,0.0
+KPTB,"Petersburg, Dinwiddie County Airport",VA,93714,,37.18333,-77.51667,0.0
+KRIC,"Richmond, Richmond International Airport",VA,13740,72401,37.51111,-77.32333,50.71
+KROA,"Roanoke, Roanoke Regional Airport",VA,13741,72411,37.31694,-79.97417,346.75
+KSFQ,"Suffolk, Suffolk Municipal Airport",VA,03719,,36.68222,-76.60194,21.95
+KSHD,Staunton / Shenandoah,VA,93760,,38.26667,-78.9,0.0
+KVJI,Abingdon,VA,53818,,36.68333,-82.03333,0.0
+KWAL,Wallops Flight Facility Airport,VA,93739,72402,37.9372,-75.46619,12.19
+KFYJ,"West Point, Middle Peninsula Regional Airport",VA,03734,,37.52111,-76.76444,7.32
+KJGG,Williamsburg-Jamestown Airport,VA,03730,,37.24157,-76.71672,14.94
+KNFE,"Fentress, Naval Auxiliary Landing Field",VA,13762,,36.70083,-76.12833,2.99
+KRMN,"Stafford, Stafford Regional Airport",VA,03735,,38.39806,-77.45528,64.62
+KW63,Clarksville / Marks,VA,,,36.6,-78.56667,128.32
+KHWY,Warrenton-Fauquier Airport,VA,00367,,38.58765,-77.71501,103.02
+KJFZ,Tazewell County Airport,VA,00120,,37.064,-81.798,808.63
+K0VG,Lee County Airport,VA,00274,,36.65408,-83.21783,430.07
+KXSA,Tappahannock-Essex County Airport,VA,00155,,37.859611,-76.894111,41.15
+KFCI,Chesterfield County Airport,VA,00153,,37.406444,-77.524833,72.24
+KLUA,Luray Caverns,VA,00416,,38.6671,-78.5006,275.23
+KPVG,Norfolk Hampton Roads Executive Airport,VA,00154,,36.7801,-76.4488,7.01
+KW81,Crewe Municipal Airport,VA,,,37.181,-78.0983,128.02
+KLVL,Lawrenceville/Brunswick Municipal Airport,VA,,,36.7728,-77.7943,100.28
+KW31,Lunenburg County Airport,VA,,,36.9601,-78.185,160.32
+KW78,William M Tuck Airport,VA,,,36.71,-78.848,128.02
+K0V4,Brookneal/Campbell County Airport,VA,,,37.1417,-79.0164,181.66
+K8W2,New Market Airport,VA,,,38.6557,-78.7081,297.18
+KW13,Eagles Nest Airport,VA,,,38.0769,-78.9444,437.69
+KW96,New Kent County,VA,,,37.5032,-77.1255,37.49
+KW75,Saluda Hummel Field,VA,,,37.6024,-76.4467,9.14
+KCXE,Chase City Municipal Airport,VA,,,36.7883,-78.5016,153.31
+K7W4,Lake Anna Airport,VA,,,37.9658,-77.7459,106.98
+KTGI,Tangier Island Airport,VA,,,37.82587,-75.99766,1.52
+TIST,"King Airport, St. Thomas",VI,11640,78543,18.3373,-64.9734,0.0
+TISX,St. Croix,VI,11624,78551,17.7004,-64.806,14.01
+KBTV,"Burlington, Burlington International Airport",VT,14742,72617,44.46806,-73.15028,101.08
+KDDH,Bennington Morse State Airport,VT,54781,72516,42.89355,-73.2486,240.98
+KEFK,Northeast Kingdom International Airport,VT,54758,,44.88846,-72.23593,278.89
+KMPV,"Barre / Montpelier, Knapp State Airport",VT,94705,,44.20472,-72.56611,336.7
+KMVL,Morrisville-Stowe State Airport,VT,54771,,44.53589,-72.61625,224.35
+KRUT,Rutland-Southern Vermont Regional Airport,VT,94737,,43.53333,-72.95,238.96
+KVSF,"Springfield, Hartness State Springfield Airport",VT,54740,,43.3425,-72.52167,173.19
+KCDA,Caledonia County Airport,VT,00151,,44.5691142,-72.0179789,362.1
+KALW,Walla Walla Regional Airport,WA,24160,,46.09462,-118.2858,356.66
+KAWO,Arlington Municipal Airport,WA,04205,,48.1585,-122.15909,41.76
+KBFI,Boeing Field - King County International Airport,WA,24234,,47.54548,-122.3147,7.64
+KBLI,"Bellingham, Bellingham International Airport",WA,24217,,48.79911,-122.54064,45.86
+KCLM,Port Angeles Fairchild International Airport,WA,94266,,48.12194,-123.50661,83.17
+KDEW,"Deer Park, Deer Park Airport",WA,94119,72787,47.97417,-117.42833,671.99
+KDLS,The Dalles Municipal Airport,WA,24219,,45.61901,-121.16572,71.23
+KEAT,Wenatchee - Pangborn Memorial Airport,WA,94239,,47.39749,-120.20121,377.46
+KELN,"Ellensburg, Ellensburg Bowers Field",WA,24220,,47.03377,-120.53132,532.52
+KEPH,"Ephrata, Ephrata Municipal Airport",WA,24141,72790,47.3075,-119.51583,382.13
+KFHR,Friday Harbor Airport,WA,94276,,48.52,-123.02637,34.24
+KGEG,"Spokane, Spokane International Airport",WA,24157,72785,47.62139,-117.52778,717.72
+KGRF,Fort Lewis / Gray U. S. Army Airfield,WA,24201,74207,47.11667,-122.55,0.0
+KHQM,"Hoquiam, Bowerman Airport",WA,94225,,46.97111,-123.92,4.49
+KKLS,Southwest Washington Regional Airport,WA,24223,,46.11553,-122.89273,0.0
+KMWH,Grant County Airport,WA,24110,,47.19299,-119.31451,356.27
+KNUW,Whidbey Island Naval Air Station - Ault Field,WA,24255,,48.35525,-122.66352,0.0
+KOLM,"Olympia, Olympia Airport",WA,24227,72792,46.97333,-122.90333,60.87
+KPAE,Everett Snohomish County,WA,24222,,47.92331,-122.28305,167.13
+KPSC,Tri-Cities Airport,WA,24163,,46.26955,-119.11813,122.07
+KPUW,Pullman / Moscow Regional Airport,WA,94129,,46.74377,-117.11579,775.72
+KPWT,"Bremerton, Bremerton National Airport",WA,94263,,47.5,-122.75,0.0
+KRNT,Renton Municipal Airport,WA,94248,,47.49509,-122.21437,5.52
+KSEA,"Seattle, Seattle-Tacoma International Airport",WA,24233,72793,47.44472,-122.31361,112.53
+KSFF,"Spokane, Felts Field",WA,94176,,47.68556,-117.32028,594.55
+KSHN,"Shelton, Shelton Sanderson Field",WA,94227,,47.23806,-123.14083,84.24
+KSKA,Fairchild Air Force Base,WA,24114,,47.61667,-117.65,0.0
+KSMP,Stampede Pass,WA,24237,,47.27648,-121.33817,1206.7
+KTCM,Tacoma / McChord Air Force Base,WA,24207,74206,47.15,-122.48333,0.0
+KTIW,"Tacoma, Tacoma Narrows Airport",WA,94274,,47.2675,-122.57611,88.37
+KUIL,"Quillayute, Quillayute State Airport",WA,94240,72797,47.9375,-124.555,56.81
+KVUO,Pearson Airfield,WA,94298,,45.62103,-122.65419,6.55
+KYKM,Yakima Air Terminal - McAllister Field,WA,24243,72781,46.56402,-120.53484,321.03
+KOMK,Omak Airport,WA,94197,72789,48.46116,-119.52086,397.36
+KBVS,"Burlington/Mount Vernon, Skagit Regional Airport",WA,94282,,48.47083,-122.42083,42.67
+K63S,Colville Municipal Airport,WA,,,48.54417,-117.88353,575.01
+KNOW,Port Angeles Coast Guard Air Station,WA,24228,74201,48.13333,-123.4,0.0
+KORS,"Eastsound, Orcas Island Airport",WA,04224,,48.70806,-122.91028,9.45
+KCLS,Chehalis-Centralia Airport,WA,00119,,46.677,-122.9827,54.25
+KPLU,Pierce County-Thun Field,WA,00469,,47.104,-122.287,164.29
+KRLD,Richland Airport,WA,,,46.30859,-119.3058,120.09
+K1S5,Sunnyside Municipal Airport,WA,,,46.3271,-119.9704,232.87
+K0S9,Port Townsend Jefferson County International Airport,WA,,,48.05517,-122.81159,32.92
+KS52,Methow Valley,WA,,,48.42495,-120.14589,519.99
+KAIG,Langlade County Airport,WI,04864,,45.15659,-89.11144,463.91
+KARV,"Minocqua/Woodruff, Lakeland Airport/Noble F. Lee Memorial Field",WI,04865,,45.93333,-89.73333,496.82
+KASX,John F Kennedy Memorial Airport,WI,94929,,46.54679,-90.91841,250.19
+KATW,Appleton-Outagamie,WI,04825,,44.2595,-88.51567,279.5
+KAUW,Wausau Downtown Airport,WI,14897,,44.92759,-89.62512,366.0
+KBUU,Burlington Municipal Airport,WI,04866,,42.69088,-88.308,237.44
+KCLI,Clintonville Municipal Airport,WI,54832,,44.61526,-88.73129,250.55
+KCMY,"Sparta, Sparta / Fort McCoy Airport",WI,94940,,43.95833,-90.73778,252.68
+KCWA,Mosinee,WI,94890,,44.77944,-89.67098,0.0
+KDLL,Baraboo Wisconsin Dells Airport,WI,54833,,43.52372,-89.77345,297.48
+KEAU,Chippewa Valley Regional Airport,WI,14991,,44.86668,-91.488,269.39
+KEFT,Monroe Municipal Airport,WI,04873,,42.61959,-89.59309,330.71
+KEGV,Eagle River Union Airport,WI,54838,,45.93093,-89.26702,500.48
+KENW,"Kenosha, Kenosha Regional Airport",WI,04845,,42.595,-87.93806,223.47
+KETB,West Bend Municipal Airport,WI,04875,,43.42256,-88.1326,269.44
+KFLD,Fond Du Lac County Airport,WI,04840,,43.76955,-88.49072,242.45
+KGRB,"Green Bay, Austin Straubel International Airport",WI,14898,72645,44.47944,-88.13667,209.31
+KHYR,Sawyer County Airport,WI,94973,,46.03029,-91.44259,368.89
+KISW,"Wisconsin Rapids, Alexander Field South Wood County Airport",WI,04826,,44.35917,-89.83694,309.36
+KJVL,Janesville-Rock County,WI,94854,,42.62135,-89.04186,0.0
+KLNR,Lone Rock Tri-County Regional Airport,WI,14921,,43.21108,-90.18735,218.04
+KLSE,La Crosse - La Crosse Regional Airport,WI,14920,72643,43.87944,-91.25667,198.15
+KMDZ,Taylor County Airport,WI,54911,,45.10462,-90.30253,448.06
+KMFI,"Marshfield, Marshfield Municipal Airport",WI,94985,,44.63806,-90.1875,381.51
+KMKE,"Milwaukee, General Mitchell International Airport",WI,14839,72640,42.955,-87.90444,203.29
+KMRJ,Iowa County Airport,WI,54907,,42.88754,-90.23147,356.92
+KMSN,"Madison, Dane County Regional-Truax Field",WI,14837,72641,43.14056,-89.34528,261.67
+KMTW,"Manitowoc, Manitowoc County Airport",WI,94897,,44.13333,-87.68333,0.0
+KMWC,Milwaukee-Timmerman,WI,94869,,43.10961,-88.03048,223.72
+KOEO,L O Simenstad Municipal Airport,WI,54912,,45.31084,-92.6948,275.23
+KOSH,Wittman Regional Airport,WI,94855,,43.96701,-88.55814,239.33
+KOVS,"Boscobel, Boscobel Airport",WI,94994,,43.15611,-90.6775,203.11
+KPBH,Phillips / Price County,WI,54913,,45.7,-90.4,456.29
+KPDC,Prairie Du Chien Municipal Airport,WI,04963,,43.01938,-91.12112,201.47
+KRAC,"Racine, Batten International Airport",WI,94818,,42.75861,-87.81778,203.59
+KRGK,Red Wing - Red Wing Regional Airport,WI,04967,,44.5926,-92.48439,237.74
+KRHI,"Rhinelander, Rhinelander-Oneida County Airport",WI,04803,,45.63167,-89.48222,502.16
+KRNH,New Richmond Municipal Airport,WI,04968,,45.14762,-92.53349,0.0
+KRPD,"Rice Lake, Rice Lake Regional-Carl's Field Airport",WI,54909,,45.41806,-91.77361,336.8
+KRRL,"Merrill, Merrill Municipal Airport",WI,04891,,45.19844,-89.70996,401.42
+KRYV,Watertown,WI,54834,,43.17016,-88.72497,0.0
+KRZN,"Siren, Burnett County Airport",WI,04972,,45.82278,-92.3725,301.45
+KSBM,Sheboygan County Memorial Airport,WI,04841,,43.77483,-87.84897,228.86
+KSTE,Stevens Point Municipal Airport,WI,04895,72646,44.54371,-89.53468,0.0
+KSUE,Door County Cherryland Airport,WI,04824,,44.83941,-87.42188,220.68
+KSUW,Richard I. Bong Airport,WI,54908,,46.68335,-92.09254,205.44
+KUES,Waukesha County Airport,WI,04897,,43.04245,-88.24607,277.67
+KUNU,"Juneau, Dodge County Airport",WI,04898,,43.42667,-88.70333,285.29
+KVOK,Volk / Camp Douglas,WI,94930,,43.93333,-90.26667,0.0
+KLNL,"Land O' Lakes, Kings Land O' Lakes Airport",WI,14886,,46.15389,-89.21194,0.0
+KLUM,Menomonie Municipal Airport-Score Field,WI,04995,,44.89363,-91.86652,272.8
+KPCZ,Waupaca Municipal Airport,WI,54852,,44.33425,-89.02023,0.0
+KRCX,Ladysmith - Rusk County Airport,WI,54928,,45.4935,-90.9985,0.0
+KTKV,Tomahawk Regional Airport,WI,54953,,45.46801,-89.80962,0.0
+KY50,"Wautoma, Wautoma Municipal Airport",WI,00132,,44.04139,-89.30444,262.13
+KC29,Middleton Muni - Morey Field,WI,00236,,43.1142699,-89.5315336,283.16
+KY51,Viroqua Municipal Airport,WI,00241,,43.5794,-90.9131,394.11
+KUBE,Cumberland,WI,00316,,45.506,-91.9811,378.26
+KBCK,Black River Falls Area Airport,WI,00286,,44.24996,-90.84999,255.12
+KPVB,Platteville Municipal Airport,WI,00183,,42.69092,-90.44124,312.12
+KEZS,Shawano Municipal Airport,WI,00185,,44.787,-88.56,248.11
+KD25,Manitowish Waters Airport,WI,00297,,46.12035,-89.88016,491.03
+KOCQ,Oconto J. Douglas Bake Municipal Airport,WI,00464,,44.8742,-87.9096,184.4
+KY23,Chetek Municipal Southworth Airport,WI,,,45.3106,-91.6381,321.56
+KC35,Reedsburg Municipal Airport,WI,,,43.5259,-89.9832,276.45
+KOLG,Solon Springs Municipal Airport,WI,,,46.3148,-91.8164,335.89
+K3D2,Ephraim-Gibraltar Airport,WI,,,45.1357,-87.1881,232.56
+K82C,New Lisbon Mauston Airport,WI,,,43.8387,-90.1377,276.15
+K57C,East Troy Municipal Airport,WI,,,42.7972,-88.3726,262.13
+K2P2,Washington Island,WI,,,45.3883,-86.924,199.0
+K4R5,La Pointe - Major Gilbert Field,WI,,,46.7887,-90.7587,197.82
+KBKW,"Beckley, Raleigh County Memorial Airport",WV,03872,72412,37.795,-81.12472,760.17
+KBLF,"Bluefield, Mercer County Airport",WV,03859,,37.29583,-81.20778,870.06
+KCKB,"Clarksburg, Clarksburg Benedum Airport",WV,03802,,39.3,-80.22472,367.35
+KCRW,"Charleston, Yeager Airport",WV,13866,72414,38.37944,-81.59139,278.1
+KEKN,"Elkins, Elkins-Randolph County-Jennings Randolph Field",WV,13729,72417,38.88528,-79.85278,595.74
+KHLG,"Wheeling, Wheeling Ohio County Airport",WV,14894,,40.17028,-80.64444,364.33
+KHTS,"Huntington, Tri-State Airport",WV,03860,72425,38.365,-82.555,251.28
+KLWB,Lewisburg / Greenbrier,WV,53801,,37.86667,-80.4,0.0
+KMGW,Morgantown Municipal-Hart Field,WV,13736,,39.64985,-79.92065,373.62
+KMRB,Eastern WV Regional Airport/Shepherd Field,WV,13734,,39.40372,-77.975,164.98
+KPKB,"Parkersburg, Mid-Ohio Valley Regional Airport",WV,03804,,39.345,-81.43917,245.28
+KW99,"Petersburg, Grant County Airport",WV,03725,,38.98333,-79.13333,292.61
+KI16,"Pineville, Kee Field Airport",WV,63884,,37.60028,-81.55917,0.0
+KW22,"Buckhannon, Upshur County Regional Airport",WV,63832,,39.0,-80.26667,498.35
+K3I2,"Point Pleasant, Mason County Airport",WV,63876,,38.91444,-82.09833,0.0
+KCBE,"Cumberland, Greater Cumberland Regional Airport",WV,03732,,39.61528,-78.76083,0.0
+K6L4,Logan County Airport,WV,,,37.8557,-81.9159,508.1
+KBPI,Big Piney - Marbleton Airport,WY,24164,72671,42.57805,-110.10972,2117.95
+KBYG,Buffalo - Johnson County Airport,WY,94054,,44.38122,-106.71947,1503.84
+KCOD,Cody,WY,24045,72670,44.51667,-109.01667,1552.04
+KCPR,"Casper, Natrona County International Airport",WY,24089,72569,42.8975,-106.47306,1621.12
+KCYS,"Cheyenne, Cheyenne Airport",WY,24018,72564,41.15789,-104.80812,1864.85
+KDGW,"Douglas, Converse County Airport",WY,94057,,42.79417,-105.38194,1502.97
+KGCC,"Gillette, Gillette-Campbell County Airport",WY,94023,72665,44.33944,-105.54194,1330.28
+KJAC,"Jackson, Jackson Hole Airport",WY,24166,,43.6,-110.73333,1956.51
+KLAR,Laramie Regional Airport,WY,24022,,41.3165,-105.67287,2216.83
+KLND,Lander,WY,24021,72576,42.81472,-108.72806,1698.46
+KP60,Yellowstone Lake,WY,94173,,44.54444,-110.42111,2372.01
+KRIW,Riverton Regional Airport,WY,24061,72672,43.06219,-108.44701,1698.99
+KRKS,"Rock Springs, Rock Springs-Sweetwater County Airport",WY,24027,,41.59417,-109.06528,2059.99
+KRWL,Rawlins Municipal Airport,WY,24057,72669,41.80648,-107.19516,2063.22
+KSHR,Sheridan County Airport,WY,24029,72666,44.76031,-106.97411,1210.39
+KWRL,"Worland, Worland Municipal Airport",WY,24062,,43.96583,-107.95083,1278.49
+KTOR,Torrington Municipal Airport,WY,94053,,42.06134,-104.15842,1278.36
+KEVW,Evanston-Uinta County Airport - Burns Field,WY,04111,,41.27306,-111.03056,2175.9
+KGEY,South Big Horn County Airport,WY,24048,,44.5174,-108.0752,1190.3
+KEMM,KEMMERER,WY,24165,,41.82,-110.56,2220.47
+KAFO,Afton WY,WY,,,42.71133,-110.94217,1896.16
+KU68,Cowley WY,WY,,,44.91167,-108.4455,1246.63
+KDUB,Dubois Municipal Airport,WY,00443,,43.5484,-109.6903,2224.13
+KFBR,Fort Bridger WY,WY,00449,,41.392,-110.40683,2145.49
+KPNA,"Pinedale, Ralph Wenz Field Airport",WY,94086,,42.79528,-109.80694,0.0
+KPOY,Powell Municipal Airport,WY,,,44.8672,-108.7934,1552.04
+KSAA,Saratoga WY,WY,00475,,41.44483,-106.8235,2138.48
+KECS,Mondell Field,WY,00446,,43.8854,-104.3179,1272.84
+KW43,Hulett Municipal Airport,WY,00484,,44.6629,-104.5678,1299.97
+KFEW,Francis E Warren Air Force Base Heliport,WY,94006,,41.13332,-104.86719,0.0
+KFWZ,South Pass,WY,00342,,42.5167,-108.7833,2588.06
+KTBX,Boysen,WY,00353,,43.4667,-108.2333,2225.04
+KEHY,Elk Mountain AWOS,WY,,,41.7253,-106.4594,2225.01
+K82V,Pine Bluffs Municipal Airport,WY,00426,,41.1533,-104.1302,1570.33
+KDWX,Dixon Airport,WY,00444,,41.03704,-107.49976,1996.14
+KGUR,Camp Guernsey,WY,,,42.2597,-104.7283,1341.12
+K46U,Alpine,WY,,,43.1846,-111.0424,1717.24
+KHSG,Hot Springs County Airport,WY,,,43.7136,-108.3897,1492.0
+KEAN,Phifer Airfield - Wheatland,WY,,,42.05472,-104.93711,1455.12

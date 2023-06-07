@@ -5,6 +5,7 @@ module USWeather
     BASE_URL = "https://api.weather.gov/"
 
     COUNTY_FIPS_PATTERN = /\A\d{5}\z/
+    ICAO_PATTERN = /\A[A-Z]{4}\z/
 
     class << self
       def latest_observation(station_id)
@@ -48,29 +49,42 @@ module USWeather
       private
 
       def get(path, params = nil)
-        body = nil
-
         uri = URI.join(BASE_URL, path)
         uri.query = URI.encode_www_form(params) if params
         use_ssl = (uri.scheme == "https")
 
-        puts "GET #{uri}"
+        start_time = Process.clock_gettime(Process::CLOCK_MONOTONIC)
+        response = nil
+        success = false
 
-        Net::HTTP.start(uri.host, uri.port, use_ssl: use_ssl, open_timeout: USWeather.open_timeout, read_timeout: USWeather.read_timeout) do |http|
-          response = http.request(request(uri))
-          if response.is_a?(Net::HTTPSuccess)
-            body = response.body
-            if response["Content-Encoding"] == "gzip"
-              body = Zlib::GzipReader.new(StringIO.new(body)).read
+        begin
+          body = nil
+
+          Net::HTTP.start(uri.host, uri.port, use_ssl: use_ssl, open_timeout: USWeather.open_timeout, read_timeout: USWeather.read_timeout) do |http|
+            response = http.request(request(uri))
+            if response.is_a?(Net::HTTPSuccess)
+              body = response.body
+              if response["Content-Encoding"] == "gzip"
+                body = Zlib::GzipReader.new(StringIO.new(body)).read
+              end
+              success = true
+            elsif response.is_a?(Net::HTTPNotFound)
+              return nil
+            else
+              raise HttpError.new("#{response.code} #{response.message}")
             end
-          elsif response.is_a?(Net::HTTPNotFound)
-            return nil
+          end
+
+          JSON.parse(body)
+        ensure
+          elaspsed_time = Process.clock_gettime(Process::CLOCK_MONOTONIC) - start_time
+          message = "GET #{uri} #{response&.code} #{elaspsed_time.round(3)}s"
+          if success
+            USWeather.logger&.info(message)
           else
-            raise HttpError.new("#{response.code} #{response.message}")
+            USWeather.logger&.error(message)
           end
         end
-
-        JSON.parse(body)
       end
 
       def request(uri)
@@ -100,12 +114,13 @@ module USWeather
       end
 
       def observation_attributes(result)
-        observation = {}
+        observation = HashWithIndifferentAccess.new
 
         observation[:station_id] = result["station"].split("/").last
         observation[:observed_at] = Time.iso8601(result["timestamp"])
         observation[:description] = result["textDescription"]
         observation[:icon_code] = icon_code(result["icon"])
+        observation[:elevation_meters] = result.dig("elevation", "value")&.round(2)
         observation[:temperature_celcius] = result.dig("temperature", "value")&.round(2)
         observation[:dewpoint_celcius] = result.dig("dewpoint", "value")&.round(2)
         humidity = result.dig("relativeHumidity", "value")&.round(4)
@@ -116,6 +131,8 @@ module USWeather
         observation[:barometric_pressure_pascals] = result.dig("barometricPressure", "value")
         observation[:sea_level_pressure_pascals] = result.dig("seaLevelPressure", "value")
         observation[:visibility_meters] = result.dig("visibility", "value")
+        observation[:max_temperature_last_24_hours_celcius] = result.dig("maxTemperatureLast24Hours", "value")&.round(2)
+        observation[:min_temperature_last_24_hours_celcius] = result.dig("minTemperatureLast24Hours", "value")&.round(2)
         observation[:precipitation_1hr_mm] = result.dig("precipitationLastHour", "value")
         observation[:precipitation_3hr_mm] = result.dig("precipitationLast3Hours", "value")
         observation[:precipitation_6hr_mm] = result.dig("precipitationLast6Hours", "value")
@@ -126,7 +143,7 @@ module USWeather
       end
 
       def station_attributes(info)
-        station = {}
+        station = HashWithIndifferentAccess.new
 
         station[:id] = info["stationIdentifier"]
         station[:name] = info["name"]
@@ -149,13 +166,13 @@ module USWeather
       end
 
       def zone_attributes(info)
-        zone = {}
+        zone = HashWithIndifferentAccess.new
 
         zone[:id] = info["id"].split("/").last
         zone[:name] = info["name"]
+        zone[:airport] = zone[:id].match?(ICAO_PATTERN)
 
         zone_details = get(info["@id"])
-        $info = zone_details
         geometry = zone_details&.dig("geometry")
         if geometry
           area = RGeo::WKRep::WKTParser.new(geo_factory).parse(geometry)

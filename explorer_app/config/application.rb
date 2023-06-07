@@ -38,10 +38,8 @@ module ExploreApp
     config.generators.system_tests = nil
 
     config.after_initialize do
-      begin
-        ActiveRecord::Base.connection.execute("CREATE EXTENSION IF NOT EXISTS postgis")
-      rescue ActiveRecord::NoDatabaseError
-      end
+      ActiveRecord::Base.connection.execute("CREATE EXTENSION IF NOT EXISTS postgis")
+    rescue ActiveRecord::NoDatabaseError
     end
   end
 end

@@ -21,6 +21,7 @@ module USWeather
     validates :observed_at, presence: true
     validates :description, presence: true, length: {maximum: 100}
     validates :icon_code, length: {maximum: 20, allow_nil: true}
+    validates :elevation_meters, numericality: {allow_nil: true}
     validates :temperature_celcius, numericality: {allow_nil: true}
     validates :dewpoint_celcius, numericality: {allow_nil: true}
     validates :relative_humidity, numericality: {allow_nil: true, greater_than_or_equal_to: 0}
@@ -28,17 +29,13 @@ module USWeather
     validates :wind_gust_kph, numericality: {allow_nil: true, greater_than_or_equal_to: 0}
     validates :wind_direction_degrees, numericality: {only_integer: true, allow_nil: true, greater_than_or_equal_to: 0, less_than: 360}
     validates :barometric_pressure_pascals, numericality: {only_integer: true, allow_nil: true, greater_than_or_equal_to: 0}
-    validates :sea_level_pressure_pascals, numericality: {only_integer: true, allow_nil: true, greater_than_or_equal_to: 0}
     validates :heat_index_celcius, numericality: {allow_nil: true}
     validates :wind_chill_celcius, numericality: {allow_nil: true}
-    validates :precipitation_1hr_mm, numericality: {only_integer: true, allow_nil: true, greater_than_or_equal_to: 0}
-    validates :precipitation_3hr_mm, numericality: {only_integer: true, allow_nil: true, greater_than_or_equal_to: 0}
-    validates :precipitation_6hr_mm, numericality: {only_integer: true, allow_nil: true, greater_than_or_equal_to: 0}
     validates :visibility_meters, numericality: {only_integer: true, allow_nil: true, greater_than_or_equal_to: 0}
 
     class << self
       def latest(station_or_id)
-        station_id = (station_or_id.is_a?(USWeather::Station) ? station_or_id.id : station_or_id  )
+        station_id = (station_or_id.is_a?(USWeather::Station) ? station_or_id.id : station_or_id)
 
         existing = where(station_id: station_id).where(arel_table[:observed_at].gt(REFRESH_INTERVAL.ago)).order(observed_at: :desc).first
         return existing if existing
@@ -49,7 +46,7 @@ module USWeather
         existing = where(station_id: station_id, observed_at: attributes[:observed_at]).first
         return existing if existing
 
-        new(attributes)
+        new(attributes.slice(*column_names))
       end
 
       def latest!(weather_station)

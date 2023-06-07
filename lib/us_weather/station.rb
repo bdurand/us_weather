@@ -8,9 +8,11 @@ module USWeather
 
     scope :active, -> { where(active: true) }
 
+    scope :airport, -> { where(airport: true) }
+
     scope :order_by_distance, ->(lat, lng) {
       point = geo_factory.point(lng, lat)
-      order(Arel.sql"#{table_name}.lnglat::geometry <-> ST_GeographyFromText('#{point.to_s}')")
+      order(Arel.sql("#{table_name}.lnglat::geometry <-> ST_GeographyFromText('#{point}')"))
     }
 
     belongs_to :forecast_zone, class_name: "USWeather::Zone", foreign_key: "forecast_zone_id", inverse_of: :observation_stations, optional: true
@@ -23,11 +25,33 @@ module USWeather
     validates :state_code, length: {is: 2, allow_nil: true}
 
     class << self
-      def closest_to(lat, lng)
-        zone = Zone.select([:id, :name]).closest_to(lat, lng)
-        return nil unless zone
+      def closest_to(lat:, lng:, limit: 1, airport: true)
+        finder = active.order_by_distance(lat, lng).limit(limit)
 
-        zone.observation_stations.order_by_distance(lat, lng).first
+        finder = finder.airport if airport
+
+        zone = Zone.select([:id, :name]).closest_to(lat: lat, lng: lng)
+        finder = finder.where(forecast_zone_id: zone.id) if zone
+
+        finder
+      end
+
+      def import
+        all_ids = active.pluck(:id).to_set
+        WeatherAPI.each_station do |attributes|
+          station = find_or_initialize_by(id: attributes[:id])
+          station.assign_attributes(attributes)
+          station.save!
+          all_ids.delete(station.id)
+        end
+
+        all_ids.each do |id|
+          station = find_by(id: id, active: true)
+          if station
+            station.active = false
+            station.save(validate: false)
+          end
+        end
       end
     end
 

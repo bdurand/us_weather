@@ -19,7 +19,7 @@ module USWeather
         night: "partly-cloudy-night"
       },
       bkn: {
-        description: "Mostly cloudy"
+        description: "Mostly cloudy",
         day: "cloudy",
         night: "cloudy"
       },
@@ -69,7 +69,7 @@ module USWeather
         night: "sleet"
       },
       snow_sleet: {
-        description: "Snow/sleet"
+        description: "Snow/sleet",
         day: "snow",
         night: "snow"
       },

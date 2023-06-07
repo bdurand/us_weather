@@ -28,3 +28,11 @@ namespace :appraisals do
 end
 
 require "standard/rake"
+
+namespace :db do
+  task :create do
+    unless system("cd explorer_app && BUNDLE_GEMFILE=Gemfile bin/rails db:create")
+      raise "Failed to create database"
+    end
+  end
+end

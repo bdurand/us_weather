@@ -37,5 +37,11 @@ module USWeather
     def read_timeout
       @read_timeout ||= 10.0
     end
+
+    attr_writer :logger
+
+    def logger
+      @logger ||= Rails.logger if defined?(Rails.logger)
+    end
   end
 end

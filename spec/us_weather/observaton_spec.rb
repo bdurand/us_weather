@@ -5,8 +5,8 @@ require_relative "../spec_helper"
 describe USWeather::Observation do
   describe "latest" do
     it "returns the current observation" do
-      stub_request(:get, "https://api.weather.gov/stations/KCCR/observations/latest").
-        to_return(status: 200, body: File.read("spec/fixtures/KCCR.json"), headers: {"Content-Type" => "application/ld+json"})
+      stub_request(:get, "https://api.weather.gov/stations/KCCR/observations/latest")
+        .to_return(status: 200, body: File.read("spec/fixtures/KCCR.json"), headers: {"Content-Type" => "application/ld+json"})
 
       observation = USWeather::Observation.latest("KCCR")
       expect(observation.station_id).to eq("KCCR")
@@ -14,8 +14,8 @@ describe USWeather::Observation do
     end
 
     it "returns an existing observation if it already exists" do
-      stub_request(:get, "https://api.weather.gov/stations/KCCR/observations/latest").
-        to_return(status: 200, body: File.read("spec/fixtures/KCCR.json"), headers: {"Content-Type" => "application/ld+json"})
+      stub_request(:get, "https://api.weather.gov/stations/KCCR/observations/latest")
+        .to_return(status: 200, body: File.read("spec/fixtures/KCCR.json"), headers: {"Content-Type" => "application/ld+json"})
 
       time = Time.parse("2023-06-06T02:53:00+00:00")
       existing_observation = USWeather::Observation.create!(station_id: "KCCR", observed_at: time, description: "Clear")
@@ -31,8 +31,8 @@ describe USWeather::Observation do
     end
 
     it "queries the NOAA API if the more recent observation is older than 15 minutes" do
-      stub_request(:get, "https://api.weather.gov/stations/KCCR/observations/latest").
-        to_return(status: 200, body: File.read("spec/fixtures/KCCR.json"), headers: {"Content-Type" => "application/ld+json"})
+      stub_request(:get, "https://api.weather.gov/stations/KCCR/observations/latest")
+        .to_return(status: 200, body: File.read("spec/fixtures/KCCR.json"), headers: {"Content-Type" => "application/ld+json"})
 
       time = 16.minutes.ago
       existing_observation = USWeather::Observation.create!(station_id: "KCCR", observed_at: time, description: "Clear")
@@ -48,8 +48,8 @@ describe USWeather::Observation do
 
   describe "latest!" do
     it "fetches the current observation and saves it" do
-      stub_request(:get, "https://api.weather.gov/stations/KCCR/observations/latest").
-        to_return(status: 200, body: File.read("spec/fixtures/KCCR.json"), headers: {"Content-Type" => "application/ld+json"})
+      stub_request(:get, "https://api.weather.gov/stations/KCCR/observations/latest")
+        .to_return(status: 200, body: File.read("spec/fixtures/KCCR.json"), headers: {"Content-Type" => "application/ld+json"})
 
       observation = USWeather::Observation.latest!("KCCR")
       expect(observation).to be_persisted

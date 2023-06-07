@@ -94,11 +94,11 @@
     },
     "maxTemperatureLast24Hours": {
         "unitCode": "wmoUnit:degC",
-        "value": null
+        "value": 18.1
     },
     "minTemperatureLast24Hours": {
         "unitCode": "wmoUnit:degC",
-        "value": null
+        "value": 12.8
     },
     "precipitationLastHour": {
         "unitCode": "wmoUnit:mm",

@@ -20,6 +20,7 @@ Gem::Specification.new do |spec|
     bin/
     gemfiles/
     spec/
+    explorer_app/
   ]
   spec.files = Dir.chdir(File.expand_path("..", __FILE__)) do
     `git ls-files -z`.split("\x0").reject { |f| ignore_files.any? { |path| f.start_with?(path) } }
@@ -29,8 +30,8 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = ">= 2.5"
 
-  spec.add_dependency "activerecord", ">= 5"
-  spec.add_dependency "sun", "~> 1.0"
+  spec.add_dependency "rgeo-activerecord"
+  spec.add_dependency "sun"
 
   spec.add_development_dependency "bundler"
 end

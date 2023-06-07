@@ -1,0 +1,12 @@
+default: &default
+  url: <%= ENV.fetch("DATABASE_URL").inspect %>
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  timeout: 5000
+
+development:
+  <<: *default
+  database: us_weather_development
+
+test:
+  <<: *default
+  database: us_weather_test

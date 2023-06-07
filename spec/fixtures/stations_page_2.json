@@ -1,0 +1,117 @@
+{
+    "@context": {
+        "@version": "1.1",
+        "wx": "https://api.weather.gov/ontology#",
+        "s": "https://schema.org/",
+        "geo": "http://www.opengis.net/ont/geosparql#",
+        "unit": "http://codes.wmo.int/common/unit/",
+        "@vocab": "https://api.weather.gov/ontology#",
+        "geometry": {
+            "@id": "s:GeoCoordinates",
+            "@type": "geo:wktLiteral"
+        },
+        "city": "s:addressLocality",
+        "state": "s:addressRegion",
+        "distance": {
+            "@id": "s:Distance",
+            "@type": "s:QuantitativeValue"
+        },
+        "bearing": {
+            "@type": "s:QuantitativeValue"
+        },
+        "value": {
+            "@id": "s:value"
+        },
+        "unitCode": {
+            "@id": "s:unitCode",
+            "@type": "@id"
+        },
+        "forecastOffice": {
+            "@type": "@id"
+        },
+        "forecastGridData": {
+            "@type": "@id"
+        },
+        "publicZone": {
+            "@type": "@id"
+        },
+        "county": {
+            "@type": "@id"
+        },
+        "observationStations": {
+            "@container": "@list",
+            "@type": "@id"
+        }
+    },
+    "@graph": [
+        {
+            "@id": "https://api.weather.gov/stations/0003P",
+            "@type": "wx:ObservationStation",
+            "geometry": "POINT(-112.10996 33.61395)",
+            "elevation": {
+                "unitCode": "wmoUnit:m",
+                "value": 398.06880000000001
+            },
+            "stationIdentifier": "0003P",
+            "name": "Cave Creek Golf Course",
+            "timeZone": "America/Phoenix",
+            "forecast": "https://api.weather.gov/zones/forecast/AZZ544",
+            "county": "https://api.weather.gov/zones/county/AZC013",
+            "fireWeatherZone": "https://api.weather.gov/zones/fire/AZZ132"
+        },
+        {
+            "@id": "https://api.weather.gov/stations/0004W",
+            "@type": "wx:ObservationStation",
+            "geometry": "POINT(-84.24158 30.60794)",
+            "elevation": {
+                "unitCode": "wmoUnit:m",
+                "value": 54.863999999999997
+            },
+            "stationIdentifier": "0004W",
+            "name": "Deerlake Middle",
+            "timeZone": "America/New_York",
+            "forecast": "https://api.weather.gov/zones/forecast/FLZ017",
+            "county": "https://api.weather.gov/zones/county/FLC073",
+            "fireWeatherZone": "https://api.weather.gov/zones/fire/FLZ017"
+        },
+        {
+            "@id": "https://api.weather.gov/stations/0005P",
+            "@type": "wx:ObservationStation",
+            "geometry": "POINT(-111.80712 33.44664)",
+            "elevation": {
+                "unitCode": "wmoUnit:m",
+                "value": 384.9624
+            },
+            "stationIdentifier": "0005P",
+            "name": "Manchester Park",
+            "timeZone": "America/Phoenix",
+            "forecast": "https://api.weather.gov/zones/forecast/AZZ548",
+            "county": "https://api.weather.gov/zones/county/AZC013",
+            "fireWeatherZone": "https://api.weather.gov/zones/fire/AZZ132"
+        },
+        {
+            "@id": "https://api.weather.gov/stations/0005W",
+            "@type": "wx:ObservationStation",
+            "geometry": "POINT(-84.27631 30.55721)",
+            "elevation": {
+                "unitCode": "wmoUnit:m",
+                "value": 71.0184
+            },
+            "stationIdentifier": "0005W",
+            "name": "Hawks Rise Elementary",
+            "timeZone": "America/New_York",
+            "forecast": "https://api.weather.gov/zones/forecast/FLZ017",
+            "county": "https://api.weather.gov/zones/county/FLC073",
+            "fireWeatherZone": "https://api.weather.gov/zones/fire/FLZ017"
+        }
+    ],
+    "observationStations": [
+        "https://api.weather.gov/stations/0003P",
+        "https://api.weather.gov/stations/0004W",
+        "https://api.weather.gov/stations/0005P",
+        "https://api.weather.gov/stations/0005W"
+    ],
+    "pagination": {
+      "next": "https://api.weather.gov/stations?limit=500&cursor=page3"
+    }
+}

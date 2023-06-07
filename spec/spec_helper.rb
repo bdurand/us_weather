@@ -14,7 +14,15 @@ end
 
 Bundler.require(:default, :test)
 
-ActiveRecord::Base.establish_connection("adapter" => "sqlite3", "database" => ":memory:")
+Dotenv.load(".env")
+
+ActiveRecord::Base.establish_connection("url" => ENV.fetch("DATABASE_URL"), "database" => "us_weather_test")
+ActiveRecord::Base.connection.execute("CREATE EXTENSION IF NOT EXISTS postgis")
+%w[us_weather_stations us_weather_zones us_weather_observations].each do |table_name|
+  if ActiveRecord::Base.connection.table_exists?(table_name)
+    ActiveRecord::Base.connection.drop_table(table_name)
+  end
+end
 
 WebMock.disable_net_connect!(allow_localhost: false)
 
@@ -26,14 +34,12 @@ Dir.glob(File.expand_path("../db/migrate/*.rb", __dir__)).sort.each do |path|
   class_name.constantize.migrate(:up)
 end
 
-require_relative "../lib/us_weather/weather_station"
-require_relative "../lib/us_weather/weather_observation"
-
 RSpec.configure do |config|
   config.order = :random
 
   config.before do
-    USWeather::WeatherStation.delete_all
-    USWeather::WeatherObservation.delete_all
+    USWeather::Zone.delete_all
+    USWeather::Station.delete_all
+    USWeather::Observation.delete_all
   end
 end

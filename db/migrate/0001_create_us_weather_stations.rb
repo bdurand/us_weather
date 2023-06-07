@@ -3,19 +3,18 @@
 class CreateUsWeatherStations < ActiveRecord::Migration[5.0]
   def up
     create_table :us_weather_stations, id: false do |t|
-      t.string :icao_id, null: false, limit: 5, primary_key: true
+      t.string :id, null: false, limit: 12, primary_key: true
       t.string :name, null: false, limit: 100
-      t.string :state, null: false, limit: 2
-      t.float :lat, null: false
-      t.float :lng, null: false
-      t.float :elevation_meters, null: false
-      t.integer :wban_id, null: true, limit: 4, index: {unique: true}
-      t.integer :wmo_id, null: true, limit: 4, index: {unique: true}
       t.boolean :active, null: false, default: true
+      t.string :county_id, null: true, limit: 6
+      t.string :forecast_zone_id, null: true, limit: 6
+      t.string :fire_zone_id, null: true, limit: 6
+      t.string :county_fips_code, null: true, limit: 5
+      t.string :state_code, null: true, limit: 2
+      t.string :time_zone, null: true, limit: 30
+      t.geography "lnglat", limit: {:srid=>4326, :type=>"st_point", :geographic=>true}, index: {using: :gist}
       t.timestamps
     end
-
-    add_index :us_weather_stations, [:lng, :lat]
   end
 
   def down

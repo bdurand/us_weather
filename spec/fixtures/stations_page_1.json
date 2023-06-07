@@ -1,0 +1,117 @@
+{
+  "@context": {
+    "@version": "1.1",
+    "wx": "https://api.weather.gov/ontology#",
+    "s": "https://schema.org/",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "unit": "http://codes.wmo.int/common/unit/",
+    "@vocab": "https://api.weather.gov/ontology#",
+    "geometry": {
+      "@id": "s:GeoCoordinates",
+      "@type": "geo:wktLiteral"
+    },
+    "city": "s:addressLocality",
+    "state": "s:addressRegion",
+    "distance": {
+      "@id": "s:Distance",
+      "@type": "s:QuantitativeValue"
+    },
+    "bearing": {
+      "@type": "s:QuantitativeValue"
+    },
+    "value": {
+      "@id": "s:value"
+    },
+    "unitCode": {
+      "@id": "s:unitCode",
+      "@type": "@id"
+    },
+    "forecastOffice": {
+      "@type": "@id"
+    },
+    "forecastGridData": {
+      "@type": "@id"
+    },
+    "publicZone": {
+      "@type": "@id"
+    },
+    "county": {
+      "@type": "@id"
+    },
+    "observationStations": {
+      "@container": "@list",
+      "@type": "@id"
+    }
+  },
+  "@graph": [
+    {
+      "@id": "https://api.weather.gov/stations/0001P",
+      "@type": "wx:ObservationStation",
+      "geometry": "POINT(-112.06986 33.31885)",
+      "elevation": {
+        "unitCode": "wmoUnit:m",
+        "value": 459.9432
+      },
+      "stationIdentifier": "0001P",
+      "name": "Tlgraphe Pass",
+      "timeZone": "America/Phoenix",
+      "forecast": "https://api.weather.gov/zones/forecast/AZZ550",
+      "county": "https://api.weather.gov/zones/county/AZC013",
+      "fireWeatherZone": "https://api.weather.gov/zones/fire/AZZ132"
+    },
+    {
+      "@id": "https://api.weather.gov/stations/0001W",
+      "@type": "wx:ObservationStation",
+      "geometry": "POINT(-84.12249 30.43633)",
+      "elevation": {
+        "unitCode": "wmoUnit:m",
+        "value": 21.0312
+      },
+      "stationIdentifier": "0001W",
+      "name": "Chaires Elementary",
+      "timeZone": "America/New_York",
+      "forecast": "https://api.weather.gov/zones/forecast/FLZ017",
+      "county": "https://api.weather.gov/zones/county/FLC073",
+      "fireWeatherZone": "https://api.weather.gov/zones/fire/FLZ017"
+    },
+    {
+      "@id": "https://api.weather.gov/stations/0002P",
+      "@type": "wx:ObservationStation",
+      "geometry": "POINT(-111.00138 32.42587)",
+      "elevation": {
+        "unitCode": "wmoUnit:m",
+        "value": 854.0496
+      },
+      "stationIdentifier": "0002P",
+      "name": "Oro Valley",
+      "timeZone": "America/Phoenix",
+      "forecast": "https://api.weather.gov/zones/forecast/AZZ504",
+      "county": "https://api.weather.gov/zones/county/AZC019",
+      "fireWeatherZone": "https://api.weather.gov/zones/fire/AZZ150"
+    },
+    {
+      "@id": "https://api.weather.gov/stations/0002W",
+      "@type": "wx:ObservationStation",
+      "geometry": "POINT(-84.22366 30.53842)",
+      "elevation": {
+        "unitCode": "wmoUnit:m",
+        "value": 39.9288
+      },
+      "stationIdentifier": "0002W",
+      "name": "DeSoto Trail Elementary",
+      "timeZone": "America/New_York",
+      "forecast": "https://api.weather.gov/zones/forecast/FLZ017",
+      "county": "https://api.weather.gov/zones/county/FLC073",
+      "fireWeatherZone": "https://api.weather.gov/zones/fire/FLZ017"
+    }
+  ],
+  "observationStations": [
+    "https://api.weather.gov/stations/0001P",
+    "https://api.weather.gov/stations/0001W",
+    "https://api.weather.gov/stations/0002P",
+    "https://api.weather.gov/stations/0002W"
+  ],
+  "pagination": {
+    "next": "https://api.weather.gov/stations?limit=500&cursor=page2"
+  }
+}

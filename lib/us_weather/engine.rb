@@ -3,8 +3,9 @@
 module USWeather
   class Engine < Rails::Engine
     config.before_eager_load do
-      require_relative "weather_station"
-      require_relative "weather_observation"
+      require_relative "zone"
+      require_relative "station"
+      require_relative "observation"
     end
   end
 end

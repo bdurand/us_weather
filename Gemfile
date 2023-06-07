@@ -4,7 +4,8 @@ gemspec
 
 gem "rspec", "~> 3.12"
 gem "webmock"
-gem "sqlite3"
+gem "pg"
+gem "activerecord-postgis-adapter"
 gem "dotenv"
 gem "appraisal"
 gem "standard", "~> 1.0"

@@ -4,9 +4,15 @@ require "net/http"
 require "uri"
 require "json"
 require "sun"
+require "rgeo"
 
 require_relative "us_weather/version"
-require_relative "us_weather/noaa_observation"
+require_relative "us_weather/observation"
+require_relative "us_weather/state"
+require_relative "us_weather/station"
+require_relative "us_weather/weather_api"
+require_relative "us_weather/zone"
+
 require_relative "us_weather/engine" if defined?(Rails::Engine)
 
 module USWeather
@@ -23,13 +29,13 @@ module USWeather
     attr_writer :open_timeout
 
     def open_timeout
-      @open_timeout ||= 5.0
+      @open_timeout ||= 10.0
     end
 
     attr_writer :read_timeout
 
     def read_timeout
-      @read_timeout ||= 5.0
+      @read_timeout ||= 10.0
     end
   end
 end

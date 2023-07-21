@@ -1,4 +1,4 @@
-# Unified Rails Configuration :construction:
+# U.S. Weather :construction:
 
 [![Continuous Integration](https://github.com/bdurand/us_weather/actions/workflows/continuous_integration.yml/badge.svg)](https://github.com/bdurand/us_weather/actions/workflows/continuous_integration.yml)
 [![Ruby Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://github.com/testdouble/standard)
